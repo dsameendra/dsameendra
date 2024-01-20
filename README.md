@@ -1,8 +1,10 @@
-### Hi there 👋
-- 💡 Exploring the world of transactions
+### Hiya 👋
+I'm Dumindu (but you can call me dsplayerX, sounds cool imo 😜). A 24-year-old software engineering undergrad, just busy coding away one function at a time. 
+- ♾️ Exploring the world of transactions
 - 🎨 Loving generative AI, especially stable diffusion
 - 🩰 Choreographing code in Ballerina
 - 🐍 Crafting quirky Python scripts for fun
+- 👁️ Will detect your UI mistakes from a mile away 😉
 
 <!--
 **dsplayerX/dsplayerX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
