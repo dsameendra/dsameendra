@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 💡 Exploring the world of transactions
+- 🎨 Loving generative AI, especially stable diffusion
+- 🩰 Choreographing code in Ballerina
+- 🐍 Crafting quirky Python scripts for fun
 
 <!--
 **dsplayerX/dsplayerX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
