@@ -1,5 +1,5 @@
 ### Hiya 👋
-I'm Dumindu (but you can call me dsplayerX, sounds cool imo 😜). A 24-year-old software engineering undergrad, just busy coding away one function at a time. 
+It's Dumindu, A 24-year-old software engineering undergrad, just busy coding away one function at a time. 
 - ♾️ Exploring the world of transactions
 - 🎨 Loving generative AI, especially stable diffusion
 - 🩰 Choreographing code in Ballerina
