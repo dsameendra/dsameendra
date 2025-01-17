@@ -1,4 +1,4 @@
-### Hiya 👋
+### Hello 👋
 It's Dumindu, A 24-year-old software engineering undergrad, just busy coding away one function at a time. 
 - ♾️ Exploring the world of transactions
 - 🎨 Loving generative AI, especially stable diffusion
