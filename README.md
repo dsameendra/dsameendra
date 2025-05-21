@@ -1,4 +1,6 @@
-<img src="banner.svg" alt="Banner" width="100%" height="auto" />
+<p align="center">
+<img src="banner.svg" alt="Banner" width="60%" height="auto" />
+</p>
 
 <p align="center" style="font-style: italic;">
   <i>“Code is like humor. When you have to explain it, it’s bad.”</i><br/>
