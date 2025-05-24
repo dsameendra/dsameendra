@@ -10,7 +10,7 @@
             <feBlend mode="normal" in="SourceGraphic" in2="e1-dsameendra" result="shape"></feBlend>
         </filter>
 
-<!--         <radialGradient id="p0-dsameendra" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(325.5 680.5) rotate(15.6949) scale(691.274 559.341)">
+        <radialGradient id="p0-dsameendra" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(325.5 680.5) rotate(15.6949) scale(691.274 559.341)">
             <stop stop-color="#0D1117" stop-opacity="0.12"></stop>
             <stop offset="1" stop-color="#0D1117" stop-opacity="0"></stop>
         </radialGradient>
@@ -18,7 +18,7 @@
             <stop stop-color="#0D1117" stop-opacity="0.15"></stop> <stop offset="1" stop-color="#0D1117" stop-opacity="0"></stop>
         </radialGradient>
         <radialGradient id="p2-dsameendra" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(626 816) rotate(-2.07138) scale(943.598 733.209)">
-            <stop stop-color="0D1117" stop-opacity="0.08"></stop>
+            <stop stop-color="#0D1117" stop-opacity="0.08"></stop>
             <stop offset="1" stop-color="#0D1117" stop-opacity="0"></stop>
         </radialGradient>
         <radialGradient id="p3-dsameendra" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(-232.837 427.515) rotate(47.2401) scale(1118.59 1176.88)">
@@ -26,13 +26,13 @@
         </radialGradient>
 
         <radialGradient id="p4-dsameendra" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 315) rotate(90) scale(491 910.359)">
-            <stop stop-color="0D1117" stop-opacity="0.15"></stop>
+            <stop stop-color="#0D1117" stop-opacity="0.15"></stop>
             <stop offset="1" stop-opacity="0"></stop>
         </radialGradient>
         <radialGradient id="p5-dsameendra" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 315) rotate(90) scale(235 382.651)">
-            <stop stop-color="0D1117" stop-opacity="0.2"></stop>
+            <stop stop-color="#0D1117" stop-opacity="0.2"></stop>
             <stop offset="1" stop-opacity="0"></stop>
-        </radialGradient> -->
+        </radialGradient>
 
         <clipPath id="b-dsameendra">
             <rect x="25" y="25" width="1150" height="580" rx="24" fill="#0D1117"></rect> </clipPath>
@@ -40,10 +40,10 @@
 
     <g filter="url(#s-dsameendra)">
         <rect x="25" y="25" width="1150" height="580" rx="24" fill="#0D1117"></rect> <g opacity="0.75">
-<!--             <rect x="25" y="25" width="1150" height="580" rx="24" fill="url(#p0-dsameendra)"></rect>
+            <rect x="25" y="25" width="1150" height="580" rx="24" fill="url(#p0-dsameendra)"></rect>
             <rect x="25" y="25" width="1150" height="580" rx="24" fill="url(#p1-dsameendra)"></rect>
             <rect x="25" y="25" width="1150" height="580" rx="24" fill="url(#p2-dsameendra)"></rect>
-            <rect x="25" y="25" width="1150" height="580" rx="24" fill="url(#p3-dsameendra)"></rect> -->
+            <rect x="25" y="25" width="1150" height="580" rx="24" fill="url(#p3-dsameendra)"></rect>
         </g>
     </g>
 
