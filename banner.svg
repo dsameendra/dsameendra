@@ -10,7 +10,7 @@
             <feBlend mode="normal" in="SourceGraphic" in2="e1-dsameendra" result="shape"></feBlend>
         </filter>
 
-        <radialGradient id="p0-dsameendra" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(325.5 680.5) rotate(15.6949) scale(691.274 559.341)">
+<!--         <radialGradient id="p0-dsameendra" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(325.5 680.5) rotate(15.6949) scale(691.274 559.341)">
             <stop stop-color="#0D1117" stop-opacity="0.12"></stop>
             <stop offset="1" stop-color="#0D1117" stop-opacity="0"></stop>
         </radialGradient>
@@ -32,7 +32,7 @@
         <radialGradient id="p5-dsameendra" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 315) rotate(90) scale(235 382.651)">
             <stop stop-color="#0D1117" stop-opacity="0.2"></stop>
             <stop offset="1" stop-opacity="0"></stop>
-        </radialGradient>
+        </radialGradient> -->
 
         <clipPath id="b-dsameendra">
             <rect x="25" y="25" width="1150" height="580" rx="24" fill="#0D1117"></rect> </clipPath>
