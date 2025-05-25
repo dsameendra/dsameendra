@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Be content with your lot; one cannot be first in everything.”</i><br/>
-  — Aesop
+  <i>“He is no fool who gives what he cannot keep to gain what he cannot lose.”</i><br/>
+  — Jim Elliot
 </p>
 </div>
 
