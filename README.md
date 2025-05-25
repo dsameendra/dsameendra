@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Be like the flower, turn your face to the sun.”</i><br/>
-  — Kahlil Gibran
+  <i>“Life is a progress, and not a station.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
