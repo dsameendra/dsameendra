@@ -1,3 +1,5 @@
+// This script fetches a random programming quote and updates the README.md file with it.
+
 const fs = require('fs');
 const https = require('https');
 
@@ -22,24 +24,24 @@ function updateReadme(quote, author) {
   const quoteBlock = `
 <p align="center" style="font-style: italic;">
   <i>“${quote}”</i><br/>
-  <span style="color:#CB0200;">— ${author}</span>
+  — ${author}
 </p>`;
 
-  const newReadme = readme.replace(
+  const updated = readme.replace(
     new RegExp(`${startTag}[\\s\\S]*?${endTag}`),
     `${startTag}\n${quoteBlock}\n${endTag}`
   );
 
-  fs.writeFileSync(readmePath, newReadme);
+  fs.writeFileSync(readmePath, updated);
+  console.log('README updated with new quote.');
 }
 
 (async () => {
   try {
     const { en: quote, author } = await fetchQuote();
     updateReadme(quote, author);
-    console.log('✅ README updated with new quote.');
   } catch (err) {
-    console.error('❌ Failed to update README:', err);
+    console.error('Failed to update README:', err);
     process.exit(1);
   }
 })();

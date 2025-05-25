@@ -6,7 +6,7 @@
 
 <p align="center" style="font-style: italic;">
   <i>“Code is like humor. When you have to explain it, it’s bad.”</i><br/>
-  <span style="color:#CB0200;">— Cory House</span>
+  — Cory House
 </p>
 
 <div style="margin-top: 20px;"></div>
