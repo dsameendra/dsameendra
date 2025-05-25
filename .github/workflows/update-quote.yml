@@ -2,7 +2,7 @@ name: Update README with Quote
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight UTC
+    - cron: '0 */6 * * *' # Runs every 6 hours
   workflow_dispatch:     # Manual trigger
 
 permissions:
