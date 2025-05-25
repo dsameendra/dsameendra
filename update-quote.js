@@ -1,14 +1,14 @@
 // This script fetches a random programming quote and updates the README.md file with it.
 
 const fs = require('fs');
-const https = require('https');
+const http = require('http');
 
-const quoteApi = 'https://programming-quotes-api.azurewebsites.net/api/quotes/random';
+const quoteApi = 'http://api.quotable.io/random';
 const readmePath = 'README.md';
 
 function fetchQuote() {
   return new Promise((resolve, reject) => {
-    https.get(quoteApi, (res) => {
+    http.get(quoteApi, (res) => {
       let data = '';
       res.on('data', chunk => (data += chunk));
       res.on('end', () => resolve(JSON.parse(data)));
