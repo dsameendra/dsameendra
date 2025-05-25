@@ -4,10 +4,12 @@
 
 <div style="margin-top: 20px;"></div>
 
+<div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Code is like humor. When you have to explain it, it’s bad.”</i><br/>
-  — Cory House
+  <i>“One of the most beautiful qualities of true friendship is to understand and to be understood.”</i><br/>
+  — Seneca the Younger
 </p>
+</div>
 
 <div style="margin-top: 20px;"></div>
 
