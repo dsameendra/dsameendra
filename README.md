@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Let the beauty of what you love be what you do.”</i><br/>
-  — Rumi
+  <i>“Be content with your lot; one cannot be first in everything.”</i><br/>
+  — Aesop
 </p>
 </div>
 
