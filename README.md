@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“He is no fool who gives what he cannot keep to gain what he cannot lose.”</i><br/>
-  — Jim Elliot
+  <i>“Be like the flower, turn your face to the sun.”</i><br/>
+  — Kahlil Gibran
 </p>
 </div>
 
