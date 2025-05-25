@@ -1,5 +1,12 @@
 {
-  "name": "quote-readme-updater",
+  "name": "dsameendra",
   "version": "1.0.0",
-  "type": "module"
+  "description": "<p align=\"center\"> <img src=\"banner.svg\" alt=\"Banner\" width=\"60%\" height=\"auto\" /> </p>",
+  "main": "update-quote.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
