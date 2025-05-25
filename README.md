@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“One of the most beautiful qualities of true friendship is to understand and to be understood.”</i><br/>
-  — Seneca the Younger
+  <i>“The word philosophy sounds high-minded, but it simply means the love of wisdom. If you love something, you don't just read about it; you hug it, you mess with it, you play with it, you argue with it.”</i><br/>
+  — Hugh Jackman
 </p>
 </div>
 
