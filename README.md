@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The possibilities are numerous once we decide to act and not react.”</i><br/>
-  — George Bernard Shaw
+  <i>“Self-trust is the first secret of success.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
