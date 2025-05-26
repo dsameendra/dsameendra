@@ -6,7 +6,7 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Life is a progress, and not a station.”</i><br/>
+  <i>“Truth, and goodness, and beauty are but different faces of the same all.”</i><br/>
   — Ralph Waldo Emerson
 </p>
 </div>
