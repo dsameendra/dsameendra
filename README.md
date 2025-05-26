@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Truth is powerful and it prevails.”</i><br/>
-  — Sojourner Truth
+  <i>“The possibilities are numerous once we decide to act and not react.”</i><br/>
+  — George Bernard Shaw
 </p>
 </div>
 
