@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Truth, and goodness, and beauty are but different faces of the same all.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“Truth is powerful and it prevails.”</i><br/>
+  — Sojourner Truth
 </p>
 </div>
 
