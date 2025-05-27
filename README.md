@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking.”</i><br/>
-  — Alfred Korzybski
+  <i>“If you want things to be different, perhaps the answer is to become different yourself.”</i><br/>
+  — Norman Vincent Peale
 </p>
 </div>
 
