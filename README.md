@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“When times are bad is when the real entrepreneurs emerge.”</i><br/>
-  — Robert Kiyosaki
+  <i>“There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking.”</i><br/>
+  — Alfred Korzybski
 </p>
 </div>
 
