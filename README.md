@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour.”</i><br/>
-  — Mary Kay Ash
+  <i>“Love is like a friendship caught on fire. In the beginning a flame, very pretty, often hot and fierce, but still only light and flickering. As love grows older, our hearts mature and our love becomes as coals, deep-burning and unquenchable.”</i><br/>
+  — Bruce Lee
 </p>
 </div>
 
