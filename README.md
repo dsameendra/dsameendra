@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you want things to be different, perhaps the answer is to become different yourself.”</i><br/>
-  — Norman Vincent Peale
+  <i>“The most certain sign of wisdom is cheerfulness.”</i><br/>
+  — Michel de Montaigne
 </p>
 </div>
 
