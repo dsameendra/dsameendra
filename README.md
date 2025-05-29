@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Football is football and talent is talent. But the mindset of your team makes all the difference.”</i><br/>
-  — Robert Griffin III
+  <i>“Rejoicing in our joy, not suffering over our suffering, makes someone a friend.”</i><br/>
+  — Friedrich Nietzsche
 </p>
 </div>
 
