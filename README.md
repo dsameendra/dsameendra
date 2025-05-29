@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Rejoicing in our joy, not suffering over our suffering, makes someone a friend.”</i><br/>
-  — Friedrich Nietzsche
+  <i>“Courage is rightly esteemed the first of human qualities... because it is the quality which guarantees all others.”</i><br/>
+  — Winston Churchill
 </p>
 </div>
 
