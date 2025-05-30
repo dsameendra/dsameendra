@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Courage is rightly esteemed the first of human qualities... because it is the quality which guarantees all others.”</i><br/>
-  — Winston Churchill
+  <i>“The deepest craving of human nature is the need to be appreciated.”</i><br/>
+  — William James
 </p>
 </div>
 
