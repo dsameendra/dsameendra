@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The highest stage in moral culture at which we can arrive is when we recognize that we ought to control our thoughts.”</i><br/>
-  — Charles Darwin
+  <i>“I decided that it was not wisdom that enabled poets to write their poetry, but a kind of instinct or inspiration, such as you find in seers and prophets who deliver all their sublime messages without knowing in the least what they mean.”</i><br/>
+  — Isocrates
 </p>
 </div>
 
