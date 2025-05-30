@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The deepest craving of human nature is the need to be appreciated.”</i><br/>
-  — William James
+  <i>“Every friendship goes through ups and downs. Dysfunctional patterns set in; external situations cause internal friction; you grow apart and then bounce back together.”</i><br/>
+  — Mariella Frostrup
 </p>
 </div>
 
