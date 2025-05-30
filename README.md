@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Every friendship goes through ups and downs. Dysfunctional patterns set in; external situations cause internal friction; you grow apart and then bounce back together.”</i><br/>
-  — Mariella Frostrup
+  <i>“The highest stage in moral culture at which we can arrive is when we recognize that we ought to control our thoughts.”</i><br/>
+  — Charles Darwin
 </p>
 </div>
 
