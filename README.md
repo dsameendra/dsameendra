@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A ruffled mind makes a restless pillow.”</i><br/>
-  — Charlotte Brontë
+  <i>“Love is flower like; Friendship is like a sheltering tree.”</i><br/>
+  — Samuel Taylor Coleridge
 </p>
 </div>
 
