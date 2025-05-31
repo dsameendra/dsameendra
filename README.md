@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Love is flower like; Friendship is like a sheltering tree.”</i><br/>
-  — Samuel Taylor Coleridge
+  <i>“Life is the flower for which love is the honey.”</i><br/>
+  — Victor Hugo
 </p>
 </div>
 
