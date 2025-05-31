@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I decided that it was not wisdom that enabled poets to write their poetry, but a kind of instinct or inspiration, such as you find in seers and prophets who deliver all their sublime messages without knowing in the least what they mean.”</i><br/>
-  — Isocrates
+  <i>“I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain.”</i><br/>
+  — Oprah Winfrey
 </p>
 </div>
 
