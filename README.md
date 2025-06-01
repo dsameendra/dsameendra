@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Sadness flies away on the wings of time.”</i><br/>
-  — Jean de La Fontaine
+  <i>“Our lives are the only meaningful expression of what we believe and in Whom we believe. And the only real wealth, for any of us, lies in our faith.”</i><br/>
+  — Gordon Hinckley
 </p>
 </div>
 
