@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Life is the flower for which love is the honey.”</i><br/>
-  — Victor Hugo
+  <i>“Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness.”</i><br/>
+  — Rumi
 </p>
 </div>
 
