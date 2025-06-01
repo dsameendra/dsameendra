@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness.”</i><br/>
-  — Rumi
+  <i>“Sadness flies away on the wings of time.”</i><br/>
+  — Jean de La Fontaine
 </p>
 </div>
 
