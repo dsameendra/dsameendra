@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“No party has a monopoly on wisdom. No democracy works without compromise.”</i><br/>
-  — Barack Obama
+  <i>“I, too, do not envision a doctrine of self the clinging to which there would not arise sorrow, lamentation, pain, grief, and despair.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
