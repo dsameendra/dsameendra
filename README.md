@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.”</i><br/>
-  — Helen Keller
+  <i>“Do the one thing you think you cannot do. Fail at it. Try again. Do better the second time. The only people who never tumble are those who never mount the high wire. This is your moment. Own it.”</i><br/>
+  — Oprah Winfrey
 </p>
 </div>
 
