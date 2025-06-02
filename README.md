@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I, too, do not envision a doctrine of self the clinging to which there would not arise sorrow, lamentation, pain, grief, and despair.”</i><br/>
-  — The Buddha
+  <i>“Finding good players is easy. Getting them to play as a team is another story.”</i><br/>
+  — Casey Stengel
 </p>
 </div>
 
