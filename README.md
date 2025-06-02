@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Do the one thing you think you cannot do. Fail at it. Try again. Do better the second time. The only people who never tumble are those who never mount the high wire. This is your moment. Own it.”</i><br/>
-  — Oprah Winfrey
+  <i>“No party has a monopoly on wisdom. No democracy works without compromise.”</i><br/>
+  — Barack Obama
 </p>
 </div>
 
