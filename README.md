@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Gratitude is not only the greatest of virtues, but the parent of all the others.”</i><br/>
-  — Cicero
+  <i>“Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.”</i><br/>
+  — Wayne Dyer
 </p>
 </div>
 
