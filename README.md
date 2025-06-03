@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run.”</i><br/>
-  — Abraham Lincoln
+  <i>“Choose a job you love, and you will never have to work a day in your life.”</i><br/>
+  — Confucius
 </p>
 </div>
 
