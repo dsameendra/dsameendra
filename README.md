@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Choose a job you love, and you will never have to work a day in your life.”</i><br/>
-  — Confucius
+  <i>“Gratitude is not only the greatest of virtues, but the parent of all the others.”</i><br/>
+  — Cicero
 </p>
 </div>
 
