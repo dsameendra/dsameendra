@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Finding good players is easy. Getting them to play as a team is another story.”</i><br/>
-  — Casey Stengel
+  <i>“When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run.”</i><br/>
+  — Abraham Lincoln
 </p>
 </div>
 
