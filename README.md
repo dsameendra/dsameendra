@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“People ask me what I do in winter when there's no baseball. I'll tell you what I do. I stare out the window and wait for spring.”</i><br/>
-  — Rogers Hornsby
+  <i>“Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious.”</i><br/>
+  — Stephen Hawking
 </p>
 </div>
 
