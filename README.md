@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious.”</i><br/>
-  — Stephen Hawking
+  <i>“Be kind whenever possible. It is always possible.”</i><br/>
+  — Dalai Lama
 </p>
 </div>
 
