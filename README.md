@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Be kind whenever possible. It is always possible.”</i><br/>
-  — Dalai Lama
+  <i>“The least movement is of importance to all nature. The entire ocean is affected by a pebble.”</i><br/>
+  — Blaise Pascal
 </p>
 </div>
 
