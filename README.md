@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You always succeed in producing a result.”</i><br/>
-  — Tony Robbins
+  <i>“Better be wise by the misfortunes of others than by your own.”</i><br/>
+  — Aesop
 </p>
 </div>
 
