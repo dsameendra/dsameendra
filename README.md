@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The least movement is of importance to all nature. The entire ocean is affected by a pebble.”</i><br/>
-  — Blaise Pascal
+  <i>“To change one's life, start immediately, do it flamboyantly, no exceptions.”</i><br/>
+  — William James
 </p>
 </div>
 
