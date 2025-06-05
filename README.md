@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“To change one's life, start immediately, do it flamboyantly, no exceptions.”</i><br/>
-  — William James
+  <i>“You always succeed in producing a result.”</i><br/>
+  — Tony Robbins
 </p>
 </div>
 
