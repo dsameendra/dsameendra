@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Happiness is a perfume you cannot pour on others without getting a few drops on yourself.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars.”</i><br/>
+  — Henry van Dyke Jr.
 </p>
 </div>
 
