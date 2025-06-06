@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You must welcome change as the rule but not as your ruler.”</i><br/>
-  — Denis Waitley
+  <i>“Happiness is a perfume you cannot pour on others without getting a few drops on yourself.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
