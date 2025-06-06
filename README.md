@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Better be wise by the misfortunes of others than by your own.”</i><br/>
-  — Aesop
+  <i>“Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.”</i><br/>
+  — Arthur Rubinstein
 </p>
 </div>
 
