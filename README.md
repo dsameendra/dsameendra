@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain.”</i><br/>
-  — Plato
+  <i>“Be your own hero, it's cheaper than a movie ticket.”</i><br/>
+  — Doug Horton
 </p>
 </div>
 
