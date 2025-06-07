@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Be your own hero, it's cheaper than a movie ticket.”</i><br/>
-  — Doug Horton
+  <i>“If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.”</i><br/>
+  — Barack Obama
 </p>
 </div>
 
