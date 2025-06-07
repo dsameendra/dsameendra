@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars.”</i><br/>
-  — Henry van Dyke Jr.
+  <i>“There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain.”</i><br/>
+  — Plato
 </p>
 </div>
 
