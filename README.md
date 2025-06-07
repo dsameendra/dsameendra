@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.”</i><br/>
-  — Barack Obama
+  <i>“Having nothing, nothing can he lose.”</i><br/>
+  — William Shakespeare
 </p>
 </div>
 
