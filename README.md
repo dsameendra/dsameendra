@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The time to repair the roof is when the sun is shining.”</i><br/>
-  — John F. Kennedy
+  <i>“Genuine love should first be directed at oneself; if we do not love ourselves, how can we love others?”</i><br/>
+  — Dalai Lama
 </p>
 </div>
 
