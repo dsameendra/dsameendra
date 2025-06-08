@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Having nothing, nothing can he lose.”</i><br/>
-  — William Shakespeare
+  <i>“Set your goals high, and don't stop till you get there.”</i><br/>
+  — Bo Jackson
 </p>
 </div>
 
