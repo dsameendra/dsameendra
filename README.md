@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Set your goals high, and don't stop till you get there.”</i><br/>
-  — Bo Jackson
+  <i>“The time to repair the roof is when the sun is shining.”</i><br/>
+  — John F. Kennedy
 </p>
 </div>
 
