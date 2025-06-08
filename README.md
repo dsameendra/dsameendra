@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Genuine love should first be directed at oneself; if we do not love ourselves, how can we love others?”</i><br/>
-  — Dalai Lama
+  <i>“The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.”</i><br/>
+  — Isaac Asimov
 </p>
 </div>
 
