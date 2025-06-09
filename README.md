@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Science and technology revolutionize our lives, but memory, tradition and myth frame our response.”</i><br/>
-  — Arthur M. Schlesinger Jr.
+  <i>“Time is the wisest counsellor of all.”</i><br/>
+  — Pericles
 </p>
 </div>
 
