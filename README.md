@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Time is the wisest counsellor of all.”</i><br/>
-  — Pericles
+  <i>“Wisdom is the right use of knowledge. To know is not to be wise. Many men know a great deal and are all the greater fools for it. There is no fool so great a fool as a knowing fool. But to know how to use knowledge is to have wisdom.”</i><br/>
+  — Charles Spurgeon
 </p>
 </div>
 
