@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Only when we are no longer afraid do we begin to live.”</i><br/>
-  — Dorothy Thompson
+  <i>“Science and technology revolutionize our lives, but memory, tradition and myth frame our response.”</i><br/>
+  — Arthur M. Schlesinger Jr.
 </p>
 </div>
 
