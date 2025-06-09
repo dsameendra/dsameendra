@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.”</i><br/>
-  — Isaac Asimov
+  <i>“Only when we are no longer afraid do we begin to live.”</i><br/>
+  — Dorothy Thompson
 </p>
 </div>
 
