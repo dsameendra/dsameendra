@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Sometimes being a friend means mastering the art of timing. There is a time for silence. A time to let go and allow people to hurl themselves into their own destiny. And a time to prepare to pick up the pieces when it's all over.”</i><br/>
-  — Octavia E. Butler
+  <i>“Things turn out best for those who make the best of the way things turn out.”</i><br/>
+  — Jack Buck
 </p>
 </div>
 
