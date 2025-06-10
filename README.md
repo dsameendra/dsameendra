@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Things turn out best for those who make the best of the way things turn out.”</i><br/>
-  — Jack Buck
+  <i>“You can observe a lot just by watching.”</i><br/>
+  — Yogi Berra
 </p>
 </div>
 
