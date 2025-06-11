@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Half the lies they tell about me aren't true.”</i><br/>
-  — Yogi Berra
+  <i>“A friend is someone who gives you total freedom to be yourself.”</i><br/>
+  — Jim Morrison
 </p>
 </div>
 
