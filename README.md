@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Friends are the siblings God never gave us.”</i><br/>
-  — Mencius
+  <i>“Half the lies they tell about me aren't true.”</i><br/>
+  — Yogi Berra
 </p>
 </div>
 
