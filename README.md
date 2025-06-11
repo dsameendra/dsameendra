@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“To give oneself earnestly to the duties due to men, and, while respecting spiritual beings, to keep aloof from them, may be called wisdom.”</i><br/>
-  — Confucius
+  <i>“A friend is, as it were, a second self.”</i><br/>
+  — Cicero
 </p>
 </div>
 
