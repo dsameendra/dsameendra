@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A friend is, as it were, a second self.”</i><br/>
-  — Cicero
+  <i>“What wisdom can you find that is greater than kindness?”</i><br/>
+  — Jean-Jacques Rousseau
 </p>
 </div>
 
