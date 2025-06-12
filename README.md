@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“What wisdom can you find that is greater than kindness?”</i><br/>
-  — Jean-Jacques Rousseau
+  <i>“Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing.”</i><br/>
+  — Elie Wiesel
 </p>
 </div>
 
