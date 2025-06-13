@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It is only when the mind and character slumber that the dress can be seen.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“Ask yourself the secret of your success. Listen to your answer and practice it.”</i><br/>
+  — Richard Bach
 </p>
 </div>
 
