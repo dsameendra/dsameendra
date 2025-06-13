@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Most of our pocket wisdom is conceived for the use of mediocre people, to discourage them from ambitious attempts, and generally console them in their mediocrity.”</i><br/>
-  — Robert Louis Stevenson
+  <i>“Truth, and goodness, and beauty are but different faces of the same all.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
