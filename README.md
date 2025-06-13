@@ -6,7 +6,7 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Truth, and goodness, and beauty are but different faces of the same all.”</i><br/>
+  <i>“It is only when the mind and character slumber that the dress can be seen.”</i><br/>
   — Ralph Waldo Emerson
 </p>
 </div>
