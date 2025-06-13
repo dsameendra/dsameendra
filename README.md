@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Ask yourself the secret of your success. Listen to your answer and practice it.”</i><br/>
-  — Richard Bach
+  <i>“One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.”</i><br/>
+  — Elbert Hubbard
 </p>
 </div>
 
