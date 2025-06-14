@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers.”</i><br/>
-  — Thích Nhất Hạnh
+  <i>“All is flux; nothing stays still.”</i><br/>
+  — Heraclitus
 </p>
 </div>
 
