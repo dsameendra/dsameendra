@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Gratitude is not only the greatest of virtues, but the parent of all the others.”</i><br/>
-  — Cicero
+  <i>“The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers.”</i><br/>
+  — Thích Nhất Hạnh
 </p>
 </div>
 
