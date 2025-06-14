@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.”</i><br/>
-  — Elbert Hubbard
+  <i>“A lie gets halfway around the world before the truth has a chance to get its pants on.”</i><br/>
+  — Winston Churchill
 </p>
 </div>
 
