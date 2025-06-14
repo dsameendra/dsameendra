@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A lie gets halfway around the world before the truth has a chance to get its pants on.”</i><br/>
-  — Winston Churchill
+  <i>“Gratitude is not only the greatest of virtues, but the parent of all the others.”</i><br/>
+  — Cicero
 </p>
 </div>
 
