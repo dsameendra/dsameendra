@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Honesty is the first chapter in the book of wisdom.”</i><br/>
-  — Thomas Jefferson
+  <i>“The free man is he who does not fear to go to the end of his thought.”</i><br/>
+  — Léon Blum
 </p>
 </div>
 
