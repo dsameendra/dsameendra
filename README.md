@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Numberless are the worlds wonders, but none more wonderful than man.”</i><br/>
-  — Sophocles
+  <i>“Honesty is the first chapter in the book of wisdom.”</i><br/>
+  — Thomas Jefferson
 </p>
 </div>
 
