@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The free man is he who does not fear to go to the end of his thought.”</i><br/>
-  — Léon Blum
+  <i>“The amount of happiness that you have depends on the amount of freedom you have in your heart.”</i><br/>
+  — Thích Nhất Hạnh
 </p>
 </div>
 
