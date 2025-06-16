@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The amount of happiness that you have depends on the amount of freedom you have in your heart.”</i><br/>
-  — Thích Nhất Hạnh
+  <i>“We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity.”</i><br/>
+  — Barbara De Angelis
 </p>
 </div>
 
