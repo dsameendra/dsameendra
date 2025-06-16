@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The aim of life is self-development. To realize one's nature perfectly - that is what each of us is here for.”</i><br/>
-  — Oscar Wilde
+  <i>“To improve is to change; to be perfect is to change often.”</i><br/>
+  — Winston Churchill
 </p>
 </div>
 
