@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Difficulties are things that show a person what they are.”</i><br/>
-  — Epictetus
+  <i>“Better than a thousand hollow words, is one word that brings peace.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
