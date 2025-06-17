@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“To improve is to change; to be perfect is to change often.”</i><br/>
-  — Winston Churchill
+  <i>“Get busy living or get busy dying.”</i><br/>
+  — Stephen King
 </p>
 </div>
 
