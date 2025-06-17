@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Better than a thousand hollow words, is one word that brings peace.”</i><br/>
-  — The Buddha
+  <i>“Life is just a chance to grow a soul.”</i><br/>
+  — A. Powell Davies
 </p>
 </div>
 
