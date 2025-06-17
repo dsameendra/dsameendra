@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Get busy living or get busy dying.”</i><br/>
-  — Stephen King
+  <i>“Difficulties are things that show a person what they are.”</i><br/>
+  — Epictetus
 </p>
 </div>
 
