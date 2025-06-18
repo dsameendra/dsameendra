@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“An organization, no matter how well designed, is only as good as the people who live and work in it.”</i><br/>
-  — Dee Hock
+  <i>“Whoso loves, believes the impossible.”</i><br/>
+  — Elizabeth Browning
 </p>
 </div>
 
