@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Life is just a chance to grow a soul.”</i><br/>
-  — A. Powell Davies
+  <i>“Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
