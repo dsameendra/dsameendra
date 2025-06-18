@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“An organization, no matter how well designed, is only as good as the people who live and work in it.”</i><br/>
+  — Dee Hock
 </p>
 </div>
 
