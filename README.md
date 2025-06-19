@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Feeling and longing are the motive forces behind all human endeavor and human creations.”</i><br/>
-  — Albert Einstein
+  <i>“Many sophisticated, intelligent people lack wisdom and common sense.”</i><br/>
+  — Joyce Meyer
 </p>
 </div>
 
