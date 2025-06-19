@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It may happen sometimes that a long debate becomes the cause of a longer friendship. Commonly, those who dispute with one another at last agree.”</i><br/>
-  — Elbert Hubbard
+  <i>“Feeling and longing are the motive forces behind all human endeavor and human creations.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
