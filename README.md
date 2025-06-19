@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Many sophisticated, intelligent people lack wisdom and common sense.”</i><br/>
-  — Joyce Meyer
+  <i>“Be the change that you want to see in the world.”</i><br/>
+  — Mahatma Gandhi
 </p>
 </div>
 
