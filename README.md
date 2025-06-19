@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There is only one corner of the universe you can be certain of improving, and that's your own self.”</i><br/>
-  — Aldous Huxley
+  <i>“It may happen sometimes that a long debate becomes the cause of a longer friendship. Commonly, those who dispute with one another at last agree.”</i><br/>
+  — Elbert Hubbard
 </p>
 </div>
 
