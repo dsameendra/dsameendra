@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Be the change that you want to see in the world.”</i><br/>
-  — Mahatma Gandhi
+  <i>“Men of perverse opinion do not know the excellence of what is in their hands, till someone dash it from them.”</i><br/>
+  — Sophocles
 </p>
 </div>
 
