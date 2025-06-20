@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Don't smother each other. No one can grow in the shade.”</i><br/>
-  — Leo Buscaglia
+  <i>“Imagination is not a talent of some men but is the health of every man.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
