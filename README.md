@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Men of perverse opinion do not know the excellence of what is in their hands, till someone dash it from them.”</i><br/>
-  — Sophocles
+  <i>“Happiness mainly comes from our own attitude, rather than from external factors.”</i><br/>
+  — Dalai Lama
 </p>
 </div>
 
