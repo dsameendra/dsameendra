@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Happiness mainly comes from our own attitude, rather than from external factors.”</i><br/>
-  — Dalai Lama
+  <i>“Don't smother each other. No one can grow in the shade.”</i><br/>
+  — Leo Buscaglia
 </p>
 </div>
 
