@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Imagination is not a talent of some men but is the health of every man.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“You'll see it when you believe it.”</i><br/>
+  — Wayne Dyer
 </p>
 </div>
 
