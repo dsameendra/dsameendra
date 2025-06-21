@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You'll see it when you believe it.”</i><br/>
-  — Wayne Dyer
+  <i>“Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it.”</i><br/>
+  — M. Scott Peck
 </p>
 </div>
 
