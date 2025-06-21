@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.”</i><br/>
-  — Abraham Lincoln
+  <i>“Wherever a man turns he can find someone who needs him.”</i><br/>
+  — Albert Schweitzer
 </p>
 </div>
 
