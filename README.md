@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it.”</i><br/>
-  — M. Scott Peck
+  <i>“Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.”</i><br/>
+  — Abraham Lincoln
 </p>
 </div>
 
