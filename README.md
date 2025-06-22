@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I think that we have a great opportunity to impart our wisdom and our knowledge and our experience to this younger generation. It may be different times, but experience transcends time, and wisdom transcends time.”</i><br/>
-  — Victoria Osteen
+  <i>“To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.”</i><br/>
+  — Dalai Lama
 </p>
 </div>
 
