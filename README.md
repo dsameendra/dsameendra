@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Wherever a man turns he can find someone who needs him.”</i><br/>
-  — Albert Schweitzer
+  <i>“I think that we have a great opportunity to impart our wisdom and our knowledge and our experience to this younger generation. It may be different times, but experience transcends time, and wisdom transcends time.”</i><br/>
+  — Victoria Osteen
 </p>
 </div>
 
