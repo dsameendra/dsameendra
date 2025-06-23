@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you correct your mind, the rest of your life will fall into place.”</i><br/>
-  — Laozi
+  <i>“The minute you settle for less than you deserve, you get even less than you settled for.”</i><br/>
+  — Maureen Dowd
 </p>
 </div>
 
