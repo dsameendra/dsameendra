@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Everything that irritates us about others can lead us to a better understanding of ourselves.”</i><br/>
-  — Carl Jung
+  <i>“If you correct your mind, the rest of your life will fall into place.”</i><br/>
+  — Laozi
 </p>
 </div>
 
