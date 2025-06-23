@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The minute you settle for less than you deserve, you get even less than you settled for.”</i><br/>
-  — Maureen Dowd
+  <i>“A true friend is someone who is there for you when he'd rather be anywhere else.”</i><br/>
+  — Len Wein
 </p>
 </div>
 
