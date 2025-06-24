@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A true friend is someone who is there for you when he'd rather be anywhere else.”</i><br/>
-  — Len Wein
+  <i>“When we seek to discover the best in others, we somehow bring out the best in ourselves.”</i><br/>
+  — William Arthur Ward
 </p>
 </div>
 
