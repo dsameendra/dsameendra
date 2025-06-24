@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“When we seek to discover the best in others, we somehow bring out the best in ourselves.”</i><br/>
-  — William Arthur Ward
+  <i>“Success is not final; failure is not fatal: it is the courage to continue that counts.”</i><br/>
+  — Winston Churchill
 </p>
 </div>
 
