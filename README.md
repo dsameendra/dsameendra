@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Success is not final; failure is not fatal: it is the courage to continue that counts.”</i><br/>
-  — Winston Churchill
+  <i>“Friendship is almost always the union of a part of one mind with the part of another; people are friends in spots.”</i><br/>
+  — George Santayana
 </p>
 </div>
 
