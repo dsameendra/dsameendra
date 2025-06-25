@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Goals are the fuel in the furnace of achievement.”</i><br/>
-  — Brian Tracy
+  <i>“Sometimes it is better to lose and do the right thing than to win and do the wrong thing.”</i><br/>
+  — Tony Blair
 </p>
 </div>
 
