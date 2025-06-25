@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Good thoughts are no better than good dreams, unless they be executed.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“Goals are the fuel in the furnace of achievement.”</i><br/>
+  — Brian Tracy
 </p>
 </div>
 
