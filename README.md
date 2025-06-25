@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“One today is worth two tomorrows.”</i><br/>
-  — Benjamin Franklin
+  <i>“If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
