@@ -6,7 +6,7 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him.”</i><br/>
+  <i>“Good thoughts are no better than good dreams, unless they be executed.”</i><br/>
   — Ralph Waldo Emerson
 </p>
 </div>
