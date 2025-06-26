@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Without courage, wisdom bears no fruit.”</i><br/>
-  — Baltasar Gracián
+  <i>“The teacher who is indeed wise does not bid you to enter the house of his wisdom but rather leads you to the threshold of your mind.”</i><br/>
+  — Kahlil Gibran
 </p>
 </div>
 
