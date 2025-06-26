@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Your big opportunity may be right where you are now.”</i><br/>
-  — Napoleon Hill
+  <i>“Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.”</i><br/>
+  — Wayne Dyer
 </p>
 </div>
 
