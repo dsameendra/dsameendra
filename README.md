@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Sometimes it is better to lose and do the right thing than to win and do the wrong thing.”</i><br/>
-  — Tony Blair
+  <i>“Your big opportunity may be right where you are now.”</i><br/>
+  — Napoleon Hill
 </p>
 </div>
 
