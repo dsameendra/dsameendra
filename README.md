@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.”</i><br/>
-  — Wayne Dyer
+  <i>“Without courage, wisdom bears no fruit.”</i><br/>
+  — Baltasar Gracián
 </p>
 </div>
 
