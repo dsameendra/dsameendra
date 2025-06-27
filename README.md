@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Fortune favors the brave.”</i><br/>
-  — Virgil
+  <i>“Knowledge speaks, but wisdom listens.”</i><br/>
+  — Jimi Hendrix
 </p>
 </div>
 
