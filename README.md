@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Meditate … do not delay, lest you later regret it.”</i><br/>
-  — The Buddha
+  <i>“Maxim for life: You get treated in life the way you teach people to treat you.”</i><br/>
+  — Wayne Dyer
 </p>
 </div>
 
