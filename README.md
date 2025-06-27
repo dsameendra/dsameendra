@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Knowledge speaks, but wisdom listens.”</i><br/>
-  — Jimi Hendrix
+  <i>“Meditate … do not delay, lest you later regret it.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
