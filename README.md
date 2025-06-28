@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances.”</i><br/>
-  — Daisaku Ikeda
+  <i>“How we spend our days is, of course, how we spend our lives.”</i><br/>
+  — Annie Dillard
 </p>
 </div>
 
