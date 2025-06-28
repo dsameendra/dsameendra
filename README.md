@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Success is not final; failure is not fatal: it is the courage to continue that counts.”</i><br/>
-  — Winston Churchill
+  <i>“True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances.”</i><br/>
+  — Daisaku Ikeda
 </p>
 </div>
 
