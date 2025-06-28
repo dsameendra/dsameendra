@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Maxim for life: You get treated in life the way you teach people to treat you.”</i><br/>
-  — Wayne Dyer
+  <i>“Success is not final; failure is not fatal: it is the courage to continue that counts.”</i><br/>
+  — Winston Churchill
 </p>
 </div>
 
