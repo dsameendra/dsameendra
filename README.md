@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius.”</i><br/>
-  — Wolfgang Amadeus Mozart
+  <i>“No snowflake in an avalanche ever feels responsible.”</i><br/>
+  — Voltaire
 </p>
 </div>
 
