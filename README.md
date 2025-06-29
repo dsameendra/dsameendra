@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“No snowflake in an avalanche ever feels responsible.”</i><br/>
-  — Voltaire
+  <i>“Friendship is almost always the union of a part of one mind with the part of another; people are friends in spots.”</i><br/>
+  — George Santayana
 </p>
 </div>
 
