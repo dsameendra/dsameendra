@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Friendship is almost always the union of a part of one mind with the part of another; people are friends in spots.”</i><br/>
-  — George Santayana
+  <i>“Spectacular achievement is always preceded by unspectacular preparation.”</i><br/>
+  — Robert Schuller
 </p>
 </div>
 
