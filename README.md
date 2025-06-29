@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Quality is not an act; it is a habit.”</i><br/>
-  — Aristotle
+  <i>“Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius.”</i><br/>
+  — Wolfgang Amadeus Mozart
 </p>
 </div>
 
