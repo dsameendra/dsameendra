@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Never make friends with people who are above or below you in status. Such friendships will never give you any happiness.”</i><br/>
-  — Chanakya
+  <i>“Loyalty and friendship, which is to me the same, created all the wealth that I've ever thought I'd have.”</i><br/>
+  — Ernie Banks
 </p>
 </div>
 
