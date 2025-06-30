@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Spectacular achievement is always preceded by unspectacular preparation.”</i><br/>
-  — Robert Schuller
+  <i>“Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do.”</i><br/>
+  — Mark Twain
 </p>
 </div>
 
