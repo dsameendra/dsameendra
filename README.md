@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do.”</i><br/>
-  — Mark Twain
+  <i>“The essence of true friendship is to make allowance for another's little lapses.”</i><br/>
+  — Ovid
 </p>
 </div>
 
