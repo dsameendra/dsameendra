@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Most of the shadows of life are caused by standing in our own sunshine.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“Better than a thousand hollow words, is one word that brings peace.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
