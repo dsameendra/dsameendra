@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Radiate boundless love towards the entire world…”</i><br/>
-  — The Buddha
+  <i>“Most of the shadows of life are caused by standing in our own sunshine.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
