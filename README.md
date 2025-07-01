@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Loyalty and friendship, which is to me the same, created all the wealth that I've ever thought I'd have.”</i><br/>
-  — Ernie Banks
+  <i>“Do not worry about your difficulties in Mathematics. I can assure you mine are still greater.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
