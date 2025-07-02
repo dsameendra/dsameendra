@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success.”</i><br/>
-  — John Locke
+  <i>“Without freedom of thought, there can be no such thing as wisdom - and no such thing as public liberty without freedom of speech.”</i><br/>
+  — Benjamin Franklin
 </p>
 </div>
 
