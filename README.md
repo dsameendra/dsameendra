@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Science investigates; religion interprets. Science gives man knowledge which is power; religion gives man wisdom which is control.”</i><br/>
-  — Martin Luther King Jr.
+  <i>“If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success.”</i><br/>
+  — John Locke
 </p>
 </div>
 
