@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Better than a thousand hollow words, is one word that brings peace.”</i><br/>
-  — The Buddha
+  <i>“Science investigates; religion interprets. Science gives man knowledge which is power; religion gives man wisdom which is control.”</i><br/>
+  — Martin Luther King Jr.
 </p>
 </div>
 
