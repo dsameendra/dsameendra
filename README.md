@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Without freedom of thought, there can be no such thing as wisdom - and no such thing as public liberty without freedom of speech.”</i><br/>
-  — Benjamin Franklin
+  <i>“Winners never quit and quitters never win.”</i><br/>
+  — Vince Lombardi
 </p>
 </div>
 
