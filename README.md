@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The only true wisdom is in knowing you know nothing.”</i><br/>
-  — Isocrates
+  <i>“Love cures people - both the ones who give it and the ones who receive it.”</i><br/>
+  — Karl Menninger
 </p>
 </div>
 
