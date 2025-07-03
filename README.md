@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.”</i><br/>
-  — Paavo Nurmi
+  <i>“The only true wisdom is in knowing you know nothing.”</i><br/>
+  — Isocrates
 </p>
 </div>
 
