@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Love cures people - both the ones who give it and the ones who receive it.”</i><br/>
-  — Karl Menninger
+  <i>“To wear your heart on your sleeve isn't a very good plan; you should wear it inside, where it functions best.”</i><br/>
+  — Margaret Thatcher
 </p>
 </div>
 
