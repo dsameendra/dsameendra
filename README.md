@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Winners never quit and quitters never win.”</i><br/>
-  — Vince Lombardi
+  <i>“Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.”</i><br/>
+  — Paavo Nurmi
 </p>
 </div>
 
