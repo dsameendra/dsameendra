@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“He who has imagination without learning has wings but no feet.”</i><br/>
-  — Joseph Joubert
+  <i>“A man is great by deeds, not by birth.”</i><br/>
+  — Chanakya
 </p>
 </div>
 
