@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Your vision will become clear only when you can look into your own heart. Who looks outside, dreams, who looks inside, awakes.”</i><br/>
-  — Carl Jung
+  <i>“He who has imagination without learning has wings but no feet.”</i><br/>
+  — Joseph Joubert
 </p>
 </div>
 
