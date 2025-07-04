@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“To wear your heart on your sleeve isn't a very good plan; you should wear it inside, where it functions best.”</i><br/>
-  — Margaret Thatcher
+  <i>“Your vision will become clear only when you can look into your own heart. Who looks outside, dreams, who looks inside, awakes.”</i><br/>
+  — Carl Jung
 </p>
 </div>
 
