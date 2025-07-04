@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A man is great by deeds, not by birth.”</i><br/>
-  — Chanakya
+  <i>“Goals are the fuel in the furnace of achievement.”</i><br/>
+  — Brian Tracy
 </p>
 </div>
 
