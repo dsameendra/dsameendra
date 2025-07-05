@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You can't stop the waves, but you can learn to surf.”</i><br/>
-  — Jon Kabat-Zinn
+  <i>“When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness.”</i><br/>
+  — Joseph Campbell
 </p>
 </div>
 
