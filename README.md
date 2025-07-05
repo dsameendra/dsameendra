@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Patience is the companion of wisdom.”</i><br/>
-  — Augustine of Hippo
+  <i>“He who angers you conquers you.”</i><br/>
+  — Elizabeth Kenny
 </p>
 </div>
 
