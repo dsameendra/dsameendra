@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness.”</i><br/>
-  — Joseph Campbell
+  <i>“Patience is the companion of wisdom.”</i><br/>
+  — Augustine of Hippo
 </p>
 </div>
 
