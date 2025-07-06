@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“He who angers you conquers you.”</i><br/>
-  — Elizabeth Kenny
+  <i>“We never live; we are always in the expectation of living.”</i><br/>
+  — Voltaire
 </p>
 </div>
 
