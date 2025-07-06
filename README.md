@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We never live; we are always in the expectation of living.”</i><br/>
-  — Voltaire
+  <i>“And as we let our own light shine, we unconsciously give other people permission to do the same.”</i><br/>
+  — Nelson Mandela
 </p>
 </div>
 
