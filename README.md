@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The superior man is modest in his speech but exceeds in his actions.”</i><br/>
-  — Confucius
+  <i>“If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception; it is a prevailing attitude.”</i><br/>
+  — Colin Powell
 </p>
 </div>
 
