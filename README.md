@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception; it is a prevailing attitude.”</i><br/>
-  — Colin Powell
+  <i>“The way you see people is the way you treat them, and the way you treat them is what they become.”</i><br/>
+  — Johann Wolfgang von Goethe
 </p>
 </div>
 
