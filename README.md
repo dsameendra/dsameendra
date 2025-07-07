@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Change is the law of life. And those who look only to the past or present are certain to miss the future.”</i><br/>
-  — John F. Kennedy
+  <i>“Programs must be written for people to read, and only incidentally for machines to execute.”</i><br/>
+  — Hal Abelson
 </p>
 </div>
 
