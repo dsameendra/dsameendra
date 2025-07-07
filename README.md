@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The way you see people is the way you treat them, and the way you treat them is what they become.”</i><br/>
-  — Johann Wolfgang von Goethe
+  <i>“Change is the law of life. And those who look only to the past or present are certain to miss the future.”</i><br/>
+  — John F. Kennedy
 </p>
 </div>
 
