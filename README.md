@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Friendship needs no words - it is solitude delivered from the anguish of loneliness.”</i><br/>
-  — Dag Hammarskjöld
+  <i>“There is nothing in a caterpillar that tells you it's going to be a butterfly.”</i><br/>
+  — Buckminster Fuller
 </p>
 </div>
 
