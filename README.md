@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The older I get the more wisdom I find in the ancient rule of taking first things first. A process which often reduces the most complex human problem to a manageable proportion.”</i><br/>
-  — Dwight D. Eisenhower
+  <i>“Friendship needs no words - it is solitude delivered from the anguish of loneliness.”</i><br/>
+  — Dag Hammarskjöld
 </p>
 </div>
 
