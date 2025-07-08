@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Programs must be written for people to read, and only incidentally for machines to execute.”</i><br/>
-  — Hal Abelson
+  <i>“The truth is incontrovertible. Malice may attack it, ignorance may deride it, but in the end, there it is.”</i><br/>
+  — Winston Churchill
 </p>
 </div>
 
