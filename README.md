@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The truth is incontrovertible. Malice may attack it, ignorance may deride it, but in the end, there it is.”</i><br/>
-  — Winston Churchill
+  <i>“The older I get the more wisdom I find in the ancient rule of taking first things first. A process which often reduces the most complex human problem to a manageable proportion.”</i><br/>
+  — Dwight D. Eisenhower
 </p>
 </div>
 
