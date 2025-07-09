@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“All phenomena are preceded by the mind, created by the mind, and have the mind as their master.”</i><br/>
-  — The Buddha
+  <i>“I have not failed. I've just found 10,000 ways that won't work.”</i><br/>
+  — Thomas Edison
 </p>
 </div>
 
