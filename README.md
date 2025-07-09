@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Anything you really want, you can attain, if you really go after it.”</i><br/>
-  — Wayne Dyer
+  <i>“All phenomena are preceded by the mind, created by the mind, and have the mind as their master.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
