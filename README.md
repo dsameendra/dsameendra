@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There is nothing in a caterpillar that tells you it's going to be a butterfly.”</i><br/>
-  — Buckminster Fuller
+  <i>“Anything you really want, you can attain, if you really go after it.”</i><br/>
+  — Wayne Dyer
 </p>
 </div>
 
