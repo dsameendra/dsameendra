@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I have not failed. I've just found 10,000 ways that won't work.”</i><br/>
-  — Thomas Edison
+  <i>“Smile, breathe and go slowly.”</i><br/>
+  — Thích Nhất Hạnh
 </p>
 </div>
 
