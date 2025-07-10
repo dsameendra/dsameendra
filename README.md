@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Smile, breathe and go slowly.”</i><br/>
-  — Thích Nhất Hạnh
+  <i>“Reality leaves a lot to the imagination.”</i><br/>
+  — John Lennon
 </p>
 </div>
 
