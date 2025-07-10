@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There is a magnet in your heart that will attract true friends. That magnet is unselfishness, thinking of others first; when you learn to live for others, they will live for you.”</i><br/>
-  — Paramahansa Yogananda
+  <i>“In three words I can sum up everything I've learned about life: it goes on.”</i><br/>
+  — Robert Frost
 </p>
 </div>
 
