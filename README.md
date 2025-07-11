@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You have enemies? Good. That means you've stood up for something, sometime in your life.”</i><br/>
-  — Winston Churchill
+  <i>“I hope we shall crush in its birth the aristocracy of our monied corporations which dare already to challenge our government to a trial by strength, and bid defiance to the laws of our country.”</i><br/>
+  — Thomas Jefferson
 </p>
 </div>
 
