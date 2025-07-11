@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I hope we shall crush in its birth the aristocracy of our monied corporations which dare already to challenge our government to a trial by strength, and bid defiance to the laws of our country.”</i><br/>
-  — Thomas Jefferson
+  <i>“You can always count on Americans to do the right thing - after they've tried everything else.”</i><br/>
+  — Winston Churchill
 </p>
 </div>
 
