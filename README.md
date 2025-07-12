@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You can always count on Americans to do the right thing - after they've tried everything else.”</i><br/>
-  — Winston Churchill
+  <i>“These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future.”</i><br/>
+  — Vernon Cooper
 </p>
 </div>
 
