@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Talent is God-given; be humble. Fame is man-given; be thankful. Conceit is self-given; be careful.”</i><br/>
-  — Harvey Mackay
+  <i>“Well begun is half done.”</i><br/>
+  — Aristotle
 </p>
 </div>
 
