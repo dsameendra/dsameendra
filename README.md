@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future.”</i><br/>
-  — Vernon Cooper
+  <i>“Whatever you do in life, surround yourself with smart people who'll argue with you.”</i><br/>
+  — John Wooden
 </p>
 </div>
 
