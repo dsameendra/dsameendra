@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Whatever you do in life, surround yourself with smart people who'll argue with you.”</i><br/>
-  — John Wooden
+  <i>“Talent is God-given; be humble. Fame is man-given; be thankful. Conceit is self-given; be careful.”</i><br/>
+  — Harvey Mackay
 </p>
 </div>
 
