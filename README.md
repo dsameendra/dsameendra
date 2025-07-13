@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Attitude is a little thing that makes a big difference.”</i><br/>
-  — Winston Churchill
+  <i>“We respect our elders. There is wisdom that comes from experience, and I am not going to stop learning from wise counsel.”</i><br/>
+  — Marcia Fudge
 </p>
 </div>
 
