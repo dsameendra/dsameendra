@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“To do all that one is able to do, is to be a man; to do all that one would like to do, is to be a god.”</i><br/>
-  — Napoleon
+  <i>“Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.”</i><br/>
+  — Marcel Proust
 </p>
 </div>
 
