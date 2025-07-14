@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We respect our elders. There is wisdom that comes from experience, and I am not going to stop learning from wise counsel.”</i><br/>
-  — Marcia Fudge
+  <i>“Never say there is nothing beautiful in the world anymore. There is always something to make you wonder in the shape of a tree, the trembling of a leaf.”</i><br/>
+  — Albert Schweitzer
 </p>
 </div>
 
