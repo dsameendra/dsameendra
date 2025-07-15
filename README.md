@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“What makes Superman a hero is not that he has power, but that he has the wisdom and the maturity to use the power wisely. From an acting point of view, that's how I approached the part.”</i><br/>
-  — Christopher Reeve
+  <i>“Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?”</i><br/>
+  — Confucius
 </p>
 </div>
 
