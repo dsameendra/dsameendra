@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It is not a lack of love, but a lack of friendship that makes unhappy marriages.”</i><br/>
-  — Friedrich Nietzsche
+  <i>“If you would take, you must first give, this is the beginning of intelligence.”</i><br/>
+  — Laozi
 </p>
 </div>
 
