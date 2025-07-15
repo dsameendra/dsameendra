@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you would take, you must first give, this is the beginning of intelligence.”</i><br/>
-  — Laozi
+  <i>“Once you label me you negate me.”</i><br/>
+  — Søren Kierkegaard
 </p>
 </div>
 
