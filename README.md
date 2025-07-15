@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?”</i><br/>
-  — Confucius
+  <i>“It is not a lack of love, but a lack of friendship that makes unhappy marriages.”</i><br/>
+  — Friedrich Nietzsche
 </p>
 </div>
 
