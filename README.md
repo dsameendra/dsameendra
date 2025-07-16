@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Only put off until tomorrow what you are willing to die having left undone.”</i><br/>
-  — Pablo Picasso
+  <i>“As a technology, the book is like a hammer. That is to say, it is perfect: a tool ideally suited to its task. Hammers can be tweaked and varied but will never go obsolete. Even when builders pound nails by the thousand with pneumatic nail guns, every household needs a hammer.”</i><br/>
+  — James Gleick
 </p>
 </div>
 
