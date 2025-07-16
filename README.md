@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Once you label me you negate me.”</i><br/>
-  — Søren Kierkegaard
+  <i>“Only put off until tomorrow what you are willing to die having left undone.”</i><br/>
+  — Pablo Picasso
 </p>
 </div>
 
