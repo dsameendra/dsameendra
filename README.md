@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.”</i><br/>
-  — Eckhart Tolle
+  <i>“Thought is the blossom; language the bud; action the fruit behind it.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
