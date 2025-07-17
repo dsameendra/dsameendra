@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“As you walk in God's divine wisdom, you will surely begin to see a greater measure of victory and good success in your life.”</i><br/>
-  — Joseph Prince
+  <i>“The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.”</i><br/>
+  — Eckhart Tolle
 </p>
 </div>
 
