@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Thought is the blossom; language the bud; action the fruit behind it.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“Fine words and an insinuating appearance are seldom associated with true virtue”</i><br/>
+  — Confucius
 </p>
 </div>
 
