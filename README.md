@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Wisdom is nothing but a preparation of the soul, a capacity, a secret art of thinking, feeling and breathing thoughts of unity at every moment of life.”</i><br/>
-  — Hermann Hesse
+  <i>“To see things in the seed, that is genius.”</i><br/>
+  — Laozi
 </p>
 </div>
 
