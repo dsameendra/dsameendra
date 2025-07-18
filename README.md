@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“To see things in the seed, that is genius.”</i><br/>
-  — Laozi
+  <i>“It is not so much our friends' help that helps us, as the confidence of their help.”</i><br/>
+  — Epicurus
 </p>
 </div>
 
