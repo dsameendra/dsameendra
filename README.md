@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It is not so much our friends' help that helps us, as the confidence of their help.”</i><br/>
-  — Epicurus
+  <i>“The man who makes everything that leads to happiness depends upon himself, and not upon other men, has adopted the very best plan for living happily. This is the man of moderation, the man of manly character and of wisdom.”</i><br/>
+  — Plato
 </p>
 </div>
 
