@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Our most intimate friend is not he to whom we show the worst, but the best of our nature.”</i><br/>
-  — Nathaniel Hawthorne
+  <i>“I took a speed-reading course and read 'War and Peace' in twenty minutes. It involves Russia.”</i><br/>
+  — Woody Allen
 </p>
 </div>
 
