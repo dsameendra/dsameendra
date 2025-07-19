@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“But friendship is precious, not only in the shade, but in the sunshine of life, and thanks to a benevolent arrangement the greater part of life is sunshine.”</i><br/>
-  — Thomas Jefferson
+  <i>“The place to improve the world is first in one's own heart and head and hands.”</i><br/>
+  — Robert M. Pirsig
 </p>
 </div>
 
