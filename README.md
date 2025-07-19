@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The place to improve the world is first in one's own heart and head and hands.”</i><br/>
-  — Robert M. Pirsig
+  <i>“Our most intimate friend is not he to whom we show the worst, but the best of our nature.”</i><br/>
+  — Nathaniel Hawthorne
 </p>
 </div>
 
