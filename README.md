@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit.”</i><br/>
-  — Helen Keller
+  <i>“When you come to the end of your rope, tie a knot and hang on.”</i><br/>
+  — Franklin D. Roosevelt
 </p>
 </div>
 
