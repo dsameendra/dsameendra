@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I took a speed-reading course and read 'War and Peace' in twenty minutes. It involves Russia.”</i><br/>
-  — Woody Allen
+  <i>“The winner ain't the one with the fastest car it's the one who refuses to lose.”</i><br/>
+  — Dale Earnhardt
 </p>
 </div>
 
