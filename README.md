@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Happiness is the reward we get for living to the highest right we know.”</i><br/>
-  — Richard Bach
+  <i>“No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit.”</i><br/>
+  — Helen Keller
 </p>
 </div>
 
