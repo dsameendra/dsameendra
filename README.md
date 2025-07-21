@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Great are they who see that spiritual is stronger than any material force, that thoughts rule the world.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“You'll see it when you believe it.”</i><br/>
+  — Wayne Dyer
 </p>
 </div>
 
