@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It is on our failures that we base a new and different and better success.”</i><br/>
-  — Havelock Ellis
+  <i>“Knowing is not enough; we must apply!”</i><br/>
+  — Johann Wolfgang von Goethe
 </p>
 </div>
 
