@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“When you come to the end of your rope, tie a knot and hang on.”</i><br/>
-  — Franklin D. Roosevelt
+  <i>“Great are they who see that spiritual is stronger than any material force, that thoughts rule the world.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
