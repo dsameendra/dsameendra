@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Knowledge has three degrees: opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition.”</i><br/>
-  — Plotinus
+  <i>“They say that time changes things, but you actually have to change them yourself.”</i><br/>
+  — Andy Warhol
 </p>
 </div>
 
