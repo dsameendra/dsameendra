@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Knowing is not enough; we must apply!”</i><br/>
-  — Johann Wolfgang von Goethe
+  <i>“Science and technology revolutionize our lives, but memory, tradition and myth frame our response.”</i><br/>
+  — Arthur M. Schlesinger Jr.
 </p>
 </div>
 
