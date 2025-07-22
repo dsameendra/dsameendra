@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“They say that time changes things, but you actually have to change them yourself.”</i><br/>
-  — Andy Warhol
+  <i>“Accept the things to which fate binds you and love the people with whom fate brings you together but do so with all your heart.”</i><br/>
+  — Marcus Aurelius
 </p>
 </div>
 
