@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Accept the things to which fate binds you and love the people with whom fate brings you together but do so with all your heart.”</i><br/>
-  — Marcus Aurelius
+  <i>“The greatest mistake you can make in life is to be continually fearing you will make one.”</i><br/>
+  — Elbert Hubbard
 </p>
 </div>
 
