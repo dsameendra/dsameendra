@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Much wisdom often goes with fewest words.”</i><br/>
-  — Sophocles
+  <i>“While we stop to think, we often miss our opportunity.”</i><br/>
+  — Publilius Syrus
 </p>
 </div>
 
