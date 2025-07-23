@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The greatest mistake you can make in life is to be continually fearing you will make one.”</i><br/>
-  — Elbert Hubbard
+  <i>“Much wisdom often goes with fewest words.”</i><br/>
+  — Sophocles
 </p>
 </div>
 
