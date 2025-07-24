@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A noble one produces an abundance of merit by having a compassionate mind towards all living beings.”</i><br/>
-  — The Buddha
+  <i>“The greatest way to live with honor in this world is to be what we pretend to be.”</i><br/>
+  — Socrates
 </p>
 </div>
 
