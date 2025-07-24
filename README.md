@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Learning without reflection is a waste, reflection without learning is dangerous.”</i><br/>
-  — Confucius
+  <i>“Well begun is half done.”</i><br/>
+  — Aristotle
 </p>
 </div>
 
