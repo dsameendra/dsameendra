@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Well begun is half done.”</i><br/>
-  — Aristotle
+  <i>“A noble one produces an abundance of merit by having a compassionate mind towards all living beings.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
