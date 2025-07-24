@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning.”</i><br/>
-  — Laozi
+  <i>“Learning without reflection is a waste, reflection without learning is dangerous.”</i><br/>
+  — Confucius
 </p>
 </div>
 
