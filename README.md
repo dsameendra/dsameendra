@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“In skating over thin ice our safety is in our speed.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“The greater our knowledge increases the more our ignorance unfolds.”</i><br/>
+  — John F. Kennedy
 </p>
 </div>
 
