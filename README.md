@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The greater our knowledge increases the more our ignorance unfolds.”</i><br/>
-  — John F. Kennedy
+  <i>“I will prepare and some day my chance will come.”</i><br/>
+  — Abraham Lincoln
 </p>
 </div>
 
