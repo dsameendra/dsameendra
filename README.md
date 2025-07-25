@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The only person who never makes mistakes is the person who never does anything.”</i><br/>
-  — Denis Waitley
+  <i>“In skating over thin ice our safety is in our speed.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
