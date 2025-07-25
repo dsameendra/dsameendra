@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The greatest way to live with honor in this world is to be what we pretend to be.”</i><br/>
-  — Socrates
+  <i>“The only person who never makes mistakes is the person who never does anything.”</i><br/>
+  — Denis Waitley
 </p>
 </div>
 
