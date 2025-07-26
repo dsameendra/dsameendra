@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I endeavor to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress.”</i><br/>
-  — Elizabeth Montagu
+  <i>“He who angers you conquers you.”</i><br/>
+  — Elizabeth Kenny
 </p>
 </div>
 
