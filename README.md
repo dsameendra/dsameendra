@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Many of life's failures are people who did not realize how close they were to success when they gave up.”</i><br/>
-  — Thomas Edison
+  <i>“Strong beliefs win strong men, and then make them stronger.”</i><br/>
+  — Richard Bach
 </p>
 </div>
 
