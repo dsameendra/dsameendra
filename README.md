@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I will prepare and some day my chance will come.”</i><br/>
-  — Abraham Lincoln
+  <i>“Many of life's failures are people who did not realize how close they were to success when they gave up.”</i><br/>
+  — Thomas Edison
 </p>
 </div>
 
