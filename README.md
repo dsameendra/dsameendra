@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It does not matter how slowly you go as long as you do not stop.”</i><br/>
-  — Confucius
+  <i>“It is only with the heart that one can see rightly, what is essential is invisible to the eye.”</i><br/>
+  — Antoine de Saint-Exupéry
 </p>
 </div>
 
