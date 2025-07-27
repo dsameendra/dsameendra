@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Once you label me you negate me.”</i><br/>
-  — Søren Kierkegaard
+  <i>“It does not matter how slowly you go as long as you do not stop.”</i><br/>
+  — Confucius
 </p>
 </div>
 
