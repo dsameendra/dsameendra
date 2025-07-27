@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“How many legs does a dog have if you call his tail a leg? Four. Saying that a tail is a leg doesn't make it a leg.”</i><br/>
-  — Abraham Lincoln
+  <i>“Once you label me you negate me.”</i><br/>
+  — Søren Kierkegaard
 </p>
 </div>
 
