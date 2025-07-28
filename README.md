@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Time changes everything except something within us which is always surprised by change.”</i><br/>
-  — Thomas Hardy
+  <i>“I think and that is all that I am.”</i><br/>
+  — Wayne Dyer
 </p>
 </div>
 
