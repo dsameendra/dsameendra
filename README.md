@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I think and that is all that I am.”</i><br/>
-  — Wayne Dyer
+  <i>“Don't settle for a relationship that won't let you be yourself.”</i><br/>
+  — Oprah Winfrey
 </p>
 </div>
 
