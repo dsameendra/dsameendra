@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There is a wisdom of the head, and a wisdom of the heart.”</i><br/>
-  — Charles Dickens
+  <i>“Time changes everything except something within us which is always surprised by change.”</i><br/>
+  — Thomas Hardy
 </p>
 </div>
 
