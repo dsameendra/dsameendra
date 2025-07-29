@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I love you the more in that I believe you had liked me for my own sake and for nothing else.”</i><br/>
-  — John Keats
+  <i>“Tragedy is a tool for the living to gain wisdom, not a guide by which to live.”</i><br/>
+  — Robert F. Kennedy
 </p>
 </div>
 
