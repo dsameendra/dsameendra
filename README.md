@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Don't settle for a relationship that won't let you be yourself.”</i><br/>
-  — Oprah Winfrey
+  <i>“I love you the more in that I believe you had liked me for my own sake and for nothing else.”</i><br/>
+  — John Keats
 </p>
 </div>
 
