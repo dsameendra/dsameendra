@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Tragedy is a tool for the living to gain wisdom, not a guide by which to live.”</i><br/>
-  — Robert F. Kennedy
+  <i>“If you break your neck, if you have nothing to eat, if your house is on fire, then you got a problem. Everything else is inconvenience.”</i><br/>
+  — Robert Fulghum
 </p>
 </div>
 
