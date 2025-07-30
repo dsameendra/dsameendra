@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You got to be careful if you don't know where you're going, because you might not get there.”</i><br/>
-  — Yogi Berra
+  <i>“A true friend is the most precious of all possessions and the one we take the least thought about acquiring.”</i><br/>
+  — François de La Rochefoucauld
 </p>
 </div>
 
