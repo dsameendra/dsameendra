@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You can observe a lot just by watching.”</i><br/>
-  — Yogi Berra
+  <i>“Your big opportunity may be right where you are now.”</i><br/>
+  — Napoleon Hill
 </p>
 </div>
 
