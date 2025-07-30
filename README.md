@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A true friend is the most precious of all possessions and the one we take the least thought about acquiring.”</i><br/>
-  — François de La Rochefoucauld
+  <i>“An ounce of emotion is equal to a ton of facts.”</i><br/>
+  — John Junor
 </p>
 </div>
 
