@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Your big opportunity may be right where you are now.”</i><br/>
-  — Napoleon Hill
+  <i>“You got to be careful if you don't know where you're going, because you might not get there.”</i><br/>
+  — Yogi Berra
 </p>
 </div>
 
