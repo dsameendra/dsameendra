@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“An ounce of emotion is equal to a ton of facts.”</i><br/>
-  — John Junor
+  <i>“Every friendship is different because everyone's personality is different.”</i><br/>
+  — Nargis Fakhri
 </p>
 </div>
 
