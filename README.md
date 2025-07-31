@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish.”</i><br/>
-  — Ovid
+  <i>“In skating over thin ice our safety is in our speed.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
