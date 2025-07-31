@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We're born alone, we live alone, we die alone. Only through our love and friendship can we create the illusion for the moment that we're not alone.”</i><br/>
-  — Orson Welles
+  <i>“Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish.”</i><br/>
+  — Ovid
 </p>
 </div>
 
