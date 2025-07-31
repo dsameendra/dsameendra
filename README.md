@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Every friendship is different because everyone's personality is different.”</i><br/>
-  — Nargis Fakhri
+  <i>“We're born alone, we live alone, we die alone. Only through our love and friendship can we create the illusion for the moment that we're not alone.”</i><br/>
+  — Orson Welles
 </p>
 </div>
 
