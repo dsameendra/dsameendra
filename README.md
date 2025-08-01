@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The ego is nothing other than the focus of conscious attention.”</i><br/>
-  — Alan Watts
+  <i>“Quick decisions are unsafe decisions.”</i><br/>
+  — Sophocles
 </p>
 </div>
 
