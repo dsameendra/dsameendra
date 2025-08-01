@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“In skating over thin ice our safety is in our speed.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“Our shared values define us more than our differences. And acknowledging those shared values can see us through our challenges today if we have the wisdom to trust in them again.”</i><br/>
+  — John McCain
 </p>
 </div>
 
