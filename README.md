@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Our shared values define us more than our differences. And acknowledging those shared values can see us through our challenges today if we have the wisdom to trust in them again.”</i><br/>
-  — John McCain
+  <i>“The ego is nothing other than the focus of conscious attention.”</i><br/>
+  — Alan Watts
 </p>
 </div>
 
