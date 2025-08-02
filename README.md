@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The poor man is not he who is without a cent, but he who is without a dream.”</i><br/>
-  — Harry Kemp
+  <i>“There are no strangers here; Only friends you haven't yet met.”</i><br/>
+  — William Butler Yeats
 </p>
 </div>
 
