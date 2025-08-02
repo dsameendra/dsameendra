@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There are no strangers here; Only friends you haven't yet met.”</i><br/>
-  — William Butler Yeats
+  <i>“To invent, you need a good imagination and a pile of junk.”</i><br/>
+  — Thomas Edison
 </p>
 </div>
 
