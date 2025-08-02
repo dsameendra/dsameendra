@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Be like the flower, turn your face to the sun.”</i><br/>
-  — Kahlil Gibran
+  <i>“We know what we are but know not what we may be.”</i><br/>
+  — William Shakespeare
 </p>
 </div>
 
