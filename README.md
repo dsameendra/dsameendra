@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“To invent, you need a good imagination and a pile of junk.”</i><br/>
-  — Thomas Edison
+  <i>“Be like the flower, turn your face to the sun.”</i><br/>
+  — Kahlil Gibran
 </p>
 </div>
 
