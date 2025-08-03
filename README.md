@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“To follow, without halt, one aim: There is the secret of success.”</i><br/>
-  — Anna Pavlova
+  <i>“Drop by drop is the water pot filled. Likewise, the wise man, gathering it little by little, fills himself with good.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
