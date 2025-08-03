@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It is not so important to know everything as to appreciate what we learn.”</i><br/>
-  — Hannah More
+  <i>“To follow, without halt, one aim: There is the secret of success.”</i><br/>
+  — Anna Pavlova
 </p>
 </div>
 
