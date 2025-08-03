@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We know what we are but know not what we may be.”</i><br/>
-  — William Shakespeare
+  <i>“To hell with circumstances, I create opportunities.”</i><br/>
+  — Bruce Lee
 </p>
 </div>
 
