@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“To hell with circumstances, I create opportunities.”</i><br/>
-  — Bruce Lee
+  <i>“It is not so important to know everything as to appreciate what we learn.”</i><br/>
+  — Hannah More
 </p>
 </div>
 
