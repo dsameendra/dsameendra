@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us.”</i><br/>
-  — Marcel Proust
+  <i>“It is important to our friends to believe that we are unreservedly frank with them, and important to friendship that we are not.”</i><br/>
+  — Mignon McLaughlin
 </p>
 </div>
 
