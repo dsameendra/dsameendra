@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Drop by drop is the water pot filled. Likewise, the wise man, gathering it little by little, fills himself with good.”</i><br/>
-  — The Buddha
+  <i>“We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us.”</i><br/>
+  — Marcel Proust
 </p>
 </div>
 
