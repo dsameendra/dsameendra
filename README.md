@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Let your hook always be cast; in the pool where you least expect it, there will be a fish.”</i><br/>
-  — Ovid
+  <i>“The mind unlearns with difficulty what it has long learned.”</i><br/>
+  — Seneca the Younger
 </p>
 </div>
 
