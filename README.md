@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The mind unlearns with difficulty what it has long learned.”</i><br/>
-  — Seneca the Younger
+  <i>“They blame those who remain silent, they blame those who speak much, they blame those who speak in moderation. There is none in the world who is not blamed.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
