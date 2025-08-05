@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I always wanted to be somebody, but I should have been more specific.”</i><br/>
-  — Lily Tomlin
+  <i>“Your friend is your needs answered.”</i><br/>
+  — Kahlil Gibran
 </p>
 </div>
 
