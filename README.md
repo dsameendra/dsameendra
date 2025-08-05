@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“They blame those who remain silent, they blame those who speak much, they blame those who speak in moderation. There is none in the world who is not blamed.”</i><br/>
-  — The Buddha
+  <i>“I always wanted to be somebody, but I should have been more specific.”</i><br/>
+  — Lily Tomlin
 </p>
 </div>
 
