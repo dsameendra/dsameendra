@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Your friend is your needs answered.”</i><br/>
-  — Kahlil Gibran
+  <i>“Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose.”</i><br/>
+  — Eknath Easwaran
 </p>
 </div>
 
