@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose.”</i><br/>
-  — Eknath Easwaran
+  <i>“Conditions fall apart. Persist with diligence.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
