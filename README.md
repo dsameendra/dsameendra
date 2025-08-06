@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Conditions fall apart. Persist with diligence.”</i><br/>
-  — The Buddha
+  <i>“Through perseverance many people win success out of what seemed destined to be certain failure.”</i><br/>
+  — Benjamin Disraeli
 </p>
 </div>
 
