@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Through perseverance many people win success out of what seemed destined to be certain failure.”</i><br/>
-  — Benjamin Disraeli
+  <i>“The great myth of our times is that technology is communication.”</i><br/>
+  — Libby Larsen
 </p>
 </div>
 
