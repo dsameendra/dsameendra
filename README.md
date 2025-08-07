@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The weak can never forgive. Forgiveness is the attribute of the strong.”</i><br/>
-  — Mahatma Gandhi
+  <i>“What matters is the value we've created in our lives, the people we've made happy and how much we've grown as people.”</i><br/>
+  — Daisaku Ikeda
 </p>
 </div>
 
