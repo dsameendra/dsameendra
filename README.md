@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We must embrace pain and burn it as fuel for our journey.”</i><br/>
-  — Kenji Miyazawa
+  <i>“The weak can never forgive. Forgiveness is the attribute of the strong.”</i><br/>
+  — Mahatma Gandhi
 </p>
 </div>
 
