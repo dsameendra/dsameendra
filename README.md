@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“What matters is the value we've created in our lives, the people we've made happy and how much we've grown as people.”</i><br/>
-  — Daisaku Ikeda
+  <i>“The virtue of justice consists in moderation, as regulated by wisdom.”</i><br/>
+  — Aristotle
 </p>
 </div>
 
