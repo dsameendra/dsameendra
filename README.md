@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The great myth of our times is that technology is communication.”</i><br/>
-  — Libby Larsen
+  <i>“We must embrace pain and burn it as fuel for our journey.”</i><br/>
+  — Kenji Miyazawa
 </p>
 </div>
 
