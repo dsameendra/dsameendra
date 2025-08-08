@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The virtue of justice consists in moderation, as regulated by wisdom.”</i><br/>
-  — Aristotle
+  <i>“I'll prepare and someday my chance will come.”</i><br/>
+  — Abraham Lincoln
 </p>
 </div>
 
