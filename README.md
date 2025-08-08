@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Everyone in the world ought to do the things for which he is specially adapted. It is the part of wisdom to recognize what each one of us is best fitted for, and it is the part of education to perfect and utilize such predispositions. Because education can direct and aid nature but can never transform her.”</i><br/>
-  — Maria Montessori
+  <i>“Logic will get you from A to B. Imagination will take you everywhere.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
