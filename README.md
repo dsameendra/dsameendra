@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Logic will get you from A to B. Imagination will take you everywhere.”</i><br/>
-  — Albert Einstein
+  <i>“No yesterdays are ever wasted for those who give themselves to today.”</i><br/>
+  — Brendan Behan
 </p>
 </div>
 
