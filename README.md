@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort.”</i><br/>
-  — Epictetus
+  <i>“Luck is what happens when preparation meets opportunity.”</i><br/>
+  — Seneca the Younger
 </p>
 </div>
 
