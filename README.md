@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Do I speak at the right time, or not? Do I speak of facts, or not? Do I speak gently or harshly? Do I speak profitable words or not? Do I speak with a kindly heart, or inwardly malicious?”</i><br/>
-  — The Buddha
+  <i>“Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort.”</i><br/>
+  — Epictetus
 </p>
 </div>
 
