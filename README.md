@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“No yesterdays are ever wasted for those who give themselves to today.”</i><br/>
-  — Brendan Behan
+  <i>“We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.”</i><br/>
+  — Sam Keen
 </p>
 </div>
 
