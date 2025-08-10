@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Luck is what happens when preparation meets opportunity.”</i><br/>
-  — Seneca the Younger
+  <i>“Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.”</i><br/>
+  — Helen Keller
 </p>
 </div>
 
