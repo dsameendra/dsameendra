@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Tell me and I forget. Teach me and I remember. Involve me and I learn.”</i><br/>
-  — Benjamin Franklin
+  <i>“The most certain sign of wisdom is cheerfulness.”</i><br/>
+  — Michel de Montaigne
 </p>
 </div>
 
