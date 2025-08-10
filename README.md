@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.”</i><br/>
-  — Helen Keller
+  <i>“Correction does much, but encouragement does more.”</i><br/>
+  — Johann Wolfgang von Goethe
 </p>
 </div>
 
