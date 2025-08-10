@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Correction does much, but encouragement does more.”</i><br/>
-  — Johann Wolfgang von Goethe
+  <i>“Tell me and I forget. Teach me and I remember. Involve me and I learn.”</i><br/>
+  — Benjamin Franklin
 </p>
 </div>
 
