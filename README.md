@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Meaning is not what you start with but what you end up with.”</i><br/>
-  — Peter Elbow
+  <i>“I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.”</i><br/>
+  — Og Mandino
 </p>
 </div>
 
