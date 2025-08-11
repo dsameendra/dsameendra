@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.”</i><br/>
-  — Og Mandino
+  <i>“How many legs does a dog have if you call his tail a leg? Four. Saying that a tail is a leg doesn't make it a leg.”</i><br/>
+  — Abraham Lincoln
 </p>
 </div>
 
