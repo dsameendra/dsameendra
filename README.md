@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The most certain sign of wisdom is cheerfulness.”</i><br/>
-  — Michel de Montaigne
+  <i>“Meaning is not what you start with but what you end up with.”</i><br/>
+  — Peter Elbow
 </p>
 </div>
 
