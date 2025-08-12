@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Lord, make me an instrument of thy peace. Where there is hatred, let me sow love.”</i><br/>
-  — Francis of Assisi
+  <i>“Love is the flower you've got to let grow.”</i><br/>
+  — John Lennon
 </p>
 </div>
 
