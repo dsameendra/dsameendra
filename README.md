@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The greatest good you can do for another is not just share your riches but reveal to them their own.”</i><br/>
-  — Benjamin Disraeli
+  <i>“Lord, make me an instrument of thy peace. Where there is hatred, let me sow love.”</i><br/>
+  — Francis of Assisi
 </p>
 </div>
 
