@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Love is the flower you've got to let grow.”</i><br/>
-  — John Lennon
+  <i>“All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.”</i><br/>
+  — Kathleen Norris
 </p>
 </div>
 
