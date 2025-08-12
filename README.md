@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.”</i><br/>
-  — Kathleen Norris
+  <i>“Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.”</i><br/>
+  — Theodore Isaac Rubin
 </p>
 </div>
 
