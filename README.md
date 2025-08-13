@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Hope arouses, as nothing else can arouse, a passion for the possible.”</i><br/>
-  — William Sloane Coffin
+  <i>“You cannot find yourself by going into the past. You can find yourself by coming into the present.”</i><br/>
+  — Eckhart Tolle
 </p>
 </div>
 
