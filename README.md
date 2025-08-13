@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I don't want to achieve immortality through my work... I want to achieve it through not dying.”</i><br/>
-  — Woody Allen
+  <i>“Hope arouses, as nothing else can arouse, a passion for the possible.”</i><br/>
+  — William Sloane Coffin
 </p>
 </div>
 
