@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Your worst enemy cannot harm you as much as your own unguarded thoughts.”</i><br/>
-  — The Buddha
+  <i>“Wherever a man may happen to turn, whatever a man may undertake, he will always end up by returning to the path which nature has marked out for him.”</i><br/>
+  — Johann Wolfgang von Goethe
 </p>
 </div>
 
