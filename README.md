@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“An economist is an expert who will know tomorrow why the things he predicted yesterday didn't happen today.”</i><br/>
-  — Laurence J. Peter
+  <i>“I am of the opinion that my life belongs to the community, and as long as I live it is my privilege to do for it whatever I can.”</i><br/>
+  — Bernard Shaw
 </p>
 </div>
 
