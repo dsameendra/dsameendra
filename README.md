@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Three things cannot be long hidden: the sun, the moon, and the truth.”</i><br/>
-  — The Buddha
+  <i>“Love is blind; friendship closes its eyes.”</i><br/>
+  — Friedrich Nietzsche
 </p>
 </div>
 
