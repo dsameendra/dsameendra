@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Three things cannot be long hidden: the sun, the moon, and the truth.”</i><br/>
-  — The Buddha
+  <i>“Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.”</i><br/>
+  — Blaise Pascal
 </p>
 </div>
 
