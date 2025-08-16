@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Love is blind; friendship closes its eyes.”</i><br/>
-  — Friedrich Nietzsche
+  <i>“You might well remember that nothing can bring you success but yourself.”</i><br/>
+  — Napoleon Hill
 </p>
 </div>
 
