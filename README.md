@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Spectacular achievement is always preceded by unspectacular preparation.”</i><br/>
-  — Robert Schuller
+  <i>“What the caterpillar calls the end of the world, the master calls a butterfly.”</i><br/>
+  — Richard Bach
 </p>
 </div>
 
