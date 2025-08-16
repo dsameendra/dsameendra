@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The opportunity for brotherhood presents itself every time you meet a human being.”</i><br/>
-  — Jane Wyman
+  <i>“Spectacular achievement is always preceded by unspectacular preparation.”</i><br/>
+  — Robert Schuller
 </p>
 </div>
 
