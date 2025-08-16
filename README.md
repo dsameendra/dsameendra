@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You might well remember that nothing can bring you success but yourself.”</i><br/>
-  — Napoleon Hill
+  <i>“The opportunity for brotherhood presents itself every time you meet a human being.”</i><br/>
+  — Jane Wyman
 </p>
 </div>
 
