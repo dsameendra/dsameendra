@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You can't choose up sides on a round world.”</i><br/>
-  — Wayne Dyer
+  <i>“The possibilities are numerous once we decide to act and not react.”</i><br/>
+  — George Bernard Shaw
 </p>
 </div>
 
