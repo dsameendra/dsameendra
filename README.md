@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“What the caterpillar calls the end of the world, the master calls a butterfly.”</i><br/>
-  — Richard Bach
+  <i>“Learn from yesterday, live for today, hope for tomorrow.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
