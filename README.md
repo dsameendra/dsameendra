@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Learn from yesterday, live for today, hope for tomorrow.”</i><br/>
-  — Albert Einstein
+  <i>“You can't choose up sides on a round world.”</i><br/>
+  — Wayne Dyer
 </p>
 </div>
 
