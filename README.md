@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The possibilities are numerous once we decide to act and not react.”</i><br/>
-  — George Bernard Shaw
+  <i>“He who wishes to secure the good of others, has already secured his own.”</i><br/>
+  — Confucius
 </p>
 </div>
 
