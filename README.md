@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“He who wishes to secure the good of others, has already secured his own.”</i><br/>
-  — Confucius
+  <i>“It requires wisdom to understand wisdom: the music is nothing if the audience is deaf.”</i><br/>
+  — Walter Lippmann
 </p>
 </div>
 
