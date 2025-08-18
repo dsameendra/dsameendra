@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Feeling and longing are the motive forces behind all human endeavor and human creations.”</i><br/>
-  — Albert Einstein
+  <i>“Wishing to be friends is quick work, but friendship is a slow ripening fruit.”</i><br/>
+  — Aristotle
 </p>
 </div>
 
