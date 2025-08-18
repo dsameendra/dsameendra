@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You won't skid if you stay in a rut.”</i><br/>
-  — Kin Hubbard
+  <i>“Feeling and longing are the motive forces behind all human endeavor and human creations.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
