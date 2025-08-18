@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It requires wisdom to understand wisdom: the music is nothing if the audience is deaf.”</i><br/>
-  — Walter Lippmann
+  <i>“You won't skid if you stay in a rut.”</i><br/>
+  — Kin Hubbard
 </p>
 </div>
 
