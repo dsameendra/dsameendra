@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“All I can say about life is, Oh God, enjoy it!”</i><br/>
-  — Bob Newhart
+  <i>“No bird soars too high if he soars with his own wings.”</i><br/>
+  — William Blake
 </p>
 </div>
 
