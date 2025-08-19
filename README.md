@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Wishing to be friends is quick work, but friendship is a slow ripening fruit.”</i><br/>
-  — Aristotle
+  <i>“There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain.”</i><br/>
+  — Plato
 </p>
 </div>
 
