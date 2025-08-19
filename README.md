@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“No bird soars too high if he soars with his own wings.”</i><br/>
-  — William Blake
+  <i>“When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run.”</i><br/>
+  — Abraham Lincoln
 </p>
 </div>
 
