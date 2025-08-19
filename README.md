@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain.”</i><br/>
-  — Plato
+  <i>“All I can say about life is, Oh God, enjoy it!”</i><br/>
+  — Bob Newhart
 </p>
 </div>
 
