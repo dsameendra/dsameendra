@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Love is the master key that opens the gates of happiness.”</i><br/>
-  — Oliver Wendell Holmes Jr.
+  <i>“It seemed the world was divided into good and bad people. The good ones slept better... while the bad ones seemed to enjoy the waking hours much more.”</i><br/>
+  — Woody Allen
 </p>
 </div>
 
