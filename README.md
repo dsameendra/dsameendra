@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Love is a friendship set to music.”</i><br/>
-  — Joseph Campbell
+  <i>“Love is the master key that opens the gates of happiness.”</i><br/>
+  — Oliver Wendell Holmes Jr.
 </p>
 </div>
 
