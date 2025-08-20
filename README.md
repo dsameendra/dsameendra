@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run.”</i><br/>
-  — Abraham Lincoln
+  <i>“For beautiful eyes, look for the good in others; for beautiful lips, speak only words of kindness; and for poise, walk with the knowledge that you are never alone.”</i><br/>
+  — Audrey Hepburn
 </p>
 </div>
 
