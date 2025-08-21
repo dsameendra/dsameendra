@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It seemed the world was divided into good and bad people. The good ones slept better... while the bad ones seemed to enjoy the waking hours much more.”</i><br/>
-  — Woody Allen
+  <i>“Each day provides its own gifts.”</i><br/>
+  — Marcus Aurelius
 </p>
 </div>
 
