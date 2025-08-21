@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The poor man is not he who is without a cent, but he who is without a dream.”</i><br/>
-  — Harry Kemp
+  <i>“Never mistake activity for achievement.”</i><br/>
+  — John Wooden
 </p>
 </div>
 
