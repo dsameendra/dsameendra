@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Each day provides its own gifts.”</i><br/>
-  — Marcus Aurelius
+  <i>“The poor man is not he who is without a cent, but he who is without a dream.”</i><br/>
+  — Harry Kemp
 </p>
 </div>
 
