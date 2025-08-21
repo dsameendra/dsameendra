@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Never mistake activity for achievement.”</i><br/>
-  — John Wooden
+  <i>“Problems are not stop signs, they are guidelines.”</i><br/>
+  — Robert Schuller
 </p>
 </div>
 
