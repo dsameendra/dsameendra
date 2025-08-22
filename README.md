@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“One fails forward toward success.”</i><br/>
-  — Charles F. Kettering
+  <i>“A goal is a dream with a deadline.”</i><br/>
+  — Napoleon Hill
 </p>
 </div>
 
