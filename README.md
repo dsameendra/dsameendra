@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“All our knowledge has its origins in our perceptions.”</i><br/>
-  — Leonardo da Vinci
+  <i>“I am a man of fixed and unbending principles, the first of which is to be flexible at all times.”</i><br/>
+  — Everett Dirksen
 </p>
 </div>
 
