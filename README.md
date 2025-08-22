@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Problems are not stop signs, they are guidelines.”</i><br/>
-  — Robert Schuller
+  <i>“One fails forward toward success.”</i><br/>
+  — Charles F. Kettering
 </p>
 </div>
 
