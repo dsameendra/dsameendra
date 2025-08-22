@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A goal is a dream with a deadline.”</i><br/>
-  — Napoleon Hill
+  <i>“All our knowledge has its origins in our perceptions.”</i><br/>
+  — Leonardo da Vinci
 </p>
 </div>
 
