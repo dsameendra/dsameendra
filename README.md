@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A person who never made a mistake never tried anything new.”</i><br/>
-  — Albert Einstein
+  <i>“Important principles may, and must, be inflexible.”</i><br/>
+  — Abraham Lincoln
 </p>
 </div>
 
