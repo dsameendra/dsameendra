@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Important principles may, and must, be inflexible.”</i><br/>
-  — Abraham Lincoln
+  <i>“The most I can do for my friend is simply be his friend.”</i><br/>
+  — Henry David Thoreau
 </p>
 </div>
 
