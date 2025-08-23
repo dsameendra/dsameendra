@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I am a man of fixed and unbending principles, the first of which is to be flexible at all times.”</i><br/>
-  — Everett Dirksen
+  <i>“A person who never made a mistake never tried anything new.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
