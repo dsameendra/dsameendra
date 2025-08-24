@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Whoever is happy will make others happy, too.”</i><br/>
-  — Mark Twain
+  <i>“Love cures people - both the ones who give it and the ones who receive it.”</i><br/>
+  — Karl Menninger
 </p>
 </div>
 
