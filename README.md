@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Love cures people - both the ones who give it and the ones who receive it.”</i><br/>
-  — Karl Menninger
+  <i>“Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing.”</i><br/>
+  — Elie Wiesel
 </p>
 </div>
 
