@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Be yourself; everyone else is already taken.”</i><br/>
-  — Oscar Wilde
+  <i>“Before we acquire great power, we must acquire wisdom to use it well.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
