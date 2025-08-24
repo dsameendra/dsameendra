@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Before we acquire great power, we must acquire wisdom to use it well.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“Whoever is happy will make others happy, too.”</i><br/>
+  — Mark Twain
 </p>
 </div>
 
