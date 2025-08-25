@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Life is what happens while you are making other plans.”</i><br/>
-  — John Lennon
+  <i>“One friend in a lifetime is much; two are many; three are hardly possible. Friendship needs a certain parallelism of life, a community of thought, a rivalry of aim.”</i><br/>
+  — Brooks Adams
 </p>
 </div>
 
