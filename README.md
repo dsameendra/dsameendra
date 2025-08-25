@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing.”</i><br/>
-  — Elie Wiesel
+  <i>“Life is what happens while you are making other plans.”</i><br/>
+  — John Lennon
 </p>
 </div>
 
