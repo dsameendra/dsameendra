@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“When we seek to discover the best in others, we somehow bring out the best in ourselves.”</i><br/>
-  — William Arthur Ward
+  <i>“To follow, without halt, one aim: There is the secret of success.”</i><br/>
+  — Anna Pavlova
 </p>
 </div>
 
