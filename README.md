@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“One friend in a lifetime is much; two are many; three are hardly possible. Friendship needs a certain parallelism of life, a community of thought, a rivalry of aim.”</i><br/>
-  — Brooks Adams
+  <i>“When we seek to discover the best in others, we somehow bring out the best in ourselves.”</i><br/>
+  — William Arthur Ward
 </p>
 </div>
 
