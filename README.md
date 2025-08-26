@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Never pretend to a love which you do not actually feel, for love is not ours to command.”</i><br/>
-  — Alan Watts
+  <i>“Everything that exists is in a manner the seed of that which will be.”</i><br/>
+  — Marcus Aurelius
 </p>
 </div>
 
