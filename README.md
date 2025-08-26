@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“He who learns must suffer. And even in our sleep pain that cannot forget falls drop by drop upon the heart, and in our own despair, against our will, comes wisdom to us by the awful grace of God.”</i><br/>
-  — Aeschylus
+  <i>“Once we accept our limits, we go beyond them.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
