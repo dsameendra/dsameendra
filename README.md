@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Once we accept our limits, we go beyond them.”</i><br/>
-  — Albert Einstein
+  <i>“Never pretend to a love which you do not actually feel, for love is not ours to command.”</i><br/>
+  — Alan Watts
 </p>
 </div>
 
