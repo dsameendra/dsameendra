@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Everything that exists is in a manner the seed of that which will be.”</i><br/>
-  — Marcus Aurelius
+  <i>“Sooner or later, those who win are those who think they can.”</i><br/>
+  — Richard Bach
 </p>
 </div>
 
