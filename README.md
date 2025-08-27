@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Sooner or later, those who win are those who think they can.”</i><br/>
-  — Richard Bach
+  <i>“Whoever doesn't flare up at someone who's angry wins a battle hard to win.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
