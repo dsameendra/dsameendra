@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The differences between friends cannot but reinforce their friendship.”</i><br/>
-  — Mao Zedong
+  <i>“What is past is left behind. The future is yet unreached. Whatever quality is present, clearly see it right there.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
