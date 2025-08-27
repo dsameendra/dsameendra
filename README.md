@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Whoever doesn't flare up at someone who's angry wins a battle hard to win.”</i><br/>
-  — The Buddha
+  <i>“The differences between friends cannot but reinforce their friendship.”</i><br/>
+  — Mao Zedong
 </p>
 </div>
 
