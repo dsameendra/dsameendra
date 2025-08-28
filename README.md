@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Cunning... is but the low mimic of wisdom.”</i><br/>
-  — Plato
+  <i>“The supreme art of war is to subdue the enemy without fighting.”</i><br/>
+  — Sun Tzu
 </p>
 </div>
 
