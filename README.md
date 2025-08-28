@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The supreme art of war is to subdue the enemy without fighting.”</i><br/>
-  — Sun Tzu
+  <i>“The cause is hidden. The effect is visible to all.”</i><br/>
+  — Ovid
 </p>
 </div>
 
