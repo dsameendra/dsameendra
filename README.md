@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you correct your mind, the rest of your life will fall into place.”</i><br/>
-  — Laozi
+  <i>“Permanence, perseverance and persistence in spite of all obstacles, discouragements, and impossibilities: It is this, that in all things distinguishes the strong soul from the weak.”</i><br/>
+  — Thomas Carlyle
 </p>
 </div>
 
