@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Love all, trust a few, do wrong to none.”</i><br/>
-  — William Shakespeare
+  <i>“If you correct your mind, the rest of your life will fall into place.”</i><br/>
+  — Laozi
 </p>
 </div>
 
