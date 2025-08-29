@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The self is not something ready-made, but something in continuous formation through choice of action.”</i><br/>
-  — John Dewey
+  <i>“Love all, trust a few, do wrong to none.”</i><br/>
+  — William Shakespeare
 </p>
 </div>
 
