@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“One secret of success in life is for a man to be ready for his opportunity when it comes.”</i><br/>
-  — Benjamin Disraeli
+  <i>“The self is not something ready-made, but something in continuous formation through choice of action.”</i><br/>
+  — John Dewey
 </p>
 </div>
 
