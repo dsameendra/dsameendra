@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Nothing happens unless first we dream.”</i><br/>
-  — Carl Sandburg
+  <i>“There is only one success - to be able to spend your life in your own way.”</i><br/>
+  — Christopher Morley
 </p>
 </div>
 
