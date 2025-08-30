@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There is only one success - to be able to spend your life in your own way.”</i><br/>
-  — Christopher Morley
+  <i>“If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart.”</i><br/>
+  — Nelson Mandela
 </p>
 </div>
 
