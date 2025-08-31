@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Yesterday's home runs don't win today's games.”</i><br/>
-  — Babe Ruth
+  <i>“I have done my best: that is about all the philosophy of living one needs.”</i><br/>
+  — Lin Yutang
 </p>
 </div>
 
