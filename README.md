@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You do not become good by trying to be good, but by finding the goodness that is already within you.”</i><br/>
-  — Eckhart Tolle
+  <i>“Inspiration exists, but it has to find us working.”</i><br/>
+  — Pablo Picasso
 </p>
 </div>
 
