@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I have done my best: that is about all the philosophy of living one needs.”</i><br/>
-  — Lin Yutang
+  <i>“You do not become good by trying to be good, but by finding the goodness that is already within you.”</i><br/>
+  — Eckhart Tolle
 </p>
 </div>
 
