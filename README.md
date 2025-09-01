@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Only two things are infinite, the universe and human stupidity, and I'm not sure about the former.”</i><br/>
-  — Albert Einstein
+  <i>“Nature is a mutable cloud which is always and never the same.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
