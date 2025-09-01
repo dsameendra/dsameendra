@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“To climb steep hills requires a slow pace at first.”</i><br/>
-  — William Shakespeare
+  <i>“Only two things are infinite, the universe and human stupidity, and I'm not sure about the former.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
