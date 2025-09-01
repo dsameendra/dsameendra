@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Everything that happens as it should, and if you observe carefully, you will find this to be so.”</i><br/>
-  — Marcus Aurelius
+  <i>“To climb steep hills requires a slow pace at first.”</i><br/>
+  — William Shakespeare
 </p>
 </div>
 
