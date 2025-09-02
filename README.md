@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I was thrown out of college for cheating on the metaphysics exam; I looked into the soul of the boy sitting next to me.”</i><br/>
-  — Woody Allen
+  <i>“Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.”</i><br/>
+  — Wayne Dyer
 </p>
 </div>
 
