@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.”</i><br/>
-  — Wayne Dyer
+  <i>“Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.”</i><br/>
+  — Albert Schweitzer
 </p>
 </div>
 
