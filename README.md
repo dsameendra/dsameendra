@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You have enemies? Good. That means you've stood up for something, sometime in your life.”</i><br/>
-  — Winston Churchill
+  <i>“Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.”</i><br/>
+  — Archimedes
 </p>
 </div>
 
