@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.”</i><br/>
-  — Archimedes
+  <i>“Knowledge comes, but wisdom lingers. It may not be difficult to store up in the mind a vast quantity of facts within a comparatively short time, but the ability to form judgments requires the severe discipline of hard work and the tempering heat of experience and maturity.”</i><br/>
+  — Calvin Coolidge
 </p>
 </div>
 
