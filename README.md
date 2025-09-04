@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We have two ears and one mouth so that we can listen twice as much as we speak.”</i><br/>
-  — Epictetus
+  <i>“Kindness is the language which the deaf can hear and the blind can see.”</i><br/>
+  — Mark Twain
 </p>
 </div>
 
