@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Gratitude is riches. Complaint is poverty.”</i><br/>
-  — Doris Day
+  <i>“We have two ears and one mouth so that we can listen twice as much as we speak.”</i><br/>
+  — Epictetus
 </p>
 </div>
 
