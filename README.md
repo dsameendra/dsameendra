@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Kindness is the language which the deaf can hear and the blind can see.”</i><br/>
-  — Mark Twain
+  <i>“People don't notice whether it's winter or summer when they're happy.”</i><br/>
+  — Anton Chekhov
 </p>
 </div>
 
