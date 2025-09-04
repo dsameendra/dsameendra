@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“People don't notice whether it's winter or summer when they're happy.”</i><br/>
-  — Anton Chekhov
+  <i>“A hero is no braver than an ordinary man, but he is braver five minutes longer.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
