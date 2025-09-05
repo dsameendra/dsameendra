@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Mistakes are always forgivable, if one has the courage to admit them.”</i><br/>
-  — Bruce Lee
+  <i>“What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be.”</i><br/>
+  — Sai Baba
 </p>
 </div>
 
