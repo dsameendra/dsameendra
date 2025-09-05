@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A hero is no braver than an ordinary man, but he is braver five minutes longer.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“If you have made mistakes, there is always another chance for you. You may have a fresh start any moment you choose.”</i><br/>
+  — Mary Pickford
 </p>
 </div>
 
