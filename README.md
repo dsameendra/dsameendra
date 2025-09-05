@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be.”</i><br/>
-  — Sai Baba
+  <i>“Bodily exercise, when compulsory, does no harm to the body; but knowledge which is acquired under compulsion obtains no hold on the mind.”</i><br/>
+  — Plato
 </p>
 </div>
 
