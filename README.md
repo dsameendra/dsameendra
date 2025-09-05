@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you have made mistakes, there is always another chance for you. You may have a fresh start any moment you choose.”</i><br/>
-  — Mary Pickford
+  <i>“Mistakes are always forgivable, if one has the courage to admit them.”</i><br/>
+  — Bruce Lee
 </p>
 </div>
 
