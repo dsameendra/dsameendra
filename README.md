@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Bodily exercise, when compulsory, does no harm to the body; but knowledge which is acquired under compulsion obtains no hold on the mind.”</i><br/>
-  — Plato
+  <i>“I took a speed-reading course and read 'War and Peace' in twenty minutes. It involves Russia.”</i><br/>
+  — Woody Allen
 </p>
 </div>
 
