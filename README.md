@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Change will not come if we wait for some other person or some other time. We are the ones we've been waiting for. We are the change that we seek.”</i><br/>
-  — Barack Obama
+  <i>“Nature gave us one tongue and two ears so we could hear twice as much as we speak.”</i><br/>
+  — Epictetus
 </p>
 </div>
 
