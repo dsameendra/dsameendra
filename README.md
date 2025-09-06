@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The lure of the distant and the difficult is deceptive. The great opportunity is where you are.”</i><br/>
-  — John Burroughs
+  <i>“Change will not come if we wait for some other person or some other time. We are the ones we've been waiting for. We are the change that we seek.”</i><br/>
+  — Barack Obama
 </p>
 </div>
 
