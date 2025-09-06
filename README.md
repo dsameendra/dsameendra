@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I took a speed-reading course and read 'War and Peace' in twenty minutes. It involves Russia.”</i><br/>
-  — Woody Allen
+  <i>“The lure of the distant and the difficult is deceptive. The great opportunity is where you are.”</i><br/>
+  — John Burroughs
 </p>
 </div>
 
