@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.”</i><br/>
-  — Robert Graves
+  <i>“Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight.”</i><br/>
+  — Helen Keller
 </p>
 </div>
 
