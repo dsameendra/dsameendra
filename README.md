@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Nature gave us one tongue and two ears so we could hear twice as much as we speak.”</i><br/>
-  — Epictetus
+  <i>“Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.”</i><br/>
+  — Robert Graves
 </p>
 </div>
 
