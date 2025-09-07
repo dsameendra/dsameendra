@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight.”</i><br/>
-  — Helen Keller
+  <i>“Remember that sometimes not getting what you want is a wonderful stroke of luck.”</i><br/>
+  — Dalai Lama
 </p>
 </div>
 
