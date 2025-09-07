@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Remember that sometimes not getting what you want is a wonderful stroke of luck.”</i><br/>
-  — Dalai Lama
+  <i>“All tremble at violence; all fear death. Putting oneself in the place of another, one should not kill nor cause another to kill.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
