@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“In every walk with nature, one receives far more than he seeks.”</i><br/>
-  — John Muir
+  <i>“Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times.”</i><br/>
+  — Napoleon Hill
 </p>
 </div>
 
