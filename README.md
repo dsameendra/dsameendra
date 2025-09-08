@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“All tremble at violence; all fear death. Putting oneself in the place of another, one should not kill nor cause another to kill.”</i><br/>
-  — The Buddha
+  <i>“In every walk with nature, one receives far more than he seeks.”</i><br/>
+  — John Muir
 </p>
 </div>
 
