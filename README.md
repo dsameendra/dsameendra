@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times.”</i><br/>
-  — Napoleon Hill
+  <i>“A disciplined mind brings happiness.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
