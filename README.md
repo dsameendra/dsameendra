@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A disciplined mind brings happiness.”</i><br/>
-  — The Buddha
+  <i>“The really unhappy person is the one who leaves undone what they can do, and starts doing what they don't understand; no wonder they come to grief.”</i><br/>
+  — Johann Wolfgang von Goethe
 </p>
 </div>
 
