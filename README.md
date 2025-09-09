@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Until you make peace with who you are, you'll never be content with what you have.”</i><br/>
-  — Doris Mortman
+  <i>“Without passion man is a mere latent force and possibility, like the flint which awaits the shock of the iron before it can give forth its spark.”</i><br/>
+  — Henri-Frédéric Amiel
 </p>
 </div>
 
