@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The really unhappy person is the one who leaves undone what they can do, and starts doing what they don't understand; no wonder they come to grief.”</i><br/>
-  — Johann Wolfgang von Goethe
+  <i>“Until you make peace with who you are, you'll never be content with what you have.”</i><br/>
+  — Doris Mortman
 </p>
 </div>
 
