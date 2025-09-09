@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Without passion man is a mere latent force and possibility, like the flint which awaits the shock of the iron before it can give forth its spark.”</i><br/>
-  — Henri-Frédéric Amiel
+  <i>“One may say the eternal mystery of the world is its comprehensibility.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
