@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Unless one is able to live fully in the present, the future is a hoax.”</i><br/>
-  — Alan Watts
+  <i>“Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!”</i><br/>
+  — Charlotte Perkins Gilman
 </p>
 </div>
 
