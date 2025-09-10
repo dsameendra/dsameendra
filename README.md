@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The future belongs to those who believe in the beauty of their dreams.”</i><br/>
-  — Eleanor Roosevelt
+  <i>“Unless one is able to live fully in the present, the future is a hoax.”</i><br/>
+  — Alan Watts
 </p>
 </div>
 
