@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!”</i><br/>
-  — Charlotte Perkins Gilman
+  <i>“To listen well is as powerful a means of communication and influence as to talk well.”</i><br/>
+  — John Marshall
 </p>
 </div>
 
