@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You've got to go out on a limb sometimes because that's where the fruit is.”</i><br/>
-  — Will Rogers
+  <i>“Hell, there are no rules here-- we're trying to accomplish something.”</i><br/>
+  — Thomas Edison
 </p>
 </div>
 
