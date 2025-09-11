@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Hell, there are no rules here-- we're trying to accomplish something.”</i><br/>
-  — Thomas Edison
+  <i>“He who knows himself is enlightened.”</i><br/>
+  — Laozi
 </p>
 </div>
 
