@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“He who knows himself is enlightened.”</i><br/>
-  — Laozi
+  <i>“If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.”</i><br/>
+  — Pema Chödrön
 </p>
 </div>
 
