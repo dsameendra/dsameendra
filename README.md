@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The strong bond of friendship is not always a balanced equation; friendship is not always about giving and taking in equal shares. Instead, friendship is grounded in a feeling that you know exactly who will be there for you when you need something, no matter what or when.”</i><br/>
-  — Simon Sinek
+  <i>“You've got to go out on a limb sometimes because that's where the fruit is.”</i><br/>
+  — Will Rogers
 </p>
 </div>
 
