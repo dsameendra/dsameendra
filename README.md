@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Dreams come true. Without that possibility, nature would not incite us to have them.”</i><br/>
-  — John Updike
+  <i>“I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better.”</i><br/>
+  — Plutarch
 </p>
 </div>
 
