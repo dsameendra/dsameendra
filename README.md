@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.”</i><br/>
-  — Pema Chödrön
+  <i>“Dreams come true. Without that possibility, nature would not incite us to have them.”</i><br/>
+  — John Updike
 </p>
 </div>
 
