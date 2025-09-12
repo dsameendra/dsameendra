@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It is unwise to be too sure of one's own wisdom. It is healthy to be reminded that the strongest might weaken and the wisest might err.”</i><br/>
-  — Mahatma Gandhi
+  <i>“I begin with an idea and then it becomes something else.”</i><br/>
+  — Pablo Picasso
 </p>
 </div>
 
