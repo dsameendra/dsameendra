@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better.”</i><br/>
-  — Plutarch
+  <i>“It is unwise to be too sure of one's own wisdom. It is healthy to be reminded that the strongest might weaken and the wisest might err.”</i><br/>
+  — Mahatma Gandhi
 </p>
 </div>
 
