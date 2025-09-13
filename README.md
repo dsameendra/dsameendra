@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Finding good players is easy. Getting them to play as a team is another story.”</i><br/>
-  — Casey Stengel
+  <i>“We lost because we told ourselves we lost.”</i><br/>
+  — Leo Tolstoy
 </p>
 </div>
 
