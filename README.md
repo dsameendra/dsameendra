@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We never understand how little we need in this world until we know the loss of it.”</i><br/>
-  — J. M. Barrie
+  <i>“Finding good players is easy. Getting them to play as a team is another story.”</i><br/>
+  — Casey Stengel
 </p>
 </div>
 
