@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?”</i><br/>
-  — Confucius
+  <i>“We never understand how little we need in this world until we know the loss of it.”</i><br/>
+  — J. M. Barrie
 </p>
 </div>
 
