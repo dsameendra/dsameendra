@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I begin with an idea and then it becomes something else.”</i><br/>
-  — Pablo Picasso
+  <i>“If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?”</i><br/>
+  — Confucius
 </p>
 </div>
 
