@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Speak when you are angry, and you will make the best speech you will ever regret.”</i><br/>
-  — Ambrose Bierce
+  <i>“Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.”</i><br/>
+  — Helen Keller
 </p>
 </div>
 
