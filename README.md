@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“All things change; nothing perishes.”</i><br/>
-  — Ovid
+  <i>“Happiness depends upon ourselves.”</i><br/>
+  — Aristotle
 </p>
 </div>
 
