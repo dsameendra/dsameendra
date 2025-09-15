@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Well done is better than well said.”</i><br/>
-  — Benjamin Franklin
+  <i>“All things change; nothing perishes.”</i><br/>
+  — Ovid
 </p>
 </div>
 
