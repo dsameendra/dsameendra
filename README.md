@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Numberless are the worlds wonders, but none more wonderful than man.”</i><br/>
-  — Sophocles
+  <i>“As we are liberated from our own fear, our presence automatically liberates others.”</i><br/>
+  — Nelson Mandela
 </p>
 </div>
 
