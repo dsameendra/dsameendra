@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Happiness depends upon ourselves.”</i><br/>
-  — Aristotle
+  <i>“Numberless are the worlds wonders, but none more wonderful than man.”</i><br/>
+  — Sophocles
 </p>
 </div>
 
