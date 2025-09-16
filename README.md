@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“An organization, no matter how well designed, is only as good as the people who live and work in it.”</i><br/>
-  — Dee Hock
+  <i>“People are not lazy. They simply have impotent goals - that is, goals that do not inspire them.”</i><br/>
+  — Tony Robbins
 </p>
 </div>
 
