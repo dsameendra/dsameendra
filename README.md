@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“People are not lazy. They simply have impotent goals - that is, goals that do not inspire them.”</i><br/>
-  — Tony Robbins
+  <i>“I will prepare and some day my chance will come.”</i><br/>
+  — Abraham Lincoln
 </p>
 </div>
 
