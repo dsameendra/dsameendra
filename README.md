@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“As we are liberated from our own fear, our presence automatically liberates others.”</i><br/>
-  — Nelson Mandela
+  <i>“An organization, no matter how well designed, is only as good as the people who live and work in it.”</i><br/>
+  — Dee Hock
 </p>
 </div>
 
