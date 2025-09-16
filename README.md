@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I will prepare and some day my chance will come.”</i><br/>
-  — Abraham Lincoln
+  <i>“Friendship, like love, is destroyed by long absence, though it may be increased by short intermissions.”</i><br/>
+  — Samuel Johnson
 </p>
 </div>
 
