@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You spend a good piece of your life gripping a baseball and in the end it turns out that it was the other way around all the time.”</i><br/>
-  — Jim Bouton
+  <i>“Nature and books belong to the eyes that see them.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
