@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Friendship, like love, is destroyed by long absence, though it may be increased by short intermissions.”</i><br/>
-  — Samuel Johnson
+  <i>“Honesty is the first chapter in the book of wisdom.”</i><br/>
+  — Thomas Jefferson
 </p>
 </div>
 
