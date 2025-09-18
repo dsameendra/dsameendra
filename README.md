@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you are out to describe the truth, leave elegance to the tailor.”</i><br/>
-  — Albert Einstein
+  <i>“Remember always that you not only have the right to be an individual, you have an obligation to be one.”</i><br/>
+  — Eleanor Roosevelt
 </p>
 </div>
 
