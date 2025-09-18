@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Remember always that you not only have the right to be an individual, you have an obligation to be one.”</i><br/>
-  — Eleanor Roosevelt
+  <i>“We are all faced with a series of great opportunities brilliantly disguised as impossible situations.”</i><br/>
+  — Chuck Swindoll
 </p>
 </div>
 
