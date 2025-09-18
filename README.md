@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Nature and books belong to the eyes that see them.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“If you are out to describe the truth, leave elegance to the tailor.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
