@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We are all faced with a series of great opportunities brilliantly disguised as impossible situations.”</i><br/>
-  — Chuck Swindoll
+  <i>“Persuasion is often more effectual than force.”</i><br/>
+  — Aesop
 </p>
 </div>
 
