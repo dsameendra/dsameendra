@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You spend a good piece of your life gripping a baseball and in the end it turns out that it was the other way around all the time.”</i><br/>
-  — Jim Bouton
+  <i>“Miracles come in moments. Be ready and willing.”</i><br/>
+  — Wayne Dyer
 </p>
 </div>
 
