@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Persuasion is often more effectual than force.”</i><br/>
-  — Aesop
+  <i>“Our lives are the only meaningful expression of what we believe and in Whom we believe. And the only real wealth, for any of us, lies in our faith.”</i><br/>
+  — Gordon Hinckley
 </p>
 </div>
 
