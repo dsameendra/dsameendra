@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Miracles come in moments. Be ready and willing.”</i><br/>
-  — Wayne Dyer
+  <i>“Nothing strengthens authority so much as silence.”</i><br/>
+  — Leonardo da Vinci
 </p>
 </div>
 
