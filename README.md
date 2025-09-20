@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Go put your creed into the deed. Nor speak with double tongue.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“I believe in one thing only, the power of human will.”</i><br/>
+  — Joseph Stalin
 </p>
 </div>
 
