@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Tragedy is a tool for the living to gain wisdom, not a guide by which to live.”</i><br/>
-  — Robert F. Kennedy
+  <i>“Go put your creed into the deed. Nor speak with double tongue.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
