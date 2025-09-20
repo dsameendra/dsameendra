@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Nothing strengthens authority so much as silence.”</i><br/>
-  — Leonardo da Vinci
+  <i>“Tragedy is a tool for the living to gain wisdom, not a guide by which to live.”</i><br/>
+  — Robert F. Kennedy
 </p>
 </div>
 
