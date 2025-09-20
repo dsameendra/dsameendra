@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I believe in one thing only, the power of human will.”</i><br/>
-  — Joseph Stalin
+  <i>“The fox has many tricks. The hedgehog has but one. But that is the best of all.”</i><br/>
+  — Erasmus
 </p>
 </div>
 
