@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Build a better mousetrap and the world will beat a path to your door.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“Never make friends with people who are above or below you in status. Such friendships will never give you any happiness.”</i><br/>
+  — Chanakya
 </p>
 </div>
 
