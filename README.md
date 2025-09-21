@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The fox has many tricks. The hedgehog has but one. But that is the best of all.”</i><br/>
-  — Erasmus
+  <i>“Build a better mousetrap and the world will beat a path to your door.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
