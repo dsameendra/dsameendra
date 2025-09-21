@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Change is the law of life. And those who look only to the past or present are certain to miss the future.”</i><br/>
-  — John F. Kennedy
+  <i>“There surely is in human nature an inherent propensity to extract all the good out of all the evil.”</i><br/>
+  — Benjamin Haydon
 </p>
 </div>
 
