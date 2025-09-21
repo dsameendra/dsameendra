@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Never make friends with people who are above or below you in status. Such friendships will never give you any happiness.”</i><br/>
-  — Chanakya
+  <i>“Change is the law of life. And those who look only to the past or present are certain to miss the future.”</i><br/>
+  — John F. Kennedy
 </p>
 </div>
 
