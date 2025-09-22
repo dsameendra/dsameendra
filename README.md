@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There surely is in human nature an inherent propensity to extract all the good out of all the evil.”</i><br/>
-  — Benjamin Haydon
+  <i>“Value your friendship. Value your relationships.”</i><br/>
+  — Barbara Bush
 </p>
 </div>
 
