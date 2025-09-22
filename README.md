@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Never interrupt your enemy when he is making a mistake.”</i><br/>
-  — Napoleon
+  <i>“You're not obligated to win. You're obligated to keep trying to do the best you can every day.”</i><br/>
+  — Marian Wright Edelman
 </p>
 </div>
 
