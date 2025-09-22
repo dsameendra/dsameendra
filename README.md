@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“To listen well is as powerful a means of communication and influence as to talk well.”</i><br/>
-  — John Marshall
+  <i>“Never interrupt your enemy when he is making a mistake.”</i><br/>
+  — Napoleon
 </p>
 </div>
 
