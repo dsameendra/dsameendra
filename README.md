@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Value your friendship. Value your relationships.”</i><br/>
-  — Barbara Bush
+  <i>“To listen well is as powerful a means of communication and influence as to talk well.”</i><br/>
+  — John Marshall
 </p>
 </div>
 
