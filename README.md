@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“He who conquers others is strong; He who conquers himself is mighty.”</i><br/>
-  — Laozi
+  <i>“In wartime, truth is so precious that she should always be attended by a bodyguard of lies.”</i><br/>
+  — Winston Churchill
 </p>
 </div>
 
