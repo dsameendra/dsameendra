@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You're not obligated to win. You're obligated to keep trying to do the best you can every day.”</i><br/>
-  — Marian Wright Edelman
+  <i>“I cannot make my days longer, so I strive to make them better.”</i><br/>
+  — Henry David Thoreau
 </p>
 </div>
 
