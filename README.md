@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“In wartime, truth is so precious that she should always be attended by a bodyguard of lies.”</i><br/>
-  — Winston Churchill
+  <i>“Rejoicing in our joy, not suffering over our suffering, makes someone a friend.”</i><br/>
+  — Friedrich Nietzsche
 </p>
 </div>
 
