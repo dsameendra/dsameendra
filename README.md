@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I cannot make my days longer, so I strive to make them better.”</i><br/>
-  — Henry David Thoreau
+  <i>“He who conquers others is strong; He who conquers himself is mighty.”</i><br/>
+  — Laozi
 </p>
 </div>
 
