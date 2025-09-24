@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you.”</i><br/>
-  — Julie Morgenstern
+  <i>“Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it.”</i><br/>
+  — M. Scott Peck
 </p>
 </div>
 
