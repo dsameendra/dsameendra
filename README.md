@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Rejoicing in our joy, not suffering over our suffering, makes someone a friend.”</i><br/>
-  — Friedrich Nietzsche
+  <i>“Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you.”</i><br/>
+  — Julie Morgenstern
 </p>
 </div>
 
