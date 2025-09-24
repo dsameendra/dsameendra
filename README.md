@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it.”</i><br/>
-  — M. Scott Peck
+  <i>“Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.”</i><br/>
+  — Horace
 </p>
 </div>
 
