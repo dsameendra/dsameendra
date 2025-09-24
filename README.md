@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.”</i><br/>
-  — Horace
+  <i>“If you owe the bank <div id="quote">00 that's your problem. If you owe the bank <div id="quote">00 million, that's the bank's problem.”</i><br/>
+  — J. Paul Getty
 </p>
 </div>
 
