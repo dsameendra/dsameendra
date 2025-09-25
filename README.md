@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you owe the bank <div id="quote">00 that's your problem. If you owe the bank <div id="quote">00 million, that's the bank's problem.”</i><br/>
-  — J. Paul Getty
+  <i>“Do you want to know who you are? Don't ask. Act! Action will delineate and define you.”</i><br/>
+  — Thomas Jefferson
 </p>
 </div>
 
