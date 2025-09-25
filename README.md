@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Absence makes the heart grow fonder.”</i><br/>
-  — Thomas Haynes Bayly
+  <i>“A friend is one who knows you and loves you just the same.”</i><br/>
+  — Elbert Hubbard
 </p>
 </div>
 
