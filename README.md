@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A friend is one who knows you and loves you just the same.”</i><br/>
-  — Elbert Hubbard
+  <i>“The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work.”</i><br/>
+  — Dalai Lama
 </p>
 </div>
 
