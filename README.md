@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The wisest men follow their own direction.”</i><br/>
-  — Euripides
+  <i>“A man's growth is seen in the successive choirs of his friends”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
