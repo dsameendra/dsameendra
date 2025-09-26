@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Good luck is another name for tenacity of purpose.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“Doing nothing is better than being busy doing nothing.”</i><br/>
+  — Laozi
 </p>
 </div>
 
