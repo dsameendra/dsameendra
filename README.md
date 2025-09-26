@@ -6,7 +6,7 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A man's growth is seen in the successive choirs of his friends”</i><br/>
+  <i>“Good luck is another name for tenacity of purpose.”</i><br/>
   — Ralph Waldo Emerson
 </p>
 </div>
