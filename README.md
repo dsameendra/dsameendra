@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work.”</i><br/>
-  — Dalai Lama
+  <i>“The wisest men follow their own direction.”</i><br/>
+  — Euripides
 </p>
 </div>
 
