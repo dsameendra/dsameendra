@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Doing nothing is better than being busy doing nothing.”</i><br/>
-  — Laozi
+  <i>“When your desires are strong enough you will appear to possess superhuman powers to achieve.”</i><br/>
+  — Napoleon Hill
 </p>
 </div>
 
