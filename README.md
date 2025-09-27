@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Hope arouses, as nothing else can arouse, a passion for the possible.”</i><br/>
-  — William Sloane Coffin
+  <i>“He is no fool who gives what he cannot keep to gain what he cannot lose.”</i><br/>
+  — Jim Elliot
 </p>
 </div>
 
