@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Don't leave a stone unturned. It's always something, to know you have done the most you could.”</i><br/>
-  — Charles Dickens
+  <i>“A friend is a gift you give yourself.”</i><br/>
+  — Robert Louis Stevenson
 </p>
 </div>
 
