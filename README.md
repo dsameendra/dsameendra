@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I know not age, nor weariness nor defeat.”</i><br/>
-  — Rose Kennedy
+  <i>“Ideals are an imaginative understanding of that which is desirable in that which is possible.”</i><br/>
+  — Walter Lippmann
 </p>
 </div>
 
