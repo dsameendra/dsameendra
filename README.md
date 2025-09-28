@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“He is no fool who gives what he cannot keep to gain what he cannot lose.”</i><br/>
-  — Jim Elliot
+  <i>“I know not age, nor weariness nor defeat.”</i><br/>
+  — Rose Kennedy
 </p>
 </div>
 
