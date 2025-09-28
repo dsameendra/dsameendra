@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Ideals are an imaginative understanding of that which is desirable in that which is possible.”</i><br/>
-  — Walter Lippmann
+  <i>“Don't leave a stone unturned. It's always something, to know you have done the most you could.”</i><br/>
+  — Charles Dickens
 </p>
 </div>
 
