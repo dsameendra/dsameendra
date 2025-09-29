@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There are three faithful friends - an old wife, an old dog, and ready money.”</i><br/>
-  — Benjamin Franklin
+  <i>“Before you put on a frown, make absolutely sure there are no smiles available.”</i><br/>
+  — James M. Beggs
 </p>
 </div>
 
