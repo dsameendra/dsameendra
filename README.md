@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Action is the foundational key to all success.”</i><br/>
-  — Pablo Picasso
+  <i>“There are three faithful friends - an old wife, an old dog, and ready money.”</i><br/>
+  — Benjamin Franklin
 </p>
 </div>
 
