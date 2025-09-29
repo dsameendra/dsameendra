@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A friend is a gift you give yourself.”</i><br/>
-  — Robert Louis Stevenson
+  <i>“Setting an example is not the main means of influencing another, it is the only means.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
