@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I am not bothered by the fact that I am unknown. I am bothered when I do not know others.”</i><br/>
-  — Confucius
+  <i>“Give me six hours to chop down a tree and I will spend the first four sharpening the axe.”</i><br/>
+  — Abraham Lincoln
 </p>
 </div>
 
