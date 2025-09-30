@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Give me six hours to chop down a tree and I will spend the first four sharpening the axe.”</i><br/>
-  — Abraham Lincoln
+  <i>“It is through science that we prove, but through intuition that we discover.”</i><br/>
+  — Henri Poincaré
 </p>
 </div>
 
