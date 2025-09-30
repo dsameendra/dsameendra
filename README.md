@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It is through science that we prove, but through intuition that we discover.”</i><br/>
-  — Henri Poincaré
+  <i>“Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort.”</i><br/>
+  — Epictetus
 </p>
 </div>
 
