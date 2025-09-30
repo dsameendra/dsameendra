@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Before you put on a frown, make absolutely sure there are no smiles available.”</i><br/>
-  — James M. Beggs
+  <i>“I am not bothered by the fact that I am unknown. I am bothered when I do not know others.”</i><br/>
+  — Confucius
 </p>
 </div>
 
