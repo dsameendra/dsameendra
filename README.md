@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It's not what happens to you, but how you react to it that matters.”</i><br/>
-  — Epictetus
+  <i>“When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.”</i><br/>
+  — Wayne Dyer
 </p>
 </div>
 
