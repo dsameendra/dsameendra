@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort.”</i><br/>
-  — Epictetus
+  <i>“I won't close down a business of subnormal profitability merely to add a fraction of a point to our corporate returns. I also feel it inappropriate for even an exceptionally profitable company to fund an operation once it appears to have unending losses in prospect. Adam Smith would disagree with my first proposition and Karl Marx would disagree with my second; the middle ground is the only position that leaves me comfortable.”</i><br/>
+  — Warren Buffett
 </p>
 </div>
 
