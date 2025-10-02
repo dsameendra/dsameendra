@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.”</i><br/>
-  — Wayne Dyer
+  <i>“Without some goals and some efforts to reach it, no man can live.”</i><br/>
+  — John Dewey
 </p>
 </div>
 
