@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Think big thoughts but relish small pleasures.”</i><br/>
-  — H. Jackson Brown Jr.
+  <i>“Let the future tell the truth and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine.”</i><br/>
+  — Nikola Tesla
 </p>
 </div>
 
