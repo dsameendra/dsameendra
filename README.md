@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Let the future tell the truth and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine.”</i><br/>
-  — Nikola Tesla
+  <i>“In wisdom gathered over time I have found that every experience is a form of exploration.”</i><br/>
+  — Ansel Adams
 </p>
 </div>
 
