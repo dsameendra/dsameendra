@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Without some goals and some efforts to reach it, no man can live.”</i><br/>
-  — John Dewey
+  <i>“Think big thoughts but relish small pleasures.”</i><br/>
+  — H. Jackson Brown Jr.
 </p>
 </div>
 
