@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“He who angers you conquers you.”</i><br/>
-  — Elizabeth Kenny
+  <i>“The greatest obstacle to connecting with our joy is resentment.”</i><br/>
+  — Pema Chödrön
 </p>
 </div>
 
