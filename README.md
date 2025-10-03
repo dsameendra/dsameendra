@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“In wisdom gathered over time I have found that every experience is a form of exploration.”</i><br/>
-  — Ansel Adams
+  <i>“There is no greater harm than that of time wasted.”</i><br/>
+  — Michelangelo
 </p>
 </div>
 
