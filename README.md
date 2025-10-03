@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There is no greater harm than that of time wasted.”</i><br/>
-  — Michelangelo
+  <i>“One may say the eternal mystery of the world is its comprehensibility.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
