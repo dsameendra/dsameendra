@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“One may say the eternal mystery of the world is its comprehensibility.”</i><br/>
-  — Albert Einstein
+  <i>“He who angers you conquers you.”</i><br/>
+  — Elizabeth Kenny
 </p>
 </div>
 
