@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The greatest obstacle to connecting with our joy is resentment.”</i><br/>
-  — Pema Chödrön
+  <i>“Be the chief but never the lord.”</i><br/>
+  — Laozi
 </p>
 </div>
 
