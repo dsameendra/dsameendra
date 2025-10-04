@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It's easier to resist at the beginning than at the end.”</i><br/>
-  — Leonardo da Vinci
+  <i>“Happiness does not come from doing easy work but from the afterglow of satisfaction that comes after the achievement of a difficult task that demanded our best.”</i><br/>
+  — Theodore Isaac Rubin
 </p>
 </div>
 
