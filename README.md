@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Be the chief but never the lord.”</i><br/>
-  — Laozi
+  <i>“We are all faced with a series of great opportunities brilliantly disguised as impossible situations.”</i><br/>
+  — Chuck Swindoll
 </p>
 </div>
 
