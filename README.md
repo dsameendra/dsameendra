@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“In action a great heart is the chief qualification. In work, a great head.”</i><br/>
-  — Arthur Schopenhauer
+  <i>“Those who dream by day are cognizant of many things which escape those who dream only by night.”</i><br/>
+  — Edgar Allan Poe
 </p>
 </div>
 
