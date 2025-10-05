@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Those who dream by day are cognizant of many things which escape those who dream only by night.”</i><br/>
-  — Edgar Allan Poe
+  <i>“Decision is a risk rooted in the courage of being free.”</i><br/>
+  — Paul Tillich
 </p>
 </div>
 
