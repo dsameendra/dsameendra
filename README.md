@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Happiness does not come from doing easy work but from the afterglow of satisfaction that comes after the achievement of a difficult task that demanded our best.”</i><br/>
-  — Theodore Isaac Rubin
+  <i>“In action a great heart is the chief qualification. In work, a great head.”</i><br/>
+  — Arthur Schopenhauer
 </p>
 </div>
 
