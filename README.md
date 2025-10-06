@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The world is but a canvas to the imagination.”</i><br/>
-  — Henry David Thoreau
+  <i>“We need never be ashamed of our tears.”</i><br/>
+  — Charles Dickens
 </p>
 </div>
 
