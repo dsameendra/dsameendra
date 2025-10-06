@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Let the beauty of what you love be what you do.”</i><br/>
-  — Rumi
+  <i>“The world is but a canvas to the imagination.”</i><br/>
+  — Henry David Thoreau
 </p>
 </div>
 
