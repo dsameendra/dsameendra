@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.”</i><br/>
-  — Sri Chinmoy
+  <i>“Let the beauty of what you love be what you do.”</i><br/>
+  — Rumi
 </p>
 </div>
 
