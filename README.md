@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Decision is a risk rooted in the courage of being free.”</i><br/>
-  — Paul Tillich
+  <i>“Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.”</i><br/>
+  — Sri Chinmoy
 </p>
 </div>
 
