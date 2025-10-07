@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“What we achieve inwardly will change outer reality.”</i><br/>
-  — Plutarch
+  <i>“Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.”</i><br/>
+  — Nikola Tesla
 </p>
 </div>
 
