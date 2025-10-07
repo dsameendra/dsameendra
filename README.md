@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We need never be ashamed of our tears.”</i><br/>
-  — Charles Dickens
+  <i>“What we achieve inwardly will change outer reality.”</i><br/>
+  — Plutarch
 </p>
 </div>
 
