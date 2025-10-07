@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.”</i><br/>
-  — Nikola Tesla
+  <i>“Wisdom is found only in truth.”</i><br/>
+  — Johann Wolfgang von Goethe
 </p>
 </div>
 
