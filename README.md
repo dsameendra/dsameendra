@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You can do it if you believe you can!”</i><br/>
-  — Napoleon Hill
+  <i>“To study and not think is a waste. To think and not study is dangerous.”</i><br/>
+  — Confucius
 </p>
 </div>
 
