@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“To study and not think is a waste. To think and not study is dangerous.”</i><br/>
-  — Confucius
+  <i>“If only wed stop trying to be happy wed have a pretty good time.”</i><br/>
+  — Edith Wharton
 </p>
 </div>
 
