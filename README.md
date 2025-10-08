@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Watch the little things; a small leak will sink a great ship.”</i><br/>
-  — Benjamin Franklin
+  <i>“You can do it if you believe you can!”</i><br/>
+  — Napoleon Hill
 </p>
 </div>
 
