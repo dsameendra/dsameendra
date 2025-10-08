@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Wisdom is found only in truth.”</i><br/>
-  — Johann Wolfgang von Goethe
+  <i>“Watch the little things; a small leak will sink a great ship.”</i><br/>
+  — Benjamin Franklin
 </p>
 </div>
 
