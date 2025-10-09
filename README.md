@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Remember that the most valuable antiques are dear old friends.”</i><br/>
-  — H. Jackson Brown Jr.
+  <i>“The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.”</i><br/>
+  — Anaïs Nin
 </p>
 </div>
 
