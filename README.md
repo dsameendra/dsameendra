@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If only wed stop trying to be happy wed have a pretty good time.”</i><br/>
-  — Edith Wharton
+  <i>“Life is the flower for which love is the honey.”</i><br/>
+  — Victor Hugo
 </p>
 </div>
 
