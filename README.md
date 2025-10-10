@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Memory is the mother of all wisdom.”</i><br/>
-  — Samuel Johnson
+  <i>“Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it.”</i><br/>
+  — Lou Holtz
 </p>
 </div>
 
