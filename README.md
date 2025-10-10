@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?”</i><br/>
-  — Confucius
+  <i>“Accept the things to which fate binds you and love the people with whom fate brings you together but do so with all your heart.”</i><br/>
+  — Marcus Aurelius
 </p>
 </div>
 
