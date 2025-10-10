@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it.”</i><br/>
-  — Lou Holtz
+  <i>“If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?”</i><br/>
+  — Confucius
 </p>
 </div>
 
