@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.”</i><br/>
-  — Anaïs Nin
+  <i>“Memory is the mother of all wisdom.”</i><br/>
+  — Samuel Johnson
 </p>
 </div>
 
