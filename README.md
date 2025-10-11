@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.”</i><br/>
-  — Herbert Bayard Swope
+  <i>“It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.”</i><br/>
+  — Dalai Lama
 </p>
 </div>
 
