@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.”</i><br/>
-  — Dalai Lama
+  <i>“The inherent vice of capitalism is the unequal sharing of blessings; the inherent virtue of socialism is the equal sharing of miseries.”</i><br/>
+  — Winston Churchill
 </p>
 </div>
 
