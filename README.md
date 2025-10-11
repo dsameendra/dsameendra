@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Accept the things to which fate binds you and love the people with whom fate brings you together but do so with all your heart.”</i><br/>
-  — Marcus Aurelius
+  <i>“I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.”</i><br/>
+  — Herbert Bayard Swope
 </p>
 </div>
 
