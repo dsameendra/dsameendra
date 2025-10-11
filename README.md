@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The inherent vice of capitalism is the unequal sharing of blessings; the inherent virtue of socialism is the equal sharing of miseries.”</i><br/>
-  — Winston Churchill
+  <i>“The mind unlearns with difficulty what it has long learned.”</i><br/>
+  — Seneca the Younger
 </p>
 </div>
 
