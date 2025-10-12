@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary.”</i><br/>
-  — Thomas Edison
+  <i>“Nothing but heaven itself is better than a friend who is really a friend.”</i><br/>
+  — Plautus
 </p>
 </div>
 
