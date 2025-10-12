@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The mind unlearns with difficulty what it has long learned.”</i><br/>
-  — Seneca the Younger
+  <i>“The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary.”</i><br/>
+  — Thomas Edison
 </p>
 </div>
 
