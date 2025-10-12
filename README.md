@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Peace is not something you wish for. It's something you make, something you do, something you are, and something you give away.”</i><br/>
-  — Robert Fulghum
+  <i>“The aim of life is self-development. To realize one's nature perfectly - that is what each of us is here for.”</i><br/>
+  — Oscar Wilde
 </p>
 </div>
 
