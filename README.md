@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Fear grows in darkness; if you think there's a bogeyman around, turn on the light.”</i><br/>
-  — Dorothy Thompson
+  <i>“Every great advance in science has issued from a new audacity of the imagination.”</i><br/>
+  — John Dewey
 </p>
 </div>
 
