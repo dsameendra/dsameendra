@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Technology is a word that describes something that doesn't work yet.”</i><br/>
-  — Douglas Adams
+  <i>“Fear grows in darkness; if you think there's a bogeyman around, turn on the light.”</i><br/>
+  — Dorothy Thompson
 </p>
 </div>
 
