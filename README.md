@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It is never too late to be what you might have been.”</i><br/>
-  — George Eliot
+  <i>“Technology is a word that describes something that doesn't work yet.”</i><br/>
+  — Douglas Adams
 </p>
 </div>
 
