@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Neatness begets order; but from order to taste there is the same difference as from taste to genius, or from love to friendship.”</i><br/>
-  — Johann Kaspar Lavater
+  <i>“Self-trust is the first secret of success.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
