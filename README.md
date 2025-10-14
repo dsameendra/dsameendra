@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Self-trust is the first secret of success.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“Appearances are often deceiving.”</i><br/>
+  — Aesop
 </p>
 </div>
 
