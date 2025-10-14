@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The only true wisdom is in knowing you know nothing.”</i><br/>
-  — Isocrates
+  <i>“Neatness begets order; but from order to taste there is the same difference as from taste to genius, or from love to friendship.”</i><br/>
+  — Johann Kaspar Lavater
 </p>
 </div>
 
