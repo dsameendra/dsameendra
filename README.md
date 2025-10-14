@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Every great advance in science has issued from a new audacity of the imagination.”</i><br/>
-  — John Dewey
+  <i>“The only true wisdom is in knowing you know nothing.”</i><br/>
+  — Isocrates
 </p>
 </div>
 
