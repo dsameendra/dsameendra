@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Do you know what my favorite part of the game is? The opportunity to play.”</i><br/>
-  — Mike Singletary (basketball)
+  <i>“It is not uncommon for people to spend their whole life waiting to start living.”</i><br/>
+  — Eckhart Tolle
 </p>
 </div>
 
