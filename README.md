@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Appearances are often deceiving.”</i><br/>
-  — Aesop
+  <i>“Do you know what my favorite part of the game is? The opportunity to play.”</i><br/>
+  — Mike Singletary (basketball)
 </p>
 </div>
 
