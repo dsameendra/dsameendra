@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It is not uncommon for people to spend their whole life waiting to start living.”</i><br/>
-  — Eckhart Tolle
+  <i>“Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.”</i><br/>
+  — Laozi
 </p>
 </div>
 
