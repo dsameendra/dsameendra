@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.”</i><br/>
-  — Sam Keen
+  <i>“As a technology, the book is like a hammer. That is to say, it is perfect: a tool ideally suited to its task. Hammers can be tweaked and varied but will never go obsolete. Even when builders pound nails by the thousand with pneumatic nail guns, every household needs a hammer.”</i><br/>
+  — James Gleick
 </p>
 </div>
 
