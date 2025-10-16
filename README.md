@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.”</i><br/>
-  — Margaret Cousins
+  <i>“We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.”</i><br/>
+  — Sam Keen
 </p>
 </div>
 
