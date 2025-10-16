@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Yesterday I dared to struggle. Today I dare to win.”</i><br/>
-  — Bernadette Devlin
+  <i>“If you must tell me your opinions, tell me what you believe in. I have plenty of doubts of my own.”</i><br/>
+  — Johann Wolfgang von Goethe
 </p>
 </div>
 
