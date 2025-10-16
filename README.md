@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you must tell me your opinions, tell me what you believe in. I have plenty of doubts of my own.”</i><br/>
-  — Johann Wolfgang von Goethe
+  <i>“Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.”</i><br/>
+  — Margaret Cousins
 </p>
 </div>
 
