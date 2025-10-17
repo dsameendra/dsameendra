@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If I find 10,000 ways something won't work, I haven't failed. I am not discouraged, because every wrong attempt discarded is another step forward.”</i><br/>
-  — Thomas Edison
+  <i>“We respect our elders. There is wisdom that comes from experience, and I am not going to stop learning from wise counsel.”</i><br/>
+  — Marcia Fudge
 </p>
 </div>
 
