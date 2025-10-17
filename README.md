@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The grand essentials of happiness are: something to do, something to love, and something to hope for.”</i><br/>
-  — Alexander Chalmers
+  <i>“If I find 10,000 ways something won't work, I haven't failed. I am not discouraged, because every wrong attempt discarded is another step forward.”</i><br/>
+  — Thomas Edison
 </p>
 </div>
 
