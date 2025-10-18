@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It is through science that we prove, but through intuition that we discover.”</i><br/>
-  — Henri Poincaré
+  <i>“You can always tell a real friend: when you've made a fool of yourself he doesn't feel you've done a permanent job.”</i><br/>
+  — Laurence J. Peter
 </p>
 </div>
 
