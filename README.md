@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A single rose can be my garden... a single friend, my world.”</i><br/>
-  — Leo Buscaglia
+  <i>“Numberless are the worlds wonders, but none more wonderful than man.”</i><br/>
+  — Sophocles
 </p>
 </div>
 
