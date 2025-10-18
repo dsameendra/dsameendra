@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“When you come to the end of your rope, tie a knot and hang on.”</i><br/>
-  — Franklin D. Roosevelt
+  <i>“A single rose can be my garden... a single friend, my world.”</i><br/>
+  — Leo Buscaglia
 </p>
 </div>
 
