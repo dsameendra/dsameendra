@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“In dwelling, live close to the ground. In thinking, keep to the simple. In conflict, be fair and generous. In governing, don't try to control. In work, do what you enjoy. In family life, be completely present.”</i><br/>
-  — Laozi
+  <i>“You don't choose your family. They are God's gift to you, as you are to them.”</i><br/>
+  — Desmond Tutu
 </p>
 </div>
 
