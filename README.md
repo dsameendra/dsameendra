@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Knowing is not enough; we must apply!”</i><br/>
-  — Johann Wolfgang von Goethe
+  <i>“When you learn, teach. When you get, give.”</i><br/>
+  — Maya Angelou
 </p>
 </div>
 
