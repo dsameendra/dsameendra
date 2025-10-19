@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Numberless are the worlds wonders, but none more wonderful than man.”</i><br/>
-  — Sophocles
+  <i>“Knowing is not enough; we must apply!”</i><br/>
+  — Johann Wolfgang von Goethe
 </p>
 </div>
 
