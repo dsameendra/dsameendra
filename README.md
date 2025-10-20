@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You don't choose your family. They are God's gift to you, as you are to them.”</i><br/>
-  — Desmond Tutu
+  <i>“Sorrow is knowledge, those that know the most must mourn the deepest, the tree of knowledge is not the tree of life.”</i><br/>
+  — Lord Byron
 </p>
 </div>
 
