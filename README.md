@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You have enemies? Good. That means you've stood up for something, sometime in your life.”</i><br/>
-  — Winston Churchill
+  <i>“To choose what is difficult all one's days, as if it were easy, that is faith.”</i><br/>
+  — W. H. Auden
 </p>
 </div>
 
