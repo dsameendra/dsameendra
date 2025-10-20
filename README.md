@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Sorrow is knowledge, those that know the most must mourn the deepest, the tree of knowledge is not the tree of life.”</i><br/>
-  — Lord Byron
+  <i>“Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.”</i><br/>
+  — Bruce Lee
 </p>
 </div>
 
