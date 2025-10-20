@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.”</i><br/>
-  — Bruce Lee
+  <i>“You have enemies? Good. That means you've stood up for something, sometime in your life.”</i><br/>
+  — Winston Churchill
 </p>
 </div>
 
