@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“What the caterpillar calls the end of the world, the master calls a butterfly.”</i><br/>
-  — Richard Bach
+  <i>“Your mind will answer most questions if you learn to relax and wait for the answer.”</i><br/>
+  — William Burroughs
 </p>
 </div>
 
