@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Your mind will answer most questions if you learn to relax and wait for the answer.”</i><br/>
-  — William Burroughs
+  <i>“The doorstep to the temple of wisdom is a knowledge of our own ignorance.”</i><br/>
+  — Benjamin Franklin
 </p>
 </div>
 
