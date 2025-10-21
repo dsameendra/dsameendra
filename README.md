@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The doorstep to the temple of wisdom is a knowledge of our own ignorance.”</i><br/>
-  — Benjamin Franklin
+  <i>“Never deny a diagnosis but do deny the negative verdict that may go with it.”</i><br/>
+  — Norman Cousins
 </p>
 </div>
 
