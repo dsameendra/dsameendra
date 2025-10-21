@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“To choose what is difficult all one's days, as if it were easy, that is faith.”</i><br/>
-  — W. H. Auden
+  <i>“What the caterpillar calls the end of the world, the master calls a butterfly.”</i><br/>
+  — Richard Bach
 </p>
 </div>
 
