@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“No bird soars too high if he soars with his own wings.”</i><br/>
-  — William Blake
+  <i>“For it was not into my ear you whispered, but into my heart. It was not my lips you kissed, but my soul.”</i><br/>
+  — Judy Garland
 </p>
 </div>
 
