@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Irony is the gaiety of reflection and the joy of wisdom.”</i><br/>
-  — Anatole France
+  <i>“I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain.”</i><br/>
+  — Oprah Winfrey
 </p>
 </div>
 
