@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Never deny a diagnosis but do deny the negative verdict that may go with it.”</i><br/>
-  — Norman Cousins
+  <i>“Irony is the gaiety of reflection and the joy of wisdom.”</i><br/>
+  — Anatole France
 </p>
 </div>
 
