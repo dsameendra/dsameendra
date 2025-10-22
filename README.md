@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain.”</i><br/>
-  — Oprah Winfrey
+  <i>“No bird soars too high if he soars with his own wings.”</i><br/>
+  — William Blake
 </p>
 </div>
 
