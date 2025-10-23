@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Work for something because it is good, not just because it stands a chance to succeed.”</i><br/>
-  — Václav Havel
+  <i>“In the end we retain from our studies only that which we practically apply.”</i><br/>
+  — Johann Wolfgang von Goethe
 </p>
 </div>
 
