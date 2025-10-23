@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“In the end we retain from our studies only that which we practically apply.”</i><br/>
-  — Johann Wolfgang von Goethe
+  <i>“If you can't explain it simply, you don't understand it well enough.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
