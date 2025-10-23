@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“For it was not into my ear you whispered, but into my heart. It was not my lips you kissed, but my soul.”</i><br/>
-  — Judy Garland
+  <i>“Work for something because it is good, not just because it stands a chance to succeed.”</i><br/>
+  — Václav Havel
 </p>
 </div>
 
