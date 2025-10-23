@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you can't explain it simply, you don't understand it well enough.”</i><br/>
-  — Albert Einstein
+  <i>“Things do not change; we change.”</i><br/>
+  — Henry David Thoreau
 </p>
 </div>
 
