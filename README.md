@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Know how to listen, and you will profit even from those who talk badly.”</i><br/>
-  — Plutarch
+  <i>“The foolish man seeks happiness in the distance, the wise grows it under his feet.”</i><br/>
+  — James Oppenheim
 </p>
 </div>
 
