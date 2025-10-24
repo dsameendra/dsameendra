@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Things do not change; we change.”</i><br/>
-  — Henry David Thoreau
+  <i>“Know how to listen, and you will profit even from those who talk badly.”</i><br/>
+  — Plutarch
 </p>
 </div>
 
