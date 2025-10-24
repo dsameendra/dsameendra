@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I want you to be everything that's you, deep at the center of your being.”</i><br/>
-  — Confucius
+  <i>“Life is like riding a bicycle. To keep your balance you must keep moving.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
