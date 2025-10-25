@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The more you know yourself, the more you forgive yourself.”</i><br/>
-  — Confucius
+  <i>“Subdue your appetites, my dears, and you've conquered human nature.”</i><br/>
+  — Charles Dickens
 </p>
 </div>
 
