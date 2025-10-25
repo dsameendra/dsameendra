@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You are always free to change your mind and choose a different future, or a different past.”</i><br/>
-  — Richard Bach
+  <i>“The more you know yourself, the more you forgive yourself.”</i><br/>
+  — Confucius
 </p>
 </div>
 
