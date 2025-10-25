@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Life is like riding a bicycle. To keep your balance you must keep moving.”</i><br/>
-  — Albert Einstein
+  <i>“The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out.”</i><br/>
+  — Walter Benjamin
 </p>
 </div>
 
