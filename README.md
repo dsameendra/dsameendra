@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out.”</i><br/>
-  — Walter Benjamin
+  <i>“You are always free to change your mind and choose a different future, or a different past.”</i><br/>
+  — Richard Bach
 </p>
 </div>
 
