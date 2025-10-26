@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Subdue your appetites, my dears, and you've conquered human nature.”</i><br/>
-  — Charles Dickens
+  <i>“When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run.”</i><br/>
+  — Abraham Lincoln
 </p>
 </div>
 
