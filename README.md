@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The biggest room in the world is room for improvement.”</i><br/>
-  — Helmut Schmidt
+  <i>“Every artist dips his brush in his own soul, and paints his own nature into his pictures.”</i><br/>
+  — Henry Ward Beecher
 </p>
 </div>
 
