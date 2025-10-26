@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run.”</i><br/>
-  — Abraham Lincoln
+  <i>“Life without love is like a tree without blossoms or fruit.”</i><br/>
+  — Kahlil Gibran
 </p>
 </div>
 
