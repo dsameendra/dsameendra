@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Life without love is like a tree without blossoms or fruit.”</i><br/>
-  — Kahlil Gibran
+  <i>“The biggest room in the world is room for improvement.”</i><br/>
+  — Helmut Schmidt
 </p>
 </div>
 
