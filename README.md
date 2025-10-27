@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Every artist dips his brush in his own soul, and paints his own nature into his pictures.”</i><br/>
-  — Henry Ward Beecher
+  <i>“Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth.”</i><br/>
+  — Arthur Conan Doyle
 </p>
 </div>
 
