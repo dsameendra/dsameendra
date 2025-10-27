@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth.”</i><br/>
-  — Arthur Conan Doyle
+  <i>“Be content with your lot; one cannot be first in everything.”</i><br/>
+  — Aesop
 </p>
 </div>
 
