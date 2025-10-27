@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Maxim for life: You get treated in life the way you teach people to treat you.”</i><br/>
-  — Wayne Dyer
+  <i>“Happiness often sneaks in through a door you didn't know you left open.”</i><br/>
+  — John Barrymore
 </p>
 </div>
 
