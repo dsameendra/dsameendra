@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Be content with your lot; one cannot be first in everything.”</i><br/>
-  — Aesop
+  <i>“Maxim for life: You get treated in life the way you teach people to treat you.”</i><br/>
+  — Wayne Dyer
 </p>
 </div>
 
