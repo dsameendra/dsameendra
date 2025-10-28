@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Rejoicing in our joy, not suffering over our suffering, makes someone a friend.”</i><br/>
-  — Friedrich Nietzsche
+  <i>“Quality is not an act; it is a habit.”</i><br/>
+  — Aristotle
 </p>
 </div>
 
