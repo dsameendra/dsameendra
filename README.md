@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Happiness often sneaks in through a door you didn't know you left open.”</i><br/>
-  — John Barrymore
+  <i>“He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today.”</i><br/>
+  — Tryon Edwards
 </p>
 </div>
 
