@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“In life, all good things come hard, but wisdom is the hardest to come by.”</i><br/>
-  — Lucille Ball
+  <i>“Rejoicing in our joy, not suffering over our suffering, makes someone a friend.”</i><br/>
+  — Friedrich Nietzsche
 </p>
 </div>
 
