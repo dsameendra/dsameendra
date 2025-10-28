@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today.”</i><br/>
-  — Tryon Edwards
+  <i>“In life, all good things come hard, but wisdom is the hardest to come by.”</i><br/>
+  — Lucille Ball
 </p>
 </div>
 
