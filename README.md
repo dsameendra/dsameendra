@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The only real mistake is the one from which we learn nothing.”</i><br/>
-  — John Powell
+  <i>“For beautiful eyes, look for the good in others; for beautiful lips, speak only words of kindness; and for poise, walk with the knowledge that you are never alone.”</i><br/>
+  — Audrey Hepburn
 </p>
 </div>
 
