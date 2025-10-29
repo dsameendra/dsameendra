@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“For beautiful eyes, look for the good in others; for beautiful lips, speak only words of kindness; and for poise, walk with the knowledge that you are never alone.”</i><br/>
-  — Audrey Hepburn
+  <i>“'As I am, so are they; as they are, so am I.' Comparing others with oneself, do not kill nor cause others to kill.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
