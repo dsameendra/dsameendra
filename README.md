@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Quality is not an act; it is a habit.”</i><br/>
-  — Aristotle
+  <i>“The only real mistake is the one from which we learn nothing.”</i><br/>
+  — John Powell
 </p>
 </div>
 
