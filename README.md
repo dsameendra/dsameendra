@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“'As I am, so are they; as they are, so am I.' Comparing others with oneself, do not kill nor cause others to kill.”</i><br/>
-  — The Buddha
+  <i>“The only thing to do with good advice is to pass it on. It is never of any use to oneself.”</i><br/>
+  — Oscar Wilde
 </p>
 </div>
 
