@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We are stuck with technology when what we really want is just stuff that works.”</i><br/>
-  — Douglas Adams
+  <i>“I hope our wisdom will grow with our power, and teach us, that the less we use our power the greater it will be.”</i><br/>
+  — Thomas Jefferson
 </p>
 </div>
 
