@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I hope our wisdom will grow with our power, and teach us, that the less we use our power the greater it will be.”</i><br/>
-  — Thomas Jefferson
+  <i>“Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.”</i><br/>
+  — Laozi
 </p>
 </div>
 
