@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The only thing to do with good advice is to pass it on. It is never of any use to oneself.”</i><br/>
-  — Oscar Wilde
+  <i>“To free us from the expectations of others, to give us back to ourselves... there lies the great, singular power of self-respect.”</i><br/>
+  — Joan Didion
 </p>
 </div>
 
