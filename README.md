@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“To free us from the expectations of others, to give us back to ourselves... there lies the great, singular power of self-respect.”</i><br/>
-  — Joan Didion
+  <i>“We are stuck with technology when what we really want is just stuff that works.”</i><br/>
+  — Douglas Adams
 </p>
 </div>
 
