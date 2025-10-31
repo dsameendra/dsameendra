@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you wish to be a writer, write.”</i><br/>
-  — Epictetus
+  <i>“Don't ruin the present with the ruined past.”</i><br/>
+  — Ellen Gilchrist
 </p>
 </div>
 
