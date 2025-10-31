@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.”</i><br/>
-  — Laozi
+  <i>“Give me six hours to chop down a tree and I will spend the first four sharpening the axe.”</i><br/>
+  — Abraham Lincoln
 </p>
 </div>
 
