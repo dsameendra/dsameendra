@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Don't ruin the present with the ruined past.”</i><br/>
-  — Ellen Gilchrist
+  <i>“Most powerful is he who has himself in his own power.”</i><br/>
+  — Seneca the Younger
 </p>
 </div>
 
