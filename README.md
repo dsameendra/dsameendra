@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Most powerful is he who has himself in his own power.”</i><br/>
-  — Seneca the Younger
+  <i>“The truth you believe and cling to makes you unavailable to hear anything new.”</i><br/>
+  — Pema Chödrön
 </p>
 </div>
 
