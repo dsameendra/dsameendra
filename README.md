@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“What lies behind us and what lies before us are tiny matters compared to what lies within us.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“If you cannot do great things, do small things in a great way.”</i><br/>
+  — Napoleon Hill
 </p>
 </div>
 
