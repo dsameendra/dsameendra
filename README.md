@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The truth you believe and cling to makes you unavailable to hear anything new.”</i><br/>
-  — Pema Chödrön
+  <i>“What lies behind us and what lies before us are tiny matters compared to what lies within us.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
