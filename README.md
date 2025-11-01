@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you cannot do great things, do small things in a great way.”</i><br/>
-  — Napoleon Hill
+  <i>“Once you label me you negate me.”</i><br/>
+  — Søren Kierkegaard
 </p>
 </div>
 
