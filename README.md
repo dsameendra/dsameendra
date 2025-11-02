@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The rule of friendship means there should be mutual sympathy between them, each supplying what the other lacks and trying to benefit the other, always using friendly and sincere words.”</i><br/>
-  — Cicero
+  <i>“Nothing is softer or more flexible than water, yet nothing can resist it.”</i><br/>
+  — Laozi
 </p>
 </div>
 
