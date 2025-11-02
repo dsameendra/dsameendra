@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Nothing is softer or more flexible than water, yet nothing can resist it.”</i><br/>
-  — Laozi
+  <i>“No snowflake in an avalanche ever feels responsible.”</i><br/>
+  — Voltaire
 </p>
 </div>
 
