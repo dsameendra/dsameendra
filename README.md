@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Friendship improves happiness and abates misery, by the doubling of our joy and the dividing of our grief.”</i><br/>
-  — Cicero
+  <i>“Never explain - your friends do not need it and your enemies will not believe you anyway.”</i><br/>
+  — Elbert Hubbard
 </p>
 </div>
 
