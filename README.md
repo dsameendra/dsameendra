@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The final wisdom of life requires not the annulment of incongruity but the achievement of serenity within and above it.”</i><br/>
-  — Reinhold Niebuhr
+  <i>“You learn to speak by speaking, to study by studying, to run by running, to work by working; in just the same way, you learn to love by loving.”</i><br/>
+  — Anatole France
 </p>
 </div>
 
