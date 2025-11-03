@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Never explain - your friends do not need it and your enemies will not believe you anyway.”</i><br/>
-  — Elbert Hubbard
+  <i>“The final wisdom of life requires not the annulment of incongruity but the achievement of serenity within and above it.”</i><br/>
+  — Reinhold Niebuhr
 </p>
 </div>
 
