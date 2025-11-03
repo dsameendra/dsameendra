@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You learn to speak by speaking, to study by studying, to run by running, to work by working; in just the same way, you learn to love by loving.”</i><br/>
-  — Anatole France
+  <i>“If a man going down into a river, swollen and swiftly flowing, is carried away by the current — how can he help others across? – The Buddha”</i><br/>
+  — The Buddha
 </p>
 </div>
 
