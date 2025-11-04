@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If a man going down into a river, swollen and swiftly flowing, is carried away by the current — how can he help others across? – The Buddha”</i><br/>
-  — The Buddha
+  <i>“How far that little candle throws its beams! So shines a good deed in a naughty world.”</i><br/>
+  — William Shakespeare
 </p>
 </div>
 
