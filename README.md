@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“With the realization of one's own potential and self-confidence in one's ability, one can build a better world.”</i><br/>
-  — Dalai Lama
+  <i>“We can change our lives. We can do, have, and be exactly what we wish.”</i><br/>
+  — Tony Robbins
 </p>
 </div>
 
