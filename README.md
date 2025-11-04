@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“How far that little candle throws its beams! So shines a good deed in a naughty world.”</i><br/>
-  — William Shakespeare
+  <i>“Nothing in life is so exhilarating as to be shot at without result.”</i><br/>
+  — Winston Churchill
 </p>
 </div>
 
