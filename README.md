@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Nothing in life is so exhilarating as to be shot at without result.”</i><br/>
-  — Winston Churchill
+  <i>“With the realization of one's own potential and self-confidence in one's ability, one can build a better world.”</i><br/>
+  — Dalai Lama
 </p>
 </div>
 
