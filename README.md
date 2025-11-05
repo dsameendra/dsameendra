@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We can change our lives. We can do, have, and be exactly what we wish.”</i><br/>
-  — Tony Robbins
+  <i>“Life is divided into the horrible and the miserable.”</i><br/>
+  — Woody Allen
 </p>
 </div>
 
