@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Imagination will often carry us to worlds that never were. But without it we go nowhere.”</i><br/>
-  — Carl Sagan
+  <i>“They say that time changes things, but you actually have to change them yourself.”</i><br/>
+  — Andy Warhol
 </p>
 </div>
 
