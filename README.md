@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“They say that time changes things, but you actually have to change them yourself.”</i><br/>
-  — Andy Warhol
+  <i>“Hope arouses, as nothing else can arouse, a passion for the possible.”</i><br/>
+  — William Sloane Coffin
 </p>
 </div>
 
