@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Life is divided into the horrible and the miserable.”</i><br/>
-  — Woody Allen
+  <i>“Imagination will often carry us to worlds that never were. But without it we go nowhere.”</i><br/>
+  — Carl Sagan
 </p>
 </div>
 
