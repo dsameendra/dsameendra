@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“One man practicing sportsmanship is far better than a hundred teaching it.”</i><br/>
-  — Knute Rockne
+  <i>“What happens is not as important as how you react to what happens.”</i><br/>
+  — Ellen Glasgow
 </p>
 </div>
 
