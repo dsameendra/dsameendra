@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Hope arouses, as nothing else can arouse, a passion for the possible.”</i><br/>
-  — William Sloane Coffin
+  <i>“Anything you really want, you can attain, if you really go after it.”</i><br/>
+  — Wayne Dyer
 </p>
 </div>
 
