@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Anything you really want, you can attain, if you really go after it.”</i><br/>
-  — Wayne Dyer
+  <i>“A ruffled mind makes a restless pillow.”</i><br/>
+  — Charlotte Brontë
 </p>
 </div>
 
