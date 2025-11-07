@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I am a man of fixed and unbending principles, the first of which is to be flexible at all times.”</i><br/>
-  — Everett Dirksen
+  <i>“Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.”</i><br/>
+  — Harriet Tubman
 </p>
 </div>
 
