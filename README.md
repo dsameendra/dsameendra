@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“What happens is not as important as how you react to what happens.”</i><br/>
-  — Ellen Glasgow
+  <i>“I am a man of fixed and unbending principles, the first of which is to be flexible at all times.”</i><br/>
+  — Everett Dirksen
 </p>
 </div>
 
