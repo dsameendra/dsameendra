@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.”</i><br/>
-  — Harriet Tubman
+  <i>“Love yourself first and everything else falls into line. You really have to love yourself to get anything done in this world.”</i><br/>
+  — Lucille Ball
 </p>
 </div>
 
