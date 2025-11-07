@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Love yourself first and everything else falls into line. You really have to love yourself to get anything done in this world.”</i><br/>
-  — Lucille Ball
+  <i>“It is in the nature of things that joy arises in a person free from remorse.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
