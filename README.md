@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Don't talk about what you have done or what you are going to do.”</i><br/>
-  — Thomas Jefferson
+  <i>“If I were two-faced, would I be wearing this one?”</i><br/>
+  — Abraham Lincoln
 </p>
 </div>
 
