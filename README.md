@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It is in the nature of things that joy arises in a person free from remorse.”</i><br/>
-  — The Buddha
+  <i>“The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.”</i><br/>
+  — Anaïs Nin
 </p>
 </div>
 
