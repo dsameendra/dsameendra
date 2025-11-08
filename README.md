@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.”</i><br/>
-  — Anaïs Nin
+  <i>“Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.”</i><br/>
+  — Franklin D. Roosevelt
 </p>
 </div>
 
