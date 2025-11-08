@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.”</i><br/>
-  — Franklin D. Roosevelt
+  <i>“Don't talk about what you have done or what you are going to do.”</i><br/>
+  — Thomas Jefferson
 </p>
 </div>
 
