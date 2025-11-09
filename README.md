@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We are all faced with a series of great opportunities brilliantly disguised as impossible situations.”</i><br/>
-  — Chuck Swindoll
+  <i>“The root of suffering is attachment.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
