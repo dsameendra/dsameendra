@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The root of suffering is attachment.”</i><br/>
-  — The Buddha
+  <i>“To succeed, we must first believe that we can.”</i><br/>
+  — Michael Korda
 </p>
 </div>
 
