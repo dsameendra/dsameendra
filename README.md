@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“To succeed, we must first believe that we can.”</i><br/>
-  — Michael Korda
+  <i>“I have often regretted my speech, never my silence.”</i><br/>
+  — Publilius Syrus
 </p>
 </div>
 
