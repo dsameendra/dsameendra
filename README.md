@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If I were two-faced, would I be wearing this one?”</i><br/>
-  — Abraham Lincoln
+  <i>“We are all faced with a series of great opportunities brilliantly disguised as impossible situations.”</i><br/>
+  — Chuck Swindoll
 </p>
 </div>
 
