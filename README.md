@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“When deeds and words are in accord, the whole world is transformed.”</i><br/>
-  — Zhuang Zhou
+  <i>“Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed.”</i><br/>
+  — Blaise Pascal
 </p>
 </div>
 
