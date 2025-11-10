@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever.”</i><br/>
-  — Amy Tan
+  <i>“When deeds and words are in accord, the whole world is transformed.”</i><br/>
+  — Zhuang Zhou
 </p>
 </div>
 
