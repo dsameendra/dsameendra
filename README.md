@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I have often regretted my speech, never my silence.”</i><br/>
-  — Publilius Syrus
+  <i>“I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever.”</i><br/>
+  — Amy Tan
 </p>
 </div>
 
