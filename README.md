@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Never interrupt someone doing what you said couldn't be done.”</i><br/>
-  — Amelia Earhart
+  <i>“We are made wise not by the recollection of our past, but by the responsibility for our future.”</i><br/>
+  — Bernard Shaw
 </p>
 </div>
 
