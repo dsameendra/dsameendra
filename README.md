@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You don't play against opponents, you play against the game of basketball.”</i><br/>
-  — Bob Knight
+  <i>“Never interrupt someone doing what you said couldn't be done.”</i><br/>
+  — Amelia Earhart
 </p>
 </div>
 
