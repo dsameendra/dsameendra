@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We are made wise not by the recollection of our past, but by the responsibility for our future.”</i><br/>
-  — Bernard Shaw
+  <i>“There never was a good knife made of bad steel.”</i><br/>
+  — Benjamin Franklin
 </p>
 </div>
 
