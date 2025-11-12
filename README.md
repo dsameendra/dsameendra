@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Discovery consists of seeing what everybody has seen and thinking what nobody else has thought.”</i><br/>
-  — Jonathan Swift
+  <i>“The teacher who is indeed wise does not bid you to enter the house of his wisdom but rather leads you to the threshold of your mind.”</i><br/>
+  — Kahlil Gibran
 </p>
 </div>
 
