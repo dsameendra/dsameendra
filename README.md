@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I am always doing that which I cannot do, in order that I may learn how to do it.”</i><br/>
-  — Pablo Picasso
+  <i>“We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre.”</i><br/>
+  — Uta Hagen
 </p>
 </div>
 
