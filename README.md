@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre.”</i><br/>
-  — Uta Hagen
+  <i>“Discovery consists of seeing what everybody has seen and thinking what nobody else has thought.”</i><br/>
+  — Jonathan Swift
 </p>
 </div>
 
