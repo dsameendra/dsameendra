@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If it is not right do not do it; if it is not true do not say it.”</i><br/>
-  — Marcus Aurelius
+  <i>“We are wiser than we know.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
