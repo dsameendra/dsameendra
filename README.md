@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Ideas are the beginning points of all fortunes.”</i><br/>
-  — Napoleon Hill
+  <i>“If it is not right do not do it; if it is not true do not say it.”</i><br/>
+  — Marcus Aurelius
 </p>
 </div>
 
