@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We are wiser than we know.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“The truth is incontrovertible. Malice may attack it, ignorance may deride it, but in the end, there it is.”</i><br/>
+  — Winston Churchill
 </p>
 </div>
 
