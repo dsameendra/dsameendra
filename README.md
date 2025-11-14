@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The truth is incontrovertible. Malice may attack it, ignorance may deride it, but in the end, there it is.”</i><br/>
-  — Winston Churchill
+  <i>“In three words I can sum up everything I've learned about life: it goes on.”</i><br/>
+  — Robert Frost
 </p>
 </div>
 
