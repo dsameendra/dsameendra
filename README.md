@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know.”</i><br/>
-  — William Saroyan
+  <i>“Who looks outside, dreams, who looks inside, awakes.”</i><br/>
+  — Carl Jung
 </p>
 </div>
 
