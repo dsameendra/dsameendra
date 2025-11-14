@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“In three words I can sum up everything I've learned about life: it goes on.”</i><br/>
-  — Robert Frost
+  <i>“Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know.”</i><br/>
+  — William Saroyan
 </p>
 </div>
 
