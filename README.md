@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Sometimes the most important thing in a whole day is the rest we take between two deep breaths.”</i><br/>
-  — Etty Hillesum
+  <i>“It's a good thing to be satisfied with what one has.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
