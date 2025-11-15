@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It's a good thing to be satisfied with what one has.”</i><br/>
-  — The Buddha
+  <i>“Talent is God-given; be humble. Fame is man-given; be thankful. Conceit is self-given; be careful.”</i><br/>
+  — Harvey Mackay
 </p>
 </div>
 
