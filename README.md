@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Happiness depends upon ourselves.”</i><br/>
-  — Aristotle
+  <i>“Belief consists in accepting the affirmations of the soul; Unbelief, in denying them.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
