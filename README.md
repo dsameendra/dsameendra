@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Men of perverse opinion do not know the excellence of what is in their hands, till someone dash it from them.”</i><br/>
-  — Sophocles
+  <i>“Every day I remind myself that my inner and outer life are based on the labors of other men, living and dead, and that I must exert myself in order to give in the same measure as I have received and am still receiving.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
