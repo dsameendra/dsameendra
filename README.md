@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind.”</i><br/>
-  — Leonardo da Vinci
+  <i>“An appeaser is one who feeds a crocodile, hoping it will eat him last.”</i><br/>
+  — Winston Churchill
 </p>
 </div>
 
