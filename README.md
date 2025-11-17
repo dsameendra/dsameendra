@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Nine-tenths of wisdom is being wise in time.”</i><br/>
-  — Theodore Roosevelt
+  <i>“Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind.”</i><br/>
+  — Leonardo da Vinci
 </p>
 </div>
 
