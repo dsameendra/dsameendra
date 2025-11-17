@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“An appeaser is one who feeds a crocodile, hoping it will eat him last.”</i><br/>
-  — Winston Churchill
+  <i>“In the sky there are no tracks. Outside there is no recluse. There are no conditioned things that are eternal. There is no instability in the Buddhas.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
