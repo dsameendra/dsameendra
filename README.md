@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It is in the nature of things that joy arises in a person free from remorse.”</i><br/>
-  — The Buddha
+  <i>“There is nothing in a caterpillar that tells you it's going to be a butterfly.”</i><br/>
+  — Buckminster Fuller
 </p>
 </div>
 
