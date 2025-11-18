@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Sooner or later, those who win are those who think they can.”</i><br/>
-  — Richard Bach
+  <i>“It is in the nature of things that joy arises in a person free from remorse.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
