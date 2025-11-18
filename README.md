@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Wisdom consists of the anticipation of consequences.”</i><br/>
-  — Norman Cousins
+  <i>“Sooner or later, those who win are those who think they can.”</i><br/>
+  — Richard Bach
 </p>
 </div>
 
