@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You cannot step twice into the same river, for other waters are continually flowing in.”</i><br/>
-  — Heraclitus
+  <i>“The greatest way to live with honor in this world is to be what we pretend to be.”</i><br/>
+  — Socrates
 </p>
 </div>
 
