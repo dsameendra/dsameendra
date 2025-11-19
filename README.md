@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There is nothing in a caterpillar that tells you it's going to be a butterfly.”</i><br/>
-  — Buckminster Fuller
+  <i>“One's life has value so long as one attributes value to the life of others, by means of love, friendship, indignation and compassion.”</i><br/>
+  — Simone de Beauvoir
 </p>
 </div>
 
