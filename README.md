@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“True friendship is a plant of slow growth, and must undergo and withstand the shocks of adversity, before it is entitled to the appellation.”</i><br/>
-  — George Washington
+  <i>“You cannot step twice into the same river, for other waters are continually flowing in.”</i><br/>
+  — Heraclitus
 </p>
 </div>
 
