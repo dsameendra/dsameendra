@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Fine words and an insinuating appearance are seldom associated with true virtue”</i><br/>
-  — Confucius
+  <i>“Do not scorn what you have received, nor envy the gains of others. He who envies others does not obtain peace of mind.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
