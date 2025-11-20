@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The greatest way to live with honor in this world is to be what we pretend to be.”</i><br/>
-  — Socrates
+  <i>“Fine words and an insinuating appearance are seldom associated with true virtue”</i><br/>
+  — Confucius
 </p>
 </div>
 
