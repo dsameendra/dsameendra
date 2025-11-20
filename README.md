@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Do not scorn what you have received, nor envy the gains of others. He who envies others does not obtain peace of mind.”</i><br/>
-  — The Buddha
+  <i>“To improve is to change; to be perfect is to change often.”</i><br/>
+  — Winston Churchill
 </p>
 </div>
 
