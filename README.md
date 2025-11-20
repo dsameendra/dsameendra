@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“To improve is to change; to be perfect is to change often.”</i><br/>
-  — Winston Churchill
+  <i>“Minds, like bodies, will often fall into a pimpled, ill-conditioned state from mere excess of comfort.”</i><br/>
+  — Charles Dickens
 </p>
 </div>
 
