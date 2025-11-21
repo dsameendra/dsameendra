@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Minds, like bodies, will often fall into a pimpled, ill-conditioned state from mere excess of comfort.”</i><br/>
-  — Charles Dickens
+  <i>“Let us sacrifice our today so that our children can have a better tomorrow.”</i><br/>
+  — A. P. J. Abdul Kalam
 </p>
 </div>
 
