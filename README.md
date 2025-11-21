@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We should not give up and we should not allow the problem to defeat us.”</i><br/>
-  — A. P. J. Abdul Kalam
+  <i>“We all live with the objective of being happy; our lives are all different and yet the same.”</i><br/>
+  — Anne Frank
 </p>
 </div>
 
