@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We all live with the objective of being happy; our lives are all different and yet the same.”</i><br/>
-  — Anne Frank
+  <i>“When people are like each other they tend to like each other.”</i><br/>
+  — Tony Robbins
 </p>
 </div>
 
