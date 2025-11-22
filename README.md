@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.”</i><br/>
-  — Albert Schweitzer
+  <i>“As a technology, the book is like a hammer. That is to say, it is perfect: a tool ideally suited to its task. Hammers can be tweaked and varied but will never go obsolete. Even when builders pound nails by the thousand with pneumatic nail guns, every household needs a hammer.”</i><br/>
+  — James Gleick
 </p>
 </div>
 
