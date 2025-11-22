@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“As a technology, the book is like a hammer. That is to say, it is perfect: a tool ideally suited to its task. Hammers can be tweaked and varied but will never go obsolete. Even when builders pound nails by the thousand with pneumatic nail guns, every household needs a hammer.”</i><br/>
-  — James Gleick
+  <i>“You may say I'm a dreamer, but I'm not the only one, I hope someday you will join us, and the world will live as one.”</i><br/>
+  — John Lennon
 </p>
 </div>
 
