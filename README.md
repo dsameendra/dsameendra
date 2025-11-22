@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You may say I'm a dreamer, but I'm not the only one, I hope someday you will join us, and the world will live as one.”</i><br/>
-  — John Lennon
+  <i>“The only real valuable thing is intuition.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
