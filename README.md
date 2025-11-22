@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“When people are like each other they tend to like each other.”</i><br/>
-  — Tony Robbins
+  <i>“Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.”</i><br/>
+  — Albert Schweitzer
 </p>
 </div>
 
