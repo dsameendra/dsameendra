@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The only real valuable thing is intuition.”</i><br/>
-  — Albert Einstein
+  <i>“In skating over thin ice our safety is in our speed.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
