@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“In skating over thin ice our safety is in our speed.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“A lot of people give up just before theyre about to make it. You know you never know when that next obstacle is going to be the last one.”</i><br/>
+  — Chuck Norris
 </p>
 </div>
 
