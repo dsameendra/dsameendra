@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A lot of people give up just before theyre about to make it. You know you never know when that next obstacle is going to be the last one.”</i><br/>
-  — Chuck Norris
+  <i>“To dare is to lose ones footing momentarily. To not dare is to lose oneself.”</i><br/>
+  — Søren Kierkegaard
 </p>
 </div>
 
