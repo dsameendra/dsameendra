@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“What other people may find in poetry or art museums, I find in the flight of a good drive.”</i><br/>
-  — Arnold Palmer
+  <i>“The final wisdom of life requires not the annulment of incongruity but the achievement of serenity within and above it.”</i><br/>
+  — Reinhold Niebuhr
 </p>
 </div>
 
