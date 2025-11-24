@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A good hockey player plays where the puck is. A great hockey player plays where the puck is going to be.”</i><br/>
-  — Wayne Gretzky
+  <i>“What other people may find in poetry or art museums, I find in the flight of a good drive.”</i><br/>
+  — Arnold Palmer
 </p>
 </div>
 
