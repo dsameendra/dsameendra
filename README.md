@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The final wisdom of life requires not the annulment of incongruity but the achievement of serenity within and above it.”</i><br/>
-  — Reinhold Niebuhr
+  <i>“All things must come to the soul from its roots, from where it is planted.”</i><br/>
+  — Teresa of Ávila
 </p>
 </div>
 
