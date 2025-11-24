@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“All things must come to the soul from its roots, from where it is planted.”</i><br/>
-  — Teresa of Ávila
+  <i>“To conquer fear is the beginning of wisdom.”</i><br/>
+  — Bertrand Russell
 </p>
 </div>
 
