@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Go to your bosom: Knock there and ask your heart what it doth know.”</i><br/>
-  — William Shakespeare
+  <i>“That old law about 'an eye for an eye' leaves everybody blind. The time is always right to do the right thing.”</i><br/>
+  — Martin Luther King Jr.
 </p>
 </div>
 
