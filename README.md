@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A true friend is one who overlooks your failures and tolerates your success!”</i><br/>
-  — Doug Larson
+  <i>“Nothing in life is to be feared. It is only to be understood.”</i><br/>
+  — Marie Curie
 </p>
 </div>
 
