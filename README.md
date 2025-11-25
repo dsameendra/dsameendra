@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“To conquer fear is the beginning of wisdom.”</i><br/>
-  — Bertrand Russell
+  <i>“A true friend is one who overlooks your failures and tolerates your success!”</i><br/>
+  — Doug Larson
 </p>
 </div>
 
