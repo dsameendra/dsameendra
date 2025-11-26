@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“That old law about 'an eye for an eye' leaves everybody blind. The time is always right to do the right thing.”</i><br/>
-  — Martin Luther King Jr.
+  <i>“If you want things to be different, perhaps the answer is to become different yourself.”</i><br/>
+  — Norman Vincent Peale
 </p>
 </div>
 
