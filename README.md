@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Always be a first-rate version of yourself, instead of a second-rate version of somebody else.”</i><br/>
-  — Judy Garland
+  <i>“When you doubt your power, you give power to your doubt.”</i><br/>
+  — Honoré de Balzac
 </p>
 </div>
 
