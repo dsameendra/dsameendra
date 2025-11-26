@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We can only learn to love by loving.”</i><br/>
-  — Iris Murdoch
+  <i>“Always be a first-rate version of yourself, instead of a second-rate version of somebody else.”</i><br/>
+  — Judy Garland
 </p>
 </div>
 
