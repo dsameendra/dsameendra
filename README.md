@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you spend too much time thinking about a thing, you'll never get it done.”</i><br/>
-  — Bruce Lee
+  <i>“The person who lives life fully, glowing with life's energy, is the person who lives a successful life.”</i><br/>
+  — Daisaku Ikeda
 </p>
 </div>
 
