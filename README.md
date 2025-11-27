@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“When you doubt your power, you give power to your doubt.”</i><br/>
-  — Honoré de Balzac
+  <i>“If you spend too much time thinking about a thing, you'll never get it done.”</i><br/>
+  — Bruce Lee
 </p>
 </div>
 
