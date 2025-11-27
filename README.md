@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The bird of paradise alights only upon the hand that does not grasp.”</i><br/>
-  — John Berry
+  <i>“Consult not your fears but your hopes and your dreams. Think not about your frustrations, but about your unfulfilled potential. Concern yourself not with what you tried and failed in, but with what it is still possible for you to do.”</i><br/>
+  — Pope John XXIII
 </p>
 </div>
 
