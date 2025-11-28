@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“For beautiful eyes, look for the good in others; for beautiful lips, speak only words of kindness; and for poise, walk with the knowledge that you are never alone.”</i><br/>
-  — Audrey Hepburn
+  <i>“The really unhappy person is the one who leaves undone what they can do, and starts doing what they don't understand; no wonder they come to grief.”</i><br/>
+  — Johann Wolfgang von Goethe
 </p>
 </div>
 
