@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Life is the only real counselor; wisdom unfiltered through personal experience does not become a part of the moral tissue.”</i><br/>
-  — Edith Wharton
+  <i>“Silence is the true friend that never betrays.”</i><br/>
+  — Confucius
 </p>
 </div>
 
