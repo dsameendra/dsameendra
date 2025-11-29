@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The secret of getting ahead is getting started.”</i><br/>
-  — Mark Twain
+  <i>“Sadness flies away on the wings of time.”</i><br/>
+  — Jean de La Fontaine
 </p>
 </div>
 
