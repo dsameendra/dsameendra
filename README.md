@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Treat people as if they were what they ought to be, and you help them to become what they are capable of being.”</i><br/>
-  — Johann Wolfgang von Goethe
+  <i>“Some of the best lessons we ever learn are learned from past mistakes. The error of the past is the wisdom and success of the future.”</i><br/>
+  — Dale Turner
 </p>
 </div>
 
