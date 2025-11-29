@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Silence is the true friend that never betrays.”</i><br/>
-  — Confucius
+  <i>“Treat people as if they were what they ought to be, and you help them to become what they are capable of being.”</i><br/>
+  — Johann Wolfgang von Goethe
 </p>
 </div>
 
