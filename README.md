@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Sadness flies away on the wings of time.”</i><br/>
-  — Jean de La Fontaine
+  <i>“There is no friendship, no love, like that of the parent for the child.”</i><br/>
+  — Henry Ward Beecher
 </p>
 </div>
 
