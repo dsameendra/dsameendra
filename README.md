@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Excellence is to do a common thing in an uncommon way.”</i><br/>
-  — Booker T. Washington
+  <i>“I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act.”</i><br/>
+  — G. K. Chesterton
 </p>
 </div>
 
