@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act.”</i><br/>
-  — G. K. Chesterton
+  <i>“Do not follow where the path may lead. Go, instead, where there is no path and leave a trail.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
