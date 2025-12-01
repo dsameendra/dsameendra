@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action.”</i><br/>
-  — Jawaharlal Nehru
+  <i>“In all chaos there is a cosmos, in all disorder a secret order.”</i><br/>
+  — Carl Jung
 </p>
 </div>
 
