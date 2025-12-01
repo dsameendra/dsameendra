@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There are no strangers here; Only friends you haven't yet met.”</i><br/>
-  — William Butler Yeats
+  <i>“A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action.”</i><br/>
+  — Jawaharlal Nehru
 </p>
 </div>
 
