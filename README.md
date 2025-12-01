@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Always be smarter than the people who hire you.”</i><br/>
-  — Lena Horne
+  <i>“There are no strangers here; Only friends you haven't yet met.”</i><br/>
+  — William Butler Yeats
 </p>
 </div>
 
