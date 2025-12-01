@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Do not follow where the path may lead. Go, instead, where there is no path and leave a trail.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“Always be smarter than the people who hire you.”</i><br/>
+  — Lena Horne
 </p>
 </div>
 
