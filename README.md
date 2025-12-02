@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It is not uncommon for people to spend their whole life waiting to start living.”</i><br/>
-  — Eckhart Tolle
+  <i>“Always keep an open mind and a compassionate heart.”</i><br/>
+  — Phil Jackson
 </p>
 </div>
 
