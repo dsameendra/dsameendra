@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Friendship is the source of the greatest pleasures, and without friends even the most agreeable pursuits become tedious.”</i><br/>
-  — Thomas Aquinas
+  <i>“It is not uncommon for people to spend their whole life waiting to start living.”</i><br/>
+  — Eckhart Tolle
 </p>
 </div>
 
