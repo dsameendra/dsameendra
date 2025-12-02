@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“In all chaos there is a cosmos, in all disorder a secret order.”</i><br/>
-  — Carl Jung
+  <i>“Friendship is the source of the greatest pleasures, and without friends even the most agreeable pursuits become tedious.”</i><br/>
+  — Thomas Aquinas
 </p>
 </div>
 
