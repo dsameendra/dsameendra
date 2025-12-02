@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Always keep an open mind and a compassionate heart.”</i><br/>
-  — Phil Jackson
+  <i>“I don't look to jump over 7-foot bars; I look around for 1-foot bars that I can step over.”</i><br/>
+  — Warren Buffett
 </p>
 </div>
 
