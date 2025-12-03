@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I don't look to jump over 7-foot bars; I look around for 1-foot bars that I can step over.”</i><br/>
-  — Warren Buffett
+  <i>“To give oneself earnestly to the duties due to men, and, while respecting spiritual beings, to keep aloof from them, may be called wisdom.”</i><br/>
+  — Confucius
 </p>
 </div>
 
