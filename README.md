@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity.”</i><br/>
-  — Barbara De Angelis
+  <i>“Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.”</i><br/>
+  — Helen Keller
 </p>
 </div>
 
