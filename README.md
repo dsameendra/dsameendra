@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Never do things others can do and will do, if there are things others cannot do or will not do.”</i><br/>
-  — Amelia Earhart
+  <i>“We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity.”</i><br/>
+  — Barbara De Angelis
 </p>
 </div>
 
