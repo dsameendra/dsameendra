@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I gave my life to become the person I am right now. Was it worth it?”</i><br/>
-  — Richard Bach
+  <i>“Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is a law eternal.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
