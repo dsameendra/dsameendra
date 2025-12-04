@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Our greatness lies not so much in being able to remake the world as being able to remake ourselves.”</i><br/>
-  — Mahatma Gandhi
+  <i>“I gave my life to become the person I am right now. Was it worth it?”</i><br/>
+  — Richard Bach
 </p>
 </div>
 
