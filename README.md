@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.”</i><br/>
-  — Helen Keller
+  <i>“Our greatness lies not so much in being able to remake the world as being able to remake ourselves.”</i><br/>
+  — Mahatma Gandhi
 </p>
 </div>
 
