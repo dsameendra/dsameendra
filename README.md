@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A ruffled mind makes a restless pillow.”</i><br/>
-  — Charlotte Brontë
+  <i>“I think and that is all that I am.”</i><br/>
+  — Wayne Dyer
 </p>
 </div>
 
