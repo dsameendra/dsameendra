@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Courage is not the absence of fear, but simply moving on with dignity despite that fear.”</i><br/>
-  — Pat Riley
+  <i>“False friendship, like the ivy, decays and ruins the walls it embraces; but true friendship gives new life and animation to the object it supports.”</i><br/>
+  — Richard Burton
 </p>
 </div>
 
