@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Whoever is happy will make others happy, too.”</i><br/>
-  — Mark Twain
+  <i>“Courage is not the absence of fear, but simply moving on with dignity despite that fear.”</i><br/>
+  — Pat Riley
 </p>
 </div>
 
