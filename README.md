@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I think and that is all that I am.”</i><br/>
-  — Wayne Dyer
+  <i>“Whoever is happy will make others happy, too.”</i><br/>
+  — Mark Twain
 </p>
 </div>
 
