@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“False friendship, like the ivy, decays and ruins the walls it embraces; but true friendship gives new life and animation to the object it supports.”</i><br/>
-  — Richard Burton
+  <i>“When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self.”</i><br/>
+  — Confucius
 </p>
 </div>
 
