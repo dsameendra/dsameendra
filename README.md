@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.”</i><br/>
-  — Og Mandino
+  <i>“Don't talk about what you have done or what you are going to do.”</i><br/>
+  — Thomas Jefferson
 </p>
 </div>
 
