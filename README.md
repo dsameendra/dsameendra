@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self.”</i><br/>
-  — Confucius
+  <i>“I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.”</i><br/>
+  — Og Mandino
 </p>
 </div>
 
