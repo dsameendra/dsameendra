@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The rule of friendship means there should be mutual sympathy between them, each supplying what the other lacks and trying to benefit the other, always using friendly and sincere words.”</i><br/>
-  — Cicero
+  <i>“If it turns out that there is a God, I don't think that he's evil. But the worst that you can say about him is that basically he's an underachiever.”</i><br/>
+  — Woody Allen
 </p>
 </div>
 
