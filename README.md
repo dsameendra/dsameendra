@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The real danger is not that computers will begin to think like men, but that men will begin to think like computers.”</i><br/>
-  — Sydney J. Harris
+  <i>“The most effective way to do it, is to do it.”</i><br/>
+  — Amelia Earhart
 </p>
 </div>
 
