@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Don't believe what your eyes are telling you. All they show is limitation. Look with your understanding, find out what you already know, and you'll see the way to fly.”</i><br/>
-  — Richard Bach
+  <i>“The real danger is not that computers will begin to think like men, but that men will begin to think like computers.”</i><br/>
+  — Sydney J. Harris
 </p>
 </div>
 
