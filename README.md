@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The young man knows the rules, but the old man knows the exceptions.”</i><br/>
-  — Oliver Wendell Holmes Jr.
+  <i>“If you are bitter, you are like a dry leaf that you can just squash, and you can get blown away by the wind. There is much more wisdom in forgiveness.”</i><br/>
+  — Vusi Mahlasela
 </p>
 </div>
 
