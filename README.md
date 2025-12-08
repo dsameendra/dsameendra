@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If it turns out that there is a God, I don't think that he's evil. But the worst that you can say about him is that basically he's an underachiever.”</i><br/>
-  — Woody Allen
+  <i>“He who lives in harmony with himself lives in harmony with the world.”</i><br/>
+  — Marcus Aurelius
 </p>
 </div>
 
