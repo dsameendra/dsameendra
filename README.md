@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“He who lives in harmony with himself lives in harmony with the world.”</i><br/>
-  — Marcus Aurelius
+  <i>“The young man knows the rules, but the old man knows the exceptions.”</i><br/>
+  — Oliver Wendell Holmes Jr.
 </p>
 </div>
 
