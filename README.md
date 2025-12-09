@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The power of intuitive understanding will protect you from harm until the end of your days.”</i><br/>
-  — Laozi
+  <i>“Great ideas often receive violent opposition from mediocre minds.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
