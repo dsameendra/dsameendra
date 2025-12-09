@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Great ideas often receive violent opposition from mediocre minds.”</i><br/>
-  — Albert Einstein
+  <i>“To change one's life, start immediately, do it flamboyantly, no exceptions.”</i><br/>
+  — William James
 </p>
 </div>
 
