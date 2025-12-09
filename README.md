@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Happiness mainly comes from our own attitude, rather than from external factors.”</i><br/>
-  — Dalai Lama
+  <i>“The power of intuitive understanding will protect you from harm until the end of your days.”</i><br/>
+  — Laozi
 </p>
 </div>
 
