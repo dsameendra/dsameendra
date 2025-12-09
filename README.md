@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“He who has imagination without learning has wings but no feet.”</i><br/>
-  — Joseph Joubert
+  <i>“Happiness mainly comes from our own attitude, rather than from external factors.”</i><br/>
+  — Dalai Lama
 </p>
 </div>
 
