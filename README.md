@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination.”</i><br/>
-  — Napoleon Hill
+  <i>“In order to succeed, we must first believe that we can.”</i><br/>
+  — Nikos Kazantzakis
 </p>
 </div>
 
