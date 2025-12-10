@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“To change one's life, start immediately, do it flamboyantly, no exceptions.”</i><br/>
-  — William James
+  <i>“All love that has not friendship for its base, is like a mansion built upon the sand.”</i><br/>
+  — Ella Wheeler Wilcox
 </p>
 </div>
 
