@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“All love that has not friendship for its base, is like a mansion built upon the sand.”</i><br/>
-  — Ella Wheeler Wilcox
+  <i>“Gratitude is the fairest blossom which springs from the soul.”</i><br/>
+  — Henry K. Beecher
 </p>
 </div>
 
