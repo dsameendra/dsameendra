@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Everything that exists is in a manner the seed of that which will be.”</i><br/>
-  — Marcus Aurelius
+  <i>“Do not worry about your difficulties in Mathematics. I can assure you mine are still greater.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
