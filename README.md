@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Do not worry about your difficulties in Mathematics. I can assure you mine are still greater.”</i><br/>
-  — Albert Einstein
+  <i>“Winners never quit and quitters never win.”</i><br/>
+  — Vince Lombardi
 </p>
 </div>
 
