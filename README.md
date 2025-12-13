@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.”</i><br/>
-  — Dalai Lama
+  <i>“An invasion of armies can be resisted, but not an idea whose time has come.”</i><br/>
+  — Victor Hugo
 </p>
 </div>
 
