@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You might well remember that nothing can bring you success but yourself.”</i><br/>
-  — Napoleon Hill
+  <i>“Sincerity is the way of Heaven. The attainment of sincerity is the way of men.”</i><br/>
+  — Confucius
 </p>
 </div>
 
