@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Sincerity is the way of Heaven. The attainment of sincerity is the way of men.”</i><br/>
-  — Confucius
+  <i>“To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.”</i><br/>
+  — Dalai Lama
 </p>
 </div>
 
