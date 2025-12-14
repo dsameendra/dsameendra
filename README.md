@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“An invasion of armies can be resisted, but not an idea whose time has come.”</i><br/>
-  — Victor Hugo
+  <i>“The bird of paradise alights only upon the hand that does not grasp.”</i><br/>
+  — John Berry
 </p>
 </div>
 
