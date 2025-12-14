@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The best thing in every noble dream is the dreamer...”</i><br/>
-  — Moncure D. Conway
+  <i>“I love you the more in that I believe you had liked me for my own sake and for nothing else.”</i><br/>
+  — John Keats
 </p>
 </div>
 
