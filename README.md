@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The bird of paradise alights only upon the hand that does not grasp.”</i><br/>
-  — John Berry
+  <i>“The best thing in every noble dream is the dreamer...”</i><br/>
+  — Moncure D. Conway
 </p>
 </div>
 
