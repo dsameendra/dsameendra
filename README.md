@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I love you the more in that I believe you had liked me for my own sake and for nothing else.”</i><br/>
-  — John Keats
+  <i>“Good timber does not grow with ease; the stronger the wind, the stronger the trees.”</i><br/>
+  — J. Willard Marriott
 </p>
 </div>
 
