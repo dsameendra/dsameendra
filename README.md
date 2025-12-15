@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“What lies behind us and what lies before us are small matters compared to what lies within us.”</i><br/>
-  — Oliver Wendell Holmes Jr.
+  <i>“Time is the most valuable thing a man can spend.”</i><br/>
+  — Theophrastus
 </p>
 </div>
 
