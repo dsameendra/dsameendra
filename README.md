@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Time is the most valuable thing a man can spend.”</i><br/>
-  — Theophrastus
+  <i>“There are people who have money and people who are rich.”</i><br/>
+  — Coco Chanel
 </p>
 </div>
 
