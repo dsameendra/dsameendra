@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Good timber does not grow with ease; the stronger the wind, the stronger the trees.”</i><br/>
-  — J. Willard Marriott
+  <i>“Important principles may, and must, be inflexible.”</i><br/>
+  — Abraham Lincoln
 </p>
 </div>
 
