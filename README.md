@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Important principles may, and must, be inflexible.”</i><br/>
-  — Abraham Lincoln
+  <i>“What lies behind us and what lies before us are small matters compared to what lies within us.”</i><br/>
+  — Oliver Wendell Holmes Jr.
 </p>
 </div>
 
