@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Begin, be bold, and venture to be wise.”</i><br/>
-  — Horace
+  <i>“How we spend our days is, of course, how we spend our lives.”</i><br/>
+  — Annie Dillard
 </p>
 </div>
 
