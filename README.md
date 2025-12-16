@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“How we spend our days is, of course, how we spend our lives.”</i><br/>
-  — Annie Dillard
+  <i>“The opportunity for brotherhood presents itself every time you meet a human being.”</i><br/>
+  — Jane Wyman
 </p>
 </div>
 
