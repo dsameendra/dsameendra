@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Life is like riding a bicycle. To keep your balance you must keep moving.”</i><br/>
-  — Albert Einstein
+  <i>“Begin, be bold, and venture to be wise.”</i><br/>
+  — Horace
 </p>
 </div>
 
