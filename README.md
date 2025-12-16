@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There are people who have money and people who are rich.”</i><br/>
-  — Coco Chanel
+  <i>“Life is like riding a bicycle. To keep your balance you must keep moving.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
