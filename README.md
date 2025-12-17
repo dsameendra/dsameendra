@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The awareness of our own strength makes us modest.”</i><br/>
-  — Paul Cézanne
+  <i>“Nothing in life is to be feared. It is only to be understood.”</i><br/>
+  — Marie Curie
 </p>
 </div>
 
