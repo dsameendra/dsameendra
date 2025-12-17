@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The opportunity for brotherhood presents itself every time you meet a human being.”</i><br/>
-  — Jane Wyman
+  <i>“Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose.”</i><br/>
+  — Eknath Easwaran
 </p>
 </div>
 
