@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Nothing in life is to be feared. It is only to be understood.”</i><br/>
-  — Marie Curie
+  <i>“A leader is one who knows the way, goes the way, and shows the way.”</i><br/>
+  — John C. Maxwell
 </p>
 </div>
 
