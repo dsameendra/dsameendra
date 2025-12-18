@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You can't choose up sides on a round world.”</i><br/>
-  — Wayne Dyer
+  <i>“The fewer rules a coach has, the fewer rules there are for players to break.”</i><br/>
+  — John Madden
 </p>
 </div>
 
