@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Change in all things is sweet.”</i><br/>
-  — Aristotle
+  <i>“Silence is a source of great strength.”</i><br/>
+  — Laozi
 </p>
 </div>
 
