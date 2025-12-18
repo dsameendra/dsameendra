@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A leader is one who knows the way, goes the way, and shows the way.”</i><br/>
-  — John C. Maxwell
+  <i>“You can't choose up sides on a round world.”</i><br/>
+  — Wayne Dyer
 </p>
 </div>
 
