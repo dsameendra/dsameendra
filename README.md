@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The fewer rules a coach has, the fewer rules there are for players to break.”</i><br/>
-  — John Madden
+  <i>“Change in all things is sweet.”</i><br/>
+  — Aristotle
 </p>
 </div>
 
