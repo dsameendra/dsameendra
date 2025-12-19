@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“No one has ever become poor by giving.”</i><br/>
-  — Anne Frank
+  <i>“Go to your bosom: Knock there and ask your heart what it doth know.”</i><br/>
+  — William Shakespeare
 </p>
 </div>
 
