@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Go to your bosom: Knock there and ask your heart what it doth know.”</i><br/>
-  — William Shakespeare
+  <i>“You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.”</i><br/>
+  — Naguib Mahfouz
 </p>
 </div>
 
