@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.”</i><br/>
-  — Naguib Mahfouz
+  <i>“You have enemies? Good. That means you've stood up for something, sometime in your life.”</i><br/>
+  — Winston Churchill
 </p>
 </div>
 
