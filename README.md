@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Silence is a source of great strength.”</i><br/>
-  — Laozi
+  <i>“No one has ever become poor by giving.”</i><br/>
+  — Anne Frank
 </p>
 </div>
 
