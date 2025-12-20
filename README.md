@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Pitching is the art of instilling fear.”</i><br/>
-  — Sandy Koufax
+  <i>“Chaos and Order are not enemies, only opposites.”</i><br/>
+  — Richard Garriott
 </p>
 </div>
 
