@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You have enemies? Good. That means you've stood up for something, sometime in your life.”</i><br/>
-  — Winston Churchill
+  <i>“Pitching is the art of instilling fear.”</i><br/>
+  — Sandy Koufax
 </p>
 </div>
 
