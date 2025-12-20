@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Life a culmination of the past, an awareness of the present, an indication of the future beyond knowledge, the quality that gives a touch of divinity to matter.”</i><br/>
-  — Charles Lindbergh
+  <i>“Remember that sometimes not getting what you want is a wonderful stroke of luck.”</i><br/>
+  — Dalai Lama
 </p>
 </div>
 
