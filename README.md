@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Chaos and Order are not enemies, only opposites.”</i><br/>
-  — Richard Garriott
+  <i>“Life a culmination of the past, an awareness of the present, an indication of the future beyond knowledge, the quality that gives a touch of divinity to matter.”</i><br/>
+  — Charles Lindbergh
 </p>
 </div>
 
