@@ -6,7 +6,7 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Remember that sometimes not getting what you want is a wonderful stroke of luck.”</i><br/>
+  <i>“Happiness is not something ready-made. It comes from your own actions.”</i><br/>
   — Dalai Lama
 </p>
 </div>
