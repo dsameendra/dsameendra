@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Happiness is not something ready-made. It comes from your own actions.”</i><br/>
-  — Dalai Lama
+  <i>“Some do not understand that we must die, But those who do realize this settle their quarrels.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
