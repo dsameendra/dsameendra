@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Some do not understand that we must die, But those who do realize this settle their quarrels.”</i><br/>
-  — The Buddha
+  <i>“Champions keep playing until they get it right.”</i><br/>
+  — Billie Jean King
 </p>
 </div>
 
