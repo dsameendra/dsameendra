@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Champions keep playing until they get it right.”</i><br/>
-  — Billie Jean King
+  <i>“Thought is the blossom; language the bud; action the fruit behind it.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
