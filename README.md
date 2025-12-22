@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I have always found that mercy bears richer fruits than strict justice.”</i><br/>
-  — Abraham Lincoln
+  <i>“But at any rate, the point is that God is what nobody admits to being, and everybody really is.”</i><br/>
+  — Alan Watts
 </p>
 </div>
 
