@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Setting goals is the first step in turning the invisible into the visible.”</i><br/>
-  — Tony Robbins
+  <i>“The winner ain't the one with the fastest car it's the one who refuses to lose.”</i><br/>
+  — Dale Earnhardt
 </p>
 </div>
 
