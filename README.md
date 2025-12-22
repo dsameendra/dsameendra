@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“But at any rate, the point is that God is what nobody admits to being, and everybody really is.”</i><br/>
-  — Alan Watts
+  <i>“Setting goals is the first step in turning the invisible into the visible.”</i><br/>
+  — Tony Robbins
 </p>
 </div>
 
