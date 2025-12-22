@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Thought is the blossom; language the bud; action the fruit behind it.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“I have always found that mercy bears richer fruits than strict justice.”</i><br/>
+  — Abraham Lincoln
 </p>
 </div>
 
