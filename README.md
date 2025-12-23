@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Take things as they are. Punch when you have to punch. Kick when you have to kick.”</i><br/>
-  — Bruce Lee
+  <i>“Humanity is acquiring all the right technology for all the wrong reasons.”</i><br/>
+  — Buckminster Fuller
 </p>
 </div>
 
