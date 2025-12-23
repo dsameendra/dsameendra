@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“What we see depends mainly on what we look for.”</i><br/>
-  — John Lubbock
+  <i>“Everything that irritates us about others can lead us to a better understanding of ourselves.”</i><br/>
+  — Carl Jung
 </p>
 </div>
 
