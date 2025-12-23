@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The winner ain't the one with the fastest car it's the one who refuses to lose.”</i><br/>
-  — Dale Earnhardt
+  <i>“Take things as they are. Punch when you have to punch. Kick when you have to kick.”</i><br/>
+  — Bruce Lee
 </p>
 </div>
 
