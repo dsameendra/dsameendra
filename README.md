@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Humanity is acquiring all the right technology for all the wrong reasons.”</i><br/>
-  — Buckminster Fuller
+  <i>“What we see depends mainly on what we look for.”</i><br/>
+  — John Lubbock
 </p>
 </div>
 
