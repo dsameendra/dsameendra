@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The ideals which have lighted my way, and time after time have given me new courage to face life cheerfully, have been Kindness, Beauty, and Truth. The trite subjects of human efforts, possessions, outward success, luxury have always seemed to me contemptible.”</i><br/>
-  — Albert Einstein
+  <i>“If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.”</i><br/>
+  — Daisaku Ikeda
 </p>
 </div>
 
