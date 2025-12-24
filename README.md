@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.”</i><br/>
-  — Daisaku Ikeda
+  <i>“Nothing great was ever achieved without enthusiasm.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
