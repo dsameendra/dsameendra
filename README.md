@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I love my past. I love my present. I'm not ashamed of what I've had, and I'm not sad because I have it no longer.”</i><br/>
-  — Colette
+  <i>“The ideals which have lighted my way, and time after time have given me new courage to face life cheerfully, have been Kindness, Beauty, and Truth. The trite subjects of human efforts, possessions, outward success, luxury have always seemed to me contemptible.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
