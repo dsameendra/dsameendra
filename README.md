@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Everything that irritates us about others can lead us to a better understanding of ourselves.”</i><br/>
-  — Carl Jung
+  <i>“I love my past. I love my present. I'm not ashamed of what I've had, and I'm not sad because I have it no longer.”</i><br/>
+  — Colette
 </p>
 </div>
 
