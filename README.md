@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Nothing great was ever achieved without enthusiasm.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“Silence is a source of great strength.”</i><br/>
+  — Laozi
 </p>
 </div>
 
