@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Problems are only opportunities with thorns on them.”</i><br/>
-  — Hugh Miller
+  <i>“Everything in the universe goes by indirection. There are no straight lines.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
