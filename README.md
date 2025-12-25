@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Only I can change my life. No one can do it for me.”</i><br/>
-  — Carol Burnett
+  <i>“Problems are only opportunities with thorns on them.”</i><br/>
+  — Hugh Miller
 </p>
 </div>
 
