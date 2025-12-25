@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Silence is a source of great strength.”</i><br/>
-  — Laozi
+  <i>“Only I can change my life. No one can do it for me.”</i><br/>
+  — Carol Burnett
 </p>
 </div>
 
