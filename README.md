@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The most technologically efficient machine that man has ever invented is the book.”</i><br/>
-  — Northrop Frye
+  <i>“I love you the more in that I believe you had liked me for my own sake and for nothing else.”</i><br/>
+  — John Keats
 </p>
 </div>
 
