@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Everything in the universe goes by indirection. There are no straight lines.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“Before you put on a frown, make absolutely sure there are no smiles available.”</i><br/>
+  — James M. Beggs
 </p>
 </div>
 
