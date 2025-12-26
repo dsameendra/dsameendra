@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I love you the more in that I believe you had liked me for my own sake and for nothing else.”</i><br/>
-  — John Keats
+  <i>“Logic will get you from A to B. Imagination will take you everywhere.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
