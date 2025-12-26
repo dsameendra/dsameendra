@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Before you put on a frown, make absolutely sure there are no smiles available.”</i><br/>
-  — James M. Beggs
+  <i>“The most technologically efficient machine that man has ever invented is the book.”</i><br/>
+  — Northrop Frye
 </p>
 </div>
 
