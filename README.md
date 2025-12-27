@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The time to repair the roof is when the sun is shining.”</i><br/>
-  — John F. Kennedy
+  <i>“Wisdom is oftentimes nearer when we stoop than when we soar.”</i><br/>
+  — William Wordsworth
 </p>
 </div>
 
