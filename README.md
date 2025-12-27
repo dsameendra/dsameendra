@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Logic will get you from A to B. Imagination will take you everywhere.”</i><br/>
-  — Albert Einstein
+  <i>“Sir, my concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right.”</i><br/>
+  — Abraham Lincoln
 </p>
 </div>
 
