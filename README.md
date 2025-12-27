@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Sir, my concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right.”</i><br/>
-  — Abraham Lincoln
+  <i>“The time to repair the roof is when the sun is shining.”</i><br/>
+  — John F. Kennedy
 </p>
 </div>
 
