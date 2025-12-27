@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Wisdom is oftentimes nearer when we stoop than when we soar.”</i><br/>
-  — William Wordsworth
+  <i>“The art challenges the technology, and the technology inspires the art.”</i><br/>
+  — John Lasseter
 </p>
 </div>
 
