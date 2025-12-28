@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The art challenges the technology, and the technology inspires the art.”</i><br/>
-  — John Lasseter
+  <i>“All serious daring starts from within.”</i><br/>
+  — Harriet Beecher Stowe
 </p>
 </div>
 
