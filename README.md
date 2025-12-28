@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Those who will play with cats must expect to be scratched.”</i><br/>
-  — Miguel de Cervantes
+  <i>“It is one of the blessings of old friends that you can afford to be stupid with them.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
