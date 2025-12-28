@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“All serious daring starts from within.”</i><br/>
-  — Harriet Beecher Stowe
+  <i>“An optimist is a person who sees a green light everywhere, while the pessimist sees only the red spotlight... The truly wise person is color-blind.”</i><br/>
+  — Albert Schweitzer
 </p>
 </div>
 
