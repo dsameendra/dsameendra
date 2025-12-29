@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals.”</i><br/>
-  — Winston Churchill
+  <i>“The noblest worship is to make yourself as good and as just as you can.”</i><br/>
+  — Isocrates
 </p>
 </div>
 
