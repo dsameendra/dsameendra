@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The noblest worship is to make yourself as good and as just as you can.”</i><br/>
-  — Isocrates
+  <i>“The greater our knowledge increases the more our ignorance unfolds.”</i><br/>
+  — John F. Kennedy
 </p>
 </div>
 
