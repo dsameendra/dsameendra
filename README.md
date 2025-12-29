@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It is one of the blessings of old friends that you can afford to be stupid with them.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far.”</i><br/>
+  — Swami Vivekananda
 </p>
 </div>
 
