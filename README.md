@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far.”</i><br/>
-  — Swami Vivekananda
+  <i>“I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals.”</i><br/>
+  — Winston Churchill
 </p>
 </div>
 
