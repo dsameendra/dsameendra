@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“How wonderful that we have met with a paradox. Now we have some hope of making progress.”</i><br/>
-  — Niels Bohr
+  <i>“Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.”</i><br/>
+  — Arthur Conan Doyle
 </p>
 </div>
 
