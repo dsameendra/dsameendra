@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The greater our knowledge increases the more our ignorance unfolds.”</i><br/>
-  — John F. Kennedy
+  <i>“How wonderful that we have met with a paradox. Now we have some hope of making progress.”</i><br/>
+  — Niels Bohr
 </p>
 </div>
 
