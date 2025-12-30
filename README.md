@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Most people get interested in stocks when everyone else is. The time to get interested is when no one else is. You can't buy what is popular and do well.”</i><br/>
-  — Warren Buffett
+  <i>“As an organizer I start from where the world is, as it is, not as I would like it to be.”</i><br/>
+  — Saul Alinsky
 </p>
 </div>
 
