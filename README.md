@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.”</i><br/>
-  — Arthur Conan Doyle
+  <i>“Most people get interested in stocks when everyone else is. The time to get interested is when no one else is. You can't buy what is popular and do well.”</i><br/>
+  — Warren Buffett
 </p>
 </div>
 
