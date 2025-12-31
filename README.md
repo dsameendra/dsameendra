@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“As an organizer I start from where the world is, as it is, not as I would like it to be.”</i><br/>
-  — Saul Alinsky
+  <i>“As you walk down the fairway of life you must smell the roses, for you only get to play one round.”</i><br/>
+  — Ben Hogan
 </p>
 </div>
 
