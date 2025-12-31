@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“As you walk down the fairway of life you must smell the roses, for you only get to play one round.”</i><br/>
-  — Ben Hogan
+  <i>“Love is composed of a single soul inhabiting two bodies.”</i><br/>
+  — Aristotle
 </p>
 </div>
 
