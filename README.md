@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Love is composed of a single soul inhabiting two bodies.”</i><br/>
-  — Aristotle
+  <i>“All wisdom does not reside in Delhi.”</i><br/>
+  — P. Chidambaram
 </p>
 </div>
 
