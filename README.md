@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“All wisdom does not reside in Delhi.”</i><br/>
-  — P. Chidambaram
+  <i>“Everything you can imagine is real.”</i><br/>
+  — Pablo Picasso
 </p>
 </div>
 
