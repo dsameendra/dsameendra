@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Everything you can imagine is real.”</i><br/>
-  — Pablo Picasso
+  <i>“Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do.”</i><br/>
+  — Mark Twain
 </p>
 </div>
 
