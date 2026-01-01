@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.”</i><br/>
-  — Booker T. Washington
+  <i>“You won't skid if you stay in a rut.”</i><br/>
+  — Kin Hubbard
 </p>
 </div>
 
