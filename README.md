@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We could never learn to be brave and patient if there were only joy in the world.”</i><br/>
-  — Helen Keller
+  <i>“The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.”</i><br/>
+  — Booker T. Washington
 </p>
 </div>
 
