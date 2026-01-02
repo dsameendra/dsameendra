@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The best way to pay for a lovely moment is to enjoy it.”</i><br/>
-  — Richard Bach
+  <i>“Forgiveness is choosing to love. It is the first skill of self-giving love.”</i><br/>
+  — Mahatma Gandhi
 </p>
 </div>
 
