@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You won't skid if you stay in a rut.”</i><br/>
-  — Kin Hubbard
+  <i>“Patience is the companion of wisdom.”</i><br/>
+  — Augustine of Hippo
 </p>
 </div>
 
