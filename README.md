@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Time is the wisest counsellor of all.”</i><br/>
-  — Pericles
+  <i>“The best way to pay for a lovely moment is to enjoy it.”</i><br/>
+  — Richard Bach
 </p>
 </div>
 
