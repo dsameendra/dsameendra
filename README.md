@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Forgiveness is choosing to love. It is the first skill of self-giving love.”</i><br/>
-  — Mahatma Gandhi
+  <i>“Nothing ever goes away until it has taught us what we need to know.”</i><br/>
+  — Pema Chödrön
 </p>
 </div>
 
