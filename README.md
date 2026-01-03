@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Both formerly and now, it is only suffering that I describe, and the cessation of suffering.”</i><br/>
-  — The Buddha
+  <i>“In all chaos there is a cosmos, in all disorder a secret order.”</i><br/>
+  — Carl Jung
 </p>
 </div>
 
