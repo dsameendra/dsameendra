@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Nothing ever goes away until it has taught us what we need to know.”</i><br/>
-  — Pema Chödrön
+  <i>“Liberty, taking the word in its concrete sense, consists in the ability to choose.”</i><br/>
+  — Simone Weil
 </p>
 </div>
 
