@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Liberty, taking the word in its concrete sense, consists in the ability to choose.”</i><br/>
-  — Simone Weil
+  <i>“Both formerly and now, it is only suffering that I describe, and the cessation of suffering.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
