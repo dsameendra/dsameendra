@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“When a friend is in trouble, don't annoy him by asking if there is anything you can do. Think up something appropriate and do it.”</i><br/>
-  — A. Powell Davies
+  <i>“We could never learn to be brave and patient if there were only joy in the world.”</i><br/>
+  — Helen Keller
 </p>
 </div>
 
