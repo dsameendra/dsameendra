@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We are masters of the unsaid words, but slaves of those we let slip out.”</i><br/>
-  — Winston Churchill
+  <i>“Friendship is certainly the finest balm for the pangs of disappointed love.”</i><br/>
+  — Jane Austen
 </p>
 </div>
 
