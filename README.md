@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“In all chaos there is a cosmos, in all disorder a secret order.”</i><br/>
-  — Carl Jung
+  <i>“When a friend is in trouble, don't annoy him by asking if there is anything you can do. Think up something appropriate and do it.”</i><br/>
+  — A. Powell Davies
 </p>
 </div>
 
