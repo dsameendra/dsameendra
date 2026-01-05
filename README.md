@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You cannot escape the responsibility of tomorrow by evading it today.”</i><br/>
-  — Abraham Lincoln
+  <i>“Think big thoughts but relish small pleasures.”</i><br/>
+  — H. Jackson Brown Jr.
 </p>
 </div>
 
