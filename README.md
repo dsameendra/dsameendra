@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Friendship is certainly the finest balm for the pangs of disappointed love.”</i><br/>
-  — Jane Austen
+  <i>“Do not be embarrassed by your mistakes. Nothing can teach us better than our understanding of them. This is one of the best ways of self-education.”</i><br/>
+  — Thomas Carlyle
 </p>
 </div>
 
