@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“When in doubt, don't.”</i><br/>
-  — Benjamin Franklin
+  <i>“You cannot escape the responsibility of tomorrow by evading it today.”</i><br/>
+  — Abraham Lincoln
 </p>
 </div>
 
