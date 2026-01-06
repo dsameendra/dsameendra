@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Sunshine is delicious, rain is refreshing, wind braces us up, snow is exhilarating; there is really no such thing as bad weather, only different kinds of good weather.”</i><br/>
-  — John Ruskin
+  <i>“Be slow of tongue and quick of eye.”</i><br/>
+  — Miguel de Cervantes
 </p>
 </div>
 
