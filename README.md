@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Think big thoughts but relish small pleasures.”</i><br/>
-  — H. Jackson Brown Jr.
+  <i>“Where there is charity and wisdom, there is neither fear nor ignorance.”</i><br/>
+  — Francis of Assisi
 </p>
 </div>
 
