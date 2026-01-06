@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“What you get by achieving your goals is not as important as what you become by achieving your goals.”</i><br/>
-  — Zig Ziglar
+  <i>“Sunshine is delicious, rain is refreshing, wind braces us up, snow is exhilarating; there is really no such thing as bad weather, only different kinds of good weather.”</i><br/>
+  — John Ruskin
 </p>
 </div>
 
