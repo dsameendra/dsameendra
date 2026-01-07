@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The longer we dwell on our misfortunes, the greater is their power to harm us.”</i><br/>
-  — Voltaire
+  <i>“I don't want to achieve immortality through my work... I want to achieve it through not dying.”</i><br/>
+  — Woody Allen
 </p>
 </div>
 
