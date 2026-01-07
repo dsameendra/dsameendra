@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Be slow of tongue and quick of eye.”</i><br/>
-  — Miguel de Cervantes
+  <i>“The longer we dwell on our misfortunes, the greater is their power to harm us.”</i><br/>
+  — Voltaire
 </p>
 </div>
 
