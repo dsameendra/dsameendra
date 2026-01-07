@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Our intention creates our reality.”</i><br/>
-  — Wayne Dyer
+  <i>“He who knows others is wise. He who knows himself is enlightened.”</i><br/>
+  — Laozi
 </p>
 </div>
 
