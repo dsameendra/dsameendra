@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Imagination is more important than knowledge...”</i><br/>
-  — Albert Einstein
+  <i>“The cause is hidden. The effect is visible to all.”</i><br/>
+  — Ovid
 </p>
 </div>
 
