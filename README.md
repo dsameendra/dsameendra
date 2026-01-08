@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones.”</i><br/>
-  — Albert Einstein
+  <i>“Success is getting what you want. Happiness is wanting what you get.”</i><br/>
+  — Dale Carnegie
 </p>
 </div>
 
