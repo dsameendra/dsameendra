@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“He who knows others is wise. He who knows himself is enlightened.”</i><br/>
-  — Laozi
+  <i>“Imagination is more important than knowledge...”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
