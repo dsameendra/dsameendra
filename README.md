@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Success is getting what you want. Happiness is wanting what you get.”</i><br/>
-  — Dale Carnegie
+  <i>“Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.”</i><br/>
+  — Laozi
 </p>
 </div>
 
