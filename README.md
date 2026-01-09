@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.”</i><br/>
-  — Laozi
+  <i>“We respect our elders. There is wisdom that comes from experience, and I am not going to stop learning from wise counsel.”</i><br/>
+  — Marcia Fudge
 </p>
 </div>
 
