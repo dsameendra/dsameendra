@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Change your life today. Don't gamble on the future, act now, without delay.”</i><br/>
-  — Simone de Beauvoir
+  <i>“Nothing great was ever achieved without enthusiasm.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
