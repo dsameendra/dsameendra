@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We respect our elders. There is wisdom that comes from experience, and I am not going to stop learning from wise counsel.”</i><br/>
-  — Marcia Fudge
+  <i>“Change your life today. Don't gamble on the future, act now, without delay.”</i><br/>
+  — Simone de Beauvoir
 </p>
 </div>
 
