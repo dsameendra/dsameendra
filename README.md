@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Nothing great was ever achieved without enthusiasm.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“Lose an hour in the morning, and you will spend all day looking for it.”</i><br/>
+  — Richard Whately
 </p>
 </div>
 
