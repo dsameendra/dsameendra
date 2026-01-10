@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Trust your hunches. They're usually based on facts filed away just below the conscious level.”</i><br/>
-  — Joyce Brothers
+  <i>“It always seems impossible until it's done.”</i><br/>
+  — Nelson Mandela
 </p>
 </div>
 
