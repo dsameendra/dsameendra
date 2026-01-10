@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It always seems impossible until it's done.”</i><br/>
-  — Nelson Mandela
+  <i>“If one way be better than another, that you may be sure is nature's way.”</i><br/>
+  — Aristotle
 </p>
 </div>
 
