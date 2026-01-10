@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Lose an hour in the morning, and you will spend all day looking for it.”</i><br/>
-  — Richard Whately
+  <i>“Trust your hunches. They're usually based on facts filed away just below the conscious level.”</i><br/>
+  — Joyce Brothers
 </p>
 </div>
 
