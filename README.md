@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If one way be better than another, that you may be sure is nature's way.”</i><br/>
-  — Aristotle
+  <i>“However rare true love may be, it is less so than true friendship.”</i><br/>
+  — François de La Rochefoucauld
 </p>
 </div>
 
