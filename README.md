@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Keep yourself to the sunshine and you cannot see the shadow.”</i><br/>
-  — Helen Keller
+  <i>“As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.”</i><br/>
+  — John F. Kennedy
 </p>
 </div>
 
