@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.”</i><br/>
-  — John F. Kennedy
+  <i>“It is far better to be alone, than to be in bad company.”</i><br/>
+  — George Washington
 </p>
 </div>
 
