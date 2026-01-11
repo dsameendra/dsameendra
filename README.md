@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“However rare true love may be, it is less so than true friendship.”</i><br/>
-  — François de La Rochefoucauld
+  <i>“Keep yourself to the sunshine and you cannot see the shadow.”</i><br/>
+  — Helen Keller
 </p>
 </div>
 
