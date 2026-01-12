@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It is far better to be alone, than to be in bad company.”</i><br/>
-  — George Washington
+  <i>“The day of fortune is like a harvest day, we must be busy when the corn is ripe.”</i><br/>
+  — Torquato Tasso
 </p>
 </div>
 
