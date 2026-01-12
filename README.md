@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The day of fortune is like a harvest day, we must be busy when the corn is ripe.”</i><br/>
-  — Torquato Tasso
+  <i>“By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest.”</i><br/>
+  — Confucius
 </p>
 </div>
 
