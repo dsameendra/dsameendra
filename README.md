@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A good hockey player plays where the puck is. A great hockey player plays where the puck is going to be.”</i><br/>
-  — Wayne Gretzky
+  <i>“It is impossible for a man to learn what he thinks he already knows.”</i><br/>
+  — Epictetus
 </p>
 </div>
 
