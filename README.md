@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest.”</i><br/>
-  — Confucius
+  <i>“A good hockey player plays where the puck is. A great hockey player plays where the puck is going to be.”</i><br/>
+  — Wayne Gretzky
 </p>
 </div>
 
