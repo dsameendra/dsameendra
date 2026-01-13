@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.”</i><br/>
-  — Eleanor Roosevelt
+  <i>“The only way to have a friend is to be one.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
