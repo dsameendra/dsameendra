@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It is impossible for a man to learn what he thinks he already knows.”</i><br/>
-  — Epictetus
+  <i>“Ignorance never settles a question.”</i><br/>
+  — Benjamin Disraeli
 </p>
 </div>
 
