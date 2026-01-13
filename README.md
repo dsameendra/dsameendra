@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Ignorance never settles a question.”</i><br/>
-  — Benjamin Disraeli
+  <i>“Success is not final; failure is not fatal: it is the courage to continue that counts.”</i><br/>
+  — Winston Churchill
 </p>
 </div>
 
