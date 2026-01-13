@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Success is not final; failure is not fatal: it is the courage to continue that counts.”</i><br/>
-  — Winston Churchill
+  <i>“Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.”</i><br/>
+  — Eleanor Roosevelt
 </p>
 </div>
 
