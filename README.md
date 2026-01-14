@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.”</i><br/>
-  — Thích Nhất Hạnh
+  <i>“Love is blind; friendship closes its eyes.”</i><br/>
+  — Friedrich Nietzsche
 </p>
 </div>
 
