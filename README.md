@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The only way to have a friend is to be one.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.”</i><br/>
+  — Thích Nhất Hạnh
 </p>
 </div>
 
