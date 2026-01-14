@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Belief consists in accepting the affirmations of the soul; Unbelief, in denying them.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“Truth is generally the best vindication against slander.”</i><br/>
+  — Abraham Lincoln
 </p>
 </div>
 
