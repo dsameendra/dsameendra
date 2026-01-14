@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Love is blind; friendship closes its eyes.”</i><br/>
-  — Friedrich Nietzsche
+  <i>“Belief consists in accepting the affirmations of the soul; Unbelief, in denying them.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
