@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It is fatal to enter any war without the will to win it.”</i><br/>
-  — Douglas MacArthur
+  <i>“It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things.”</i><br/>
+  — Leonardo da Vinci
 </p>
 </div>
 
