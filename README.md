@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things.”</i><br/>
-  — Leonardo da Vinci
+  <i>“Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it.”</i><br/>
+  — Lou Holtz
 </p>
 </div>
 
