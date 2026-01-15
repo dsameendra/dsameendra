@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“They can conquer who believe they can.”</i><br/>
-  — Virgil
+  <i>“It is fatal to enter any war without the will to win it.”</i><br/>
+  — Douglas MacArthur
 </p>
 </div>
 
