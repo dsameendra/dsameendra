@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Truth is generally the best vindication against slander.”</i><br/>
-  — Abraham Lincoln
+  <i>“They can conquer who believe they can.”</i><br/>
+  — Virgil
 </p>
 </div>
 
