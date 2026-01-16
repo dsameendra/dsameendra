@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It's not what happens to you, but how you react to it that matters.”</i><br/>
-  — Epictetus
+  <i>“Write your plans in pencil and give God the eraser.”</i><br/>
+  — Paulo Coelho
 </p>
 </div>
 
