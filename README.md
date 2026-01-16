@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Write your plans in pencil and give God the eraser.”</i><br/>
-  — Paulo Coelho
+  <i>“The deepest craving of human nature is the need to be appreciated.”</i><br/>
+  — William James
 </p>
 </div>
 
