@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The deepest craving of human nature is the need to be appreciated.”</i><br/>
-  — William James
+  <i>“Yesterday I dared to struggle. Today I dare to win.”</i><br/>
+  — Bernadette Devlin
 </p>
 </div>
 
