@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Yesterday I dared to struggle. Today I dare to win.”</i><br/>
-  — Bernadette Devlin
+  <i>“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
