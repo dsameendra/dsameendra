@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Once you choose hope, anything's possible.”</i><br/>
-  — Christopher Reeve
+  <i>“Those who dare to fail miserably can achieve greatly.”</i><br/>
+  — John F. Kennedy
 </p>
 </div>
 
