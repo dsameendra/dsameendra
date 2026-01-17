@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Wisdom consists of the anticipation of consequences.”</i><br/>
-  — Norman Cousins
+  <i>“Once you choose hope, anything's possible.”</i><br/>
+  — Christopher Reeve
 </p>
 </div>
 
