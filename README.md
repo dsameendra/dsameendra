@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”</i><br/>
-  — Albert Einstein
+  <i>“Wisdom consists of the anticipation of consequences.”</i><br/>
+  — Norman Cousins
 </p>
 </div>
 
