@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“One of the tests of leadership is the ability to recognize a problem before it becomes an emergency.”</i><br/>
-  — Olivier Messiaen
+  <i>“Never apologize for showing feelings. When you do so, you apologize for the truth.”</i><br/>
+  — Benjamin Disraeli
 </p>
 </div>
 
