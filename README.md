@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Never apologize for showing feelings. When you do so, you apologize for the truth.”</i><br/>
-  — Benjamin Disraeli
+  <i>“Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
