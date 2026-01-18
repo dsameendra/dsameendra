@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Those who dare to fail miserably can achieve greatly.”</i><br/>
-  — John F. Kennedy
+  <i>“One of the tests of leadership is the ability to recognize a problem before it becomes an emergency.”</i><br/>
+  — Olivier Messiaen
 </p>
 </div>
 
