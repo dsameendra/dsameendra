@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Nobody will believe in you unless you believe in yourself.”</i><br/>
-  — Liberace
+  <i>“But friendship is precious, not only in the shade, but in the sunshine of life, and thanks to a benevolent arrangement the greater part of life is sunshine.”</i><br/>
+  — Thomas Jefferson
 </p>
 </div>
 
