@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A true friend is one who overlooks your failures and tolerates your success!”</i><br/>
-  — Doug Larson
+  <i>“Either you run the day or the day runs you.”</i><br/>
+  — Jim Rohn
 </p>
 </div>
 
