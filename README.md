@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“All action results from thought, so it is thoughts that matter.”</i><br/>
-  — Sai Baba
+  <i>“A true friend is one who overlooks your failures and tolerates your success!”</i><br/>
+  — Doug Larson
 </p>
 </div>
 
