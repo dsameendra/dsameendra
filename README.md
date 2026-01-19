@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Either you run the day or the day runs you.”</i><br/>
-  — Jim Rohn
+  <i>“Nobody will believe in you unless you believe in yourself.”</i><br/>
+  — Liberace
 </p>
 </div>
 
