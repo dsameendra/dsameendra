@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“People are not lazy. They simply have impotent goals - that is, goals that do not inspire them.”</i><br/>
-  — Tony Robbins
+  <i>“We are stuck with technology when what we really want is just stuff that works.”</i><br/>
+  — Douglas Adams
 </p>
 </div>
 
