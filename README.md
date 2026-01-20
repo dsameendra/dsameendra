@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We are stuck with technology when what we really want is just stuff that works.”</i><br/>
-  — Douglas Adams
+  <i>“Real success is finding your lifework in the work that you love.”</i><br/>
+  — David McCullough
 </p>
 </div>
 
