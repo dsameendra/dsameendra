@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Believe you can and you're halfway there.”</i><br/>
-  — Theodore Roosevelt
+  <i>“People are not lazy. They simply have impotent goals - that is, goals that do not inspire them.”</i><br/>
+  — Tony Robbins
 </p>
 </div>
 
