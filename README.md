@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Those that know, do. Those that understand, teach.”</i><br/>
-  — Aristotle
+  <i>“I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act.”</i><br/>
+  — G. K. Chesterton
 </p>
 </div>
 
