@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act.”</i><br/>
-  — G. K. Chesterton
+  <i>“Think as a wise man but communicate in the language of the people.”</i><br/>
+  — William Butler Yeats
 </p>
 </div>
 
