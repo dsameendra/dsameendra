@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Real success is finding your lifework in the work that you love.”</i><br/>
-  — David McCullough
+  <i>“You are a product of your environment. So choose the environment that will best develop you toward your objective. Analyze your life in terms of its environment. Are the things around you helping you toward success - or are they holding you back?”</i><br/>
+  — W. Clement Stone
 </p>
 </div>
 
