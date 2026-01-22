@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.”</i><br/>
-  — Joan Rivers
+  <i>“Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.”</i><br/>
+  — Jane Addams
 </p>
 </div>
 
