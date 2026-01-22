@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.”</i><br/>
-  — Jane Addams
+  <i>“The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out.”</i><br/>
+  — Walter Benjamin
 </p>
 </div>
 
