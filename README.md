@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Think as a wise man but communicate in the language of the people.”</i><br/>
-  — William Butler Yeats
+  <i>“Do not wait; the time will never be 'just right.' Start where you stand, and work with whatever tools you may have at your command, and better tools will be found as you go along.”</i><br/>
+  — George Herbert
 </p>
 </div>
 
