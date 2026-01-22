@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Do not wait; the time will never be 'just right.' Start where you stand, and work with whatever tools you may have at your command, and better tools will be found as you go along.”</i><br/>
-  — George Herbert
+  <i>“Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.”</i><br/>
+  — Joan Rivers
 </p>
 </div>
 
