@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you spend your whole life waiting for the storm, you'll never enjoy the sunshine.”</i><br/>
-  — Morris West
+  <i>“Always keep an open mind and a compassionate heart.”</i><br/>
+  — Phil Jackson
 </p>
 </div>
 
