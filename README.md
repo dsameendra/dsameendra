@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Always keep an open mind and a compassionate heart.”</i><br/>
-  — Phil Jackson
+  <i>“People grow through experience if they meet life honestly and courageously. This is how character is built.”</i><br/>
+  — Eleanor Roosevelt
 </p>
 </div>
 
