@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“People grow through experience if they meet life honestly and courageously. This is how character is built.”</i><br/>
-  — Eleanor Roosevelt
+  <i>“Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is a law eternal.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
