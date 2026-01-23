@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out.”</i><br/>
-  — Walter Benjamin
+  <i>“If you spend your whole life waiting for the storm, you'll never enjoy the sunshine.”</i><br/>
+  — Morris West
 </p>
 </div>
 
