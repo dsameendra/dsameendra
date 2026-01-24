@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Some do not understand that we must die, But those who do realize this settle their quarrels.”</i><br/>
-  — The Buddha
+  <i>“Our greatest glory is not in never falling, but in rising every time we fall.”</i><br/>
+  — Confucius
 </p>
 </div>
 
