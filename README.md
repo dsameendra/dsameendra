@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is a law eternal.”</i><br/>
-  — The Buddha
+  <i>“Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!”</i><br/>
+  — Richard Bach
 </p>
 </div>
 
