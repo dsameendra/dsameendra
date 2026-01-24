@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“With every experience, you alone are painting your own canvas, thought by thought, choice by choice.”</i><br/>
-  — Oprah Winfrey
+  <i>“Some do not understand that we must die, But those who do realize this settle their quarrels.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
