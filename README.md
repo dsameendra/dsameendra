@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!”</i><br/>
-  — Richard Bach
+  <i>“With every experience, you alone are painting your own canvas, thought by thought, choice by choice.”</i><br/>
+  — Oprah Winfrey
 </p>
 </div>
 
