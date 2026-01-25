@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“O, what a tangled web we weave when first we practice to deceive!”</i><br/>
-  — Walter Scott
+  <i>“That old law about 'an eye for an eye' leaves everybody blind. The time is always right to do the right thing.”</i><br/>
+  — Martin Luther King Jr.
 </p>
 </div>
 
