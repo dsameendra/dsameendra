@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“That old law about 'an eye for an eye' leaves everybody blind. The time is always right to do the right thing.”</i><br/>
-  — Martin Luther King Jr.
+  <i>“There is nothing in a caterpillar that tells you it's going to be a butterfly.”</i><br/>
+  — Buckminster Fuller
 </p>
 </div>
 
