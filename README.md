@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Imagination will often carry us to worlds that never were. But without it we go nowhere.”</i><br/>
-  — Carl Sagan
+  <i>“O, what a tangled web we weave when first we practice to deceive!”</i><br/>
+  — Walter Scott
 </p>
 </div>
 
