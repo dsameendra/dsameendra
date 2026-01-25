@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Our greatest glory is not in never falling, but in rising every time we fall.”</i><br/>
-  — Confucius
+  <i>“Imagination will often carry us to worlds that never were. But without it we go nowhere.”</i><br/>
+  — Carl Sagan
 </p>
 </div>
 
