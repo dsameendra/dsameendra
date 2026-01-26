@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful.”</i><br/>
-  — John Wooden
+  <i>“When a friend is in trouble, don't annoy him by asking if there is anything you can do. Think up something appropriate and do it.”</i><br/>
+  — A. Powell Davies
 </p>
 </div>
 
