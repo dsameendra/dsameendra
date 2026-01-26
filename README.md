@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“When a friend is in trouble, don't annoy him by asking if there is anything you can do. Think up something appropriate and do it.”</i><br/>
-  — A. Powell Davies
+  <i>“Maxim for life: You get treated in life the way you teach people to treat you.”</i><br/>
+  — Wayne Dyer
 </p>
 </div>
 
