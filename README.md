@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Maxim for life: You get treated in life the way you teach people to treat you.”</i><br/>
-  — Wayne Dyer
+  <i>“Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
