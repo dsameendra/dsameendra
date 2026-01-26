@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There is nothing in a caterpillar that tells you it's going to be a butterfly.”</i><br/>
-  — Buckminster Fuller
+  <i>“Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful.”</i><br/>
+  — John Wooden
 </p>
 </div>
 
