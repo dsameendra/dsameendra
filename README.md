@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“Time is the wisest counsellor of all.”</i><br/>
+  — Pericles
 </p>
 </div>
 
