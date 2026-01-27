@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Time is the wisest counsellor of all.”</i><br/>
-  — Pericles
+  <i>“Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.”</i><br/>
+  — Mother Teresa
 </p>
 </div>
 
