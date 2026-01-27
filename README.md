@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.”</i><br/>
-  — Mother Teresa
+  <i>“Knowledge has three degrees: opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition.”</i><br/>
+  — Plotinus
 </p>
 </div>
 
