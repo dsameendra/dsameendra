@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“What happens is not as important as how you react to what happens.”</i><br/>
-  — Ellen Glasgow
+  <i>“A thing long expected takes the form of the unexpected when at last it comes.”</i><br/>
+  — Mark Twain
 </p>
 </div>
 
