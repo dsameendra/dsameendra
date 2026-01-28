@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“When you doubt your power, you give power to your doubt.”</i><br/>
-  — Honoré de Balzac
+  <i>“What happens is not as important as how you react to what happens.”</i><br/>
+  — Ellen Glasgow
 </p>
 </div>
 
