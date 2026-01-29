@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“No one can make you feel inferior without your consent.”</i><br/>
-  — Eleanor Roosevelt
+  <i>“The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.”</i><br/>
+  — Anaïs Nin
 </p>
 </div>
 
