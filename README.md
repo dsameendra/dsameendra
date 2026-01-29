@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“No matter how carefully you plan your goals they will never be more than pipe dreams unless you pursue them with gusto.”</i><br/>
-  — W. Clement Stone
+  <i>“To wear your heart on your sleeve isn't a very good plan; you should wear it inside, where it functions best.”</i><br/>
+  — Margaret Thatcher
 </p>
 </div>
 
