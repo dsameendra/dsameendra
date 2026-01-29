@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A man's growth is seen in the successive choirs of his friends”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“No matter how carefully you plan your goals they will never be more than pipe dreams unless you pursue them with gusto.”</i><br/>
+  — W. Clement Stone
 </p>
 </div>
 
