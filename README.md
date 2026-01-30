@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Sir, my concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right.”</i><br/>
-  — Abraham Lincoln
+  <i>“Sweet is the memory of distant friends! Like the mellow rays of the departing sun, it falls tenderly, yet sadly, on the heart.”</i><br/>
+  — Washington Irving
 </p>
 </div>
 
