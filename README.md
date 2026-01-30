@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Sweet is the memory of distant friends! Like the mellow rays of the departing sun, it falls tenderly, yet sadly, on the heart.”</i><br/>
-  — Washington Irving
+  <i>“If you want things to be different, perhaps the answer is to become different yourself.”</i><br/>
+  — Norman Vincent Peale
 </p>
 </div>
 
