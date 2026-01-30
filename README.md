@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.”</i><br/>
-  — Anaïs Nin
+  <i>“Sir, my concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right.”</i><br/>
+  — Abraham Lincoln
 </p>
 </div>
 
