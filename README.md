@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The way you see people is the way you treat them, and the way you treat them is what they become.”</i><br/>
-  — Johann Wolfgang von Goethe
+  <i>“To improve is to change; to be perfect is to change often.”</i><br/>
+  — Winston Churchill
 </p>
 </div>
 
