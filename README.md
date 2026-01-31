@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Happiness resides not in possessions, and not in gold, happiness dwells in the soul.”</i><br/>
-  — Democritus
+  <i>“Nothing in life is to be feared. It is only to be understood.”</i><br/>
+  — Marie Curie
 </p>
 </div>
 
