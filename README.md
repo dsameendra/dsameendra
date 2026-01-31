@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Nothing in life is to be feared. It is only to be understood.”</i><br/>
-  — Marie Curie
+  <i>“Trust only movement. Life happens at the level of events, not of words. Trust movement.”</i><br/>
+  — Alfred Adler
 </p>
 </div>
 
