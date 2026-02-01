@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.”</i><br/>
-  — Dalai Lama
+  <i>“The young man knows the rules, but the old man knows the exceptions.”</i><br/>
+  — Oliver Wendell Holmes Jr.
 </p>
 </div>
 
