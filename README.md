@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“To improve is to change; to be perfect is to change often.”</i><br/>
-  — Winston Churchill
+  <i>“Don't leave a stone unturned. It's always something, to know you have done the most you could.”</i><br/>
+  — Charles Dickens
 </p>
 </div>
 
