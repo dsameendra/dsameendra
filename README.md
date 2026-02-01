@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Anybody can make history. Only a great man can write it.”</i><br/>
-  — Oscar Wilde
+  <i>“There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.”</i><br/>
+  — Dalai Lama
 </p>
 </div>
 
