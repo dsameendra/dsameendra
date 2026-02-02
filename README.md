@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I never considered a difference of opinion in politics, in religion, in philosophy, as cause for withdrawing from a friend.”</i><br/>
-  — Thomas Jefferson
+  <i>“The word philosophy sounds high-minded, but it simply means the love of wisdom. If you love something, you don't just read about it; you hug it, you mess with it, you play with it, you argue with it.”</i><br/>
+  — Hugh Jackman
 </p>
 </div>
 
