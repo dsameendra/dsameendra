@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Take time to deliberate, but when the time for action has arrived, stop thinking and go in.”</i><br/>
-  — Napoleon
+  <i>“I never considered a difference of opinion in politics, in religion, in philosophy, as cause for withdrawing from a friend.”</i><br/>
+  — Thomas Jefferson
 </p>
 </div>
 
