@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The young man knows the rules, but the old man knows the exceptions.”</i><br/>
-  — Oliver Wendell Holmes Jr.
+  <i>“Take time to deliberate, but when the time for action has arrived, stop thinking and go in.”</i><br/>
+  — Napoleon
 </p>
 </div>
 
