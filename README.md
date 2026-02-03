@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Love is flower like; Friendship is like a sheltering tree.”</i><br/>
-  — Samuel Taylor Coleridge
+  <i>“Discovery consists of seeing what everybody has seen and thinking what nobody else has thought.”</i><br/>
+  — Jonathan Swift
 </p>
 </div>
 
