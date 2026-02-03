@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Love is rarer than genius itself. And friendship is rarer than love.”</i><br/>
-  — Charles Péguy
+  <i>“I don't look to jump over 7-foot bars; I look around for 1-foot bars that I can step over.”</i><br/>
+  — Warren Buffett
 </p>
 </div>
 
