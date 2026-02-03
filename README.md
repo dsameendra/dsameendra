@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I don't look to jump over 7-foot bars; I look around for 1-foot bars that I can step over.”</i><br/>
-  — Warren Buffett
+  <i>“Love is flower like; Friendship is like a sheltering tree.”</i><br/>
+  — Samuel Taylor Coleridge
 </p>
 </div>
 
