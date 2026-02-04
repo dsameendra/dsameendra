@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“As an organizer I start from where the world is, as it is, not as I would like it to be.”</i><br/>
-  — Saul Alinsky
+  <i>“Positive thinking will let you do everything better than negative thinking will.”</i><br/>
+  — Zig Ziglar
 </p>
 </div>
 
