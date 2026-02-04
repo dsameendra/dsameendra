@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Positive thinking will let you do everything better than negative thinking will.”</i><br/>
-  — Zig Ziglar
+  <i>“Thought is the blossom; language the bud; action the fruit behind it.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
