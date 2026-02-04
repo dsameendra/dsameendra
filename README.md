@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Discovery consists of seeing what everybody has seen and thinking what nobody else has thought.”</i><br/>
-  — Jonathan Swift
+  <i>“Life is really simple, but we insist on making it complicated.”</i><br/>
+  — Confucius
 </p>
 </div>
 
