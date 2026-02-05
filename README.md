@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.”</i><br/>
-  — Bruce Lee
+  <i>“You always have two choices: your commitment versus your fear.”</i><br/>
+  — Sammy Davis Jr.
 </p>
 </div>
 
