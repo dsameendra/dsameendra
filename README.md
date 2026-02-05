@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You always have two choices: your commitment versus your fear.”</i><br/>
-  — Sammy Davis Jr.
+  <i>“An ounce of emotion is equal to a ton of facts.”</i><br/>
+  — John Junor
 </p>
 </div>
 
