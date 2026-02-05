@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Subdue your appetites, my dears, and you've conquered human nature.”</i><br/>
-  — Charles Dickens
+  <i>“All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.”</i><br/>
+  — Bruce Lee
 </p>
 </div>
 
