@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Thought is the blossom; language the bud; action the fruit behind it.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“Subdue your appetites, my dears, and you've conquered human nature.”</i><br/>
+  — Charles Dickens
 </p>
 </div>
 
