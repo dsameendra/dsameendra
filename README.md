@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“An ounce of emotion is equal to a ton of facts.”</i><br/>
-  — John Junor
+  <i>“To find a man's true character, play golf with him.”</i><br/>
+  — P. G. Wodehouse
 </p>
 </div>
 
