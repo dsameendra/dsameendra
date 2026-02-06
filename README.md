@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The longer we dwell on our misfortunes, the greater is their power to harm us.”</i><br/>
-  — Voltaire
+  <i>“To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.”</i><br/>
+  — Dalai Lama
 </p>
 </div>
 
