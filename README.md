@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There is nothing impossible to him who will try.”</i><br/>
-  — Alexander the Great
+  <i>“The longer we dwell on our misfortunes, the greater is their power to harm us.”</i><br/>
+  — Voltaire
 </p>
 </div>
 
