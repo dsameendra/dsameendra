@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“To find a man's true character, play golf with him.”</i><br/>
-  — P. G. Wodehouse
+  <i>“There is nothing impossible to him who will try.”</i><br/>
+  — Alexander the Great
 </p>
 </div>
 
