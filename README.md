@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Read as you taste fruit or savor wine, or enjoy friendship, love or life.”</i><br/>
-  — George Herbert
+  <i>“You really can change the world if you care enough.”</i><br/>
+  — Marian Wright Edelman
 </p>
 </div>
 
