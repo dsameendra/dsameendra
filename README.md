@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You really can change the world if you care enough.”</i><br/>
-  — Marian Wright Edelman
+  <i>“Autumn is a second spring when every leaf is a flower.”</i><br/>
+  — Albert Camus
 </p>
 </div>
 
