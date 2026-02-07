@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.”</i><br/>
-  — Dalai Lama
+  <i>“Those who will play with cats must expect to be scratched.”</i><br/>
+  — Miguel de Cervantes
 </p>
 </div>
 
