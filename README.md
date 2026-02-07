@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Those who will play with cats must expect to be scratched.”</i><br/>
-  — Miguel de Cervantes
+  <i>“Read as you taste fruit or savor wine, or enjoy friendship, love or life.”</i><br/>
+  — George Herbert
 </p>
 </div>
 
