@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“All this modern technology just makes people try to do everything at once.”</i><br/>
-  — Bill Watterson
+  <i>“There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain.”</i><br/>
+  — Plato
 </p>
 </div>
 
