@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There is nothing in a caterpillar that tells you it's going to be a butterfly.”</i><br/>
-  — Buckminster Fuller
+  <i>“All this modern technology just makes people try to do everything at once.”</i><br/>
+  — Bill Watterson
 </p>
 </div>
 
