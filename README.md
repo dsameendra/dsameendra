@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A friend is, as it were, a second self.”</i><br/>
-  — Cicero
+  <i>“There is nothing in a caterpillar that tells you it's going to be a butterfly.”</i><br/>
+  — Buckminster Fuller
 </p>
 </div>
 
