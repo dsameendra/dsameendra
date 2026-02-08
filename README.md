@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Autumn is a second spring when every leaf is a flower.”</i><br/>
-  — Albert Camus
+  <i>“A friend is, as it were, a second self.”</i><br/>
+  — Cicero
 </p>
 </div>
 
