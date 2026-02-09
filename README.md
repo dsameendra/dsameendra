@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Leave no stone unturned.”</i><br/>
-  — Euripides
+  <i>“Conflict is the gadfly of thought. It stirs us to observation and memory. It instigates to invention. It shocks us out of sheeplike passivity, and sets us at noting and contriving.”</i><br/>
+  — John Dewey
 </p>
 </div>
 
