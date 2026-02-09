@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Happiness resides not in possessions, and not in gold, happiness dwells in the soul.”</i><br/>
-  — Democritus
+  <i>“Leave no stone unturned.”</i><br/>
+  — Euripides
 </p>
 </div>
 
