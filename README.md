@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain.”</i><br/>
-  — Plato
+  <i>“Happiness resides not in possessions, and not in gold, happiness dwells in the soul.”</i><br/>
+  — Democritus
 </p>
 </div>
 
