@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Conflict is the gadfly of thought. It stirs us to observation and memory. It instigates to invention. It shocks us out of sheeplike passivity, and sets us at noting and contriving.”</i><br/>
-  — John Dewey
+  <i>“If you want your life to be more rewarding, you have to change the way you think.”</i><br/>
+  — Oprah Winfrey
 </p>
 </div>
 
