@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The two most powerful warriors are patience and time.”</i><br/>
-  — Leo Tolstoy
+  <i>“It is the supreme art of the teacher to awaken joy in creative expression and knowledge.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
