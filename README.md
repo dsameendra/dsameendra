@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Our intention creates our reality.”</i><br/>
-  — Wayne Dyer
+  <i>“Everything that happens as it should, and if you observe carefully, you will find this to be so.”</i><br/>
+  — Marcus Aurelius
 </p>
 </div>
 
