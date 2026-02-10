@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you want your life to be more rewarding, you have to change the way you think.”</i><br/>
-  — Oprah Winfrey
+  <i>“The two most powerful warriors are patience and time.”</i><br/>
+  — Leo Tolstoy
 </p>
 </div>
 
