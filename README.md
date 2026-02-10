@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It is the supreme art of the teacher to awaken joy in creative expression and knowledge.”</i><br/>
-  — Albert Einstein
+  <i>“Our intention creates our reality.”</i><br/>
+  — Wayne Dyer
 </p>
 </div>
 
