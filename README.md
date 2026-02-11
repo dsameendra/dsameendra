@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You can't cross the sea merely by standing and staring at the water.”</i><br/>
-  — Rabindranath Tagore
+  <i>“Know how to listen, and you will profit even from those who talk badly.”</i><br/>
+  — Plutarch
 </p>
 </div>
 
