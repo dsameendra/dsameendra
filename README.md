@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Everything that happens as it should, and if you observe carefully, you will find this to be so.”</i><br/>
-  — Marcus Aurelius
+  <i>“Gratitude is the fairest blossom which springs from the soul.”</i><br/>
+  — Henry K. Beecher
 </p>
 </div>
 
