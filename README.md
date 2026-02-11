@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Gratitude is the fairest blossom which springs from the soul.”</i><br/>
-  — Henry K. Beecher
+  <i>“Nature is a mutable cloud which is always and never the same.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
