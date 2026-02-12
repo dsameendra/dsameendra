@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Should a seeker not find a companion who is better or equal, let them resolutely pursue a solitary course.”</i><br/>
-  — The Buddha
+  <i>“Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark.”</i><br/>
+  — Whoopi Goldberg
 </p>
 </div>
 
