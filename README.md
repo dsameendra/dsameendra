@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The best cure for the body is a quiet mind.”</i><br/>
-  — Napoleon
+  <i>“It's only when the tide goes out that you discover who's been swimming naked.”</i><br/>
+  — Warren Buffett
 </p>
 </div>
 
