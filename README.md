@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Argue for your limitations, and sure enough they're yours.”</i><br/>
-  — Richard Bach
+  <i>“The energy of the mind is the essence of life.”</i><br/>
+  — Aristotle
 </p>
 </div>
 
