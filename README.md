@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Imagination allows us to escape the predictable. It enables us to reply to the common wisdom that we cannot soar by saying, 'Just watch!'”</i><br/>
-  — Bill Bradley
+  <i>“The best cure for the body is a quiet mind.”</i><br/>
+  — Napoleon
 </p>
 </div>
 
