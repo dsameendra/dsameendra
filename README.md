@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“One of the advantages of being disorderly is that one is constantly making exciting discoveries.”</i><br/>
-  — A. A. Milne
+  <i>“Change will not come if we wait for some other person or some other time. We are the ones we've been waiting for. We are the change that we seek.”</i><br/>
+  — Barack Obama
 </p>
 </div>
 
