@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It's only when the tide goes out that you discover who's been swimming naked.”</i><br/>
-  — Warren Buffett
+  <i>“The possibilities are numerous once we decide to act and not react.”</i><br/>
+  — George Bernard Shaw
 </p>
 </div>
 
