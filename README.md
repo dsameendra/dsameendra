@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The possibilities are numerous once we decide to act and not react.”</i><br/>
-  — George Bernard Shaw
+  <i>“One of the advantages of being disorderly is that one is constantly making exciting discoveries.”</i><br/>
+  — A. A. Milne
 </p>
 </div>
 
