@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The universe is full of magical things, patiently waiting for our wits to grow sharper.”</i><br/>
-  — Eden Phillpotts
+  <i>“We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.”</i><br/>
+  — Sam Keen
 </p>
 </div>
 
