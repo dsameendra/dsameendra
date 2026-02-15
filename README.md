@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Not all those who wander are lost.”</i><br/>
-  — J. R. R. Tolkien
+  <i>“In seed time learn, in harvest teach, in winter enjoy.”</i><br/>
+  — William Blake
 </p>
 </div>
 
