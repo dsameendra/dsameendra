@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.”</i><br/>
-  — Sam Keen
+  <i>“You are a product of your environment. So choose the environment that will best develop you toward your objective. Analyze your life in terms of its environment. Are the things around you helping you toward success - or are they holding you back?”</i><br/>
+  — W. Clement Stone
 </p>
 </div>
 
