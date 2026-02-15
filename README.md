@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“In seed time learn, in harvest teach, in winter enjoy.”</i><br/>
-  — William Blake
+  <i>“The universe is full of magical things, patiently waiting for our wits to grow sharper.”</i><br/>
+  — Eden Phillpotts
 </p>
 </div>
 
