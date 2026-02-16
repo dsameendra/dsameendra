@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“When fate hands us a lemon, let's try to make lemonade.”</i><br/>
-  — Dale Carnegie
+  <i>“A wise man can learn more from a foolish question than a fool can learn from a wise answer.”</i><br/>
+  — Bruce Lee
 </p>
 </div>
 
