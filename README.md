@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Action may not always bring happiness; but there is no happiness without action.”</i><br/>
-  — Benjamin Disraeli
+  <i>“I am always doing that which I cannot do, in order that I may learn how to do it.”</i><br/>
+  — Pablo Picasso
 </p>
 </div>
 
