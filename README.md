@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A wise man can learn more from a foolish question than a fool can learn from a wise answer.”</i><br/>
-  — Bruce Lee
+  <i>“Action may not always bring happiness; but there is no happiness without action.”</i><br/>
+  — Benjamin Disraeli
 </p>
 </div>
 
