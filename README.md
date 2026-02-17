@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The secret of getting ahead is getting started.”</i><br/>
-  — Mark Twain
+  <i>“Pick battles big enough to matter, small enough to win.”</i><br/>
+  — Jonathan Kozol
 </p>
 </div>
 
