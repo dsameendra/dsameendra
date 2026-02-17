@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I am always doing that which I cannot do, in order that I may learn how to do it.”</i><br/>
-  — Pablo Picasso
+  <i>“The secret of getting ahead is getting started.”</i><br/>
+  — Mark Twain
 </p>
 </div>
 
