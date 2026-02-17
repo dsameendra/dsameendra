@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Pick battles big enough to matter, small enough to win.”</i><br/>
-  — Jonathan Kozol
+  <i>“I am building a fire, and everyday I train, I add more fuel. At just the right moment, I light the match.”</i><br/>
+  — Mia Hamm
 </p>
 </div>
 
