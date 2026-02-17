@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I am building a fire, and everyday I train, I add more fuel. At just the right moment, I light the match.”</i><br/>
-  — Mia Hamm
+  <i>“Lose an hour in the morning, and you will spend all day looking for it.”</i><br/>
+  — Richard Whately
 </p>
 </div>
 
