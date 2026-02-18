@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I have often regretted my speech, never my silence.”</i><br/>
-  — Publilius Syrus
+  <i>“If you do what you've always done, you'll get what you've always gotten.”</i><br/>
+  — Tony Robbins
 </p>
 </div>
 
