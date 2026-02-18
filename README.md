@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“People usually compare the computer to the head of the human being. I would say that hardware is the bone of the head, the skull. The semiconductor is the brain within the head. The software is the wisdom. And data is the knowledge.”</i><br/>
-  — Masayoshi Son
+  <i>“Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity.”</i><br/>
+  — George S. Patton
 </p>
 </div>
 
