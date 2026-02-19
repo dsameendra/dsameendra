@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“All know the way; few actually walk it.”</i><br/>
-  — Bodhidharma
+  <i>“Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars.”</i><br/>
+  — Henry van Dyke Jr.
 </p>
 </div>
 
