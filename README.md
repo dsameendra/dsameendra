@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity.”</i><br/>
-  — George S. Patton
+  <i>“Most powerful is he who has himself in his own power.”</i><br/>
+  — Seneca the Younger
 </p>
 </div>
 
