@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Most powerful is he who has himself in his own power.”</i><br/>
-  — Seneca the Younger
+  <i>“All know the way; few actually walk it.”</i><br/>
+  — Bodhidharma
 </p>
 </div>
 
