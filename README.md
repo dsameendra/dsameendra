@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know.”</i><br/>
-  — William Saroyan
+  <i>“First say to yourself what you would be; and then do what you have to do.”</i><br/>
+  — Epictetus
 </p>
 </div>
 
