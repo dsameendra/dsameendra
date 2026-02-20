@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The aim of life is self-development. To realize one's nature perfectly - that is what each of us is here for.”</i><br/>
-  — Oscar Wilde
+  <i>“The man of knowledge must be able not only to love his enemies but also to hate his friends.”</i><br/>
+  — Friedrich Nietzsche
 </p>
 </div>
 
