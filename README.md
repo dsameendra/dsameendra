@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“My best friend is the one who brings out the best in me.”</i><br/>
-  — Henry Ford
+  <i>“Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know.”</i><br/>
+  — William Saroyan
 </p>
 </div>
 
