@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“First say to yourself what you would be; and then do what you have to do.”</i><br/>
-  — Epictetus
+  <i>“The aim of life is self-development. To realize one's nature perfectly - that is what each of us is here for.”</i><br/>
+  — Oscar Wilde
 </p>
 </div>
 
