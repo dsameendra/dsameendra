@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Along with success comes a reputation for wisdom.”</i><br/>
-  — Euripides
+  <i>“Time changes everything except something within us which is always surprised by change.”</i><br/>
+  — Thomas Hardy
 </p>
 </div>
 
