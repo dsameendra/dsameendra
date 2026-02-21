@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The man of knowledge must be able not only to love his enemies but also to hate his friends.”</i><br/>
-  — Friedrich Nietzsche
+  <i>“TV and the Internet are good because they keep stupid people from spending too much time out in public.”</i><br/>
+  — Douglas Coupland
 </p>
 </div>
 
