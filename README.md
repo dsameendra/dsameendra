@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Time changes everything except something within us which is always surprised by change.”</i><br/>
-  — Thomas Hardy
+  <i>“A really great talent finds its happiness in execution.”</i><br/>
+  — Johann Wolfgang von Goethe
 </p>
 </div>
 
