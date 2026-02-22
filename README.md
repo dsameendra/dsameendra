@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Start where you are. Use what you have. Do what you can.”</i><br/>
-  — Arthur Ashe
+  <i>“Genius is one percent inspiration and ninety-nine percent perspiration.”</i><br/>
+  — Thomas Edison
 </p>
 </div>
 
