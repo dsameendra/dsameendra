@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There is nothing in a caterpillar that tells you it's going to be a butterfly.”</i><br/>
-  — Buckminster Fuller
+  <i>“Start where you are. Use what you have. Do what you can.”</i><br/>
+  — Arthur Ashe
 </p>
 </div>
 
