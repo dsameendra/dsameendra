@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Genius is one percent inspiration and ninety-nine percent perspiration.”</i><br/>
-  — Thomas Edison
+  <i>“If you're trying to achieve, there will be roadblocks. I've had them; everybody has had them. But obstacles don't have to stop you. If you run into a wall, don't turn around and give up. Figure out how to climb it, go through it, or work around it.”</i><br/>
+  — Michael Jordan
 </p>
 </div>
 
