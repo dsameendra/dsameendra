@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There is no failure except in no longer trying.”</i><br/>
-  — Elbert Hubbard
+  <i>“We the people are the rightful masters of both Congress and the courts, not to overthrow the Constitution but to overthrow the men who pervert the Constitution.”</i><br/>
+  — Abraham Lincoln
 </p>
 </div>
 
