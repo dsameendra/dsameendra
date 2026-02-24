@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Change your thoughts and you change your world.”</i><br/>
-  — Norman Vincent Peale
+  <i>“Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.”</i><br/>
+  — Blaise Pascal
 </p>
 </div>
 
