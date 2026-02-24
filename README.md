@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“No man can succeed in a line of endeavor which he does not like.”</i><br/>
-  — Napoleon Hill
+  <i>“Change your thoughts and you change your world.”</i><br/>
+  — Norman Vincent Peale
 </p>
 </div>
 
