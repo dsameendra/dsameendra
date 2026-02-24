@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Everyone thinks of changing the world, but no one thinks of changing himself.”</i><br/>
-  — Leo Tolstoy
+  <i>“It is not so important to know everything as to appreciate what we learn.”</i><br/>
+  — Hannah More
 </p>
 </div>
 
