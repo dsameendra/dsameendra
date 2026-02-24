@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It is not so important to know everything as to appreciate what we learn.”</i><br/>
-  — Hannah More
+  <i>“No man can succeed in a line of endeavor which he does not like.”</i><br/>
+  — Napoleon Hill
 </p>
 </div>
 
