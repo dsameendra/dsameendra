@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It's not what happens to you, but how you react to it that matters.”</i><br/>
-  — Epictetus
+  <i>“I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.”</i><br/>
+  — Marilyn Monroe
 </p>
 </div>
 
