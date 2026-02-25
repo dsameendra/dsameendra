@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.”</i><br/>
-  — Blaise Pascal
+  <i>“Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.”</i><br/>
+  — Napoleon Hill
 </p>
 </div>
 
