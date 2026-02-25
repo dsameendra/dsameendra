@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.”</i><br/>
-  — Napoleon Hill
+  <i>“It's not what happens to you, but how you react to it that matters.”</i><br/>
+  — Epictetus
 </p>
 </div>
 
