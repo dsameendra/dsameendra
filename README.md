@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The sum of wisdom is that time is never lost that is devoted to work.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“Wisdom ceases to be wisdom when it becomes too proud to weep, too grave to laugh, and too selfish to seek other than itself.”</i><br/>
+  — Kahlil Gibran
 </p>
 </div>
 
