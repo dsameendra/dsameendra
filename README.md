@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“More often than not, anger is actually an indication of weakness rather than of strength.”</i><br/>
-  — Dalai Lama
+  <i>“The sum of wisdom is that time is never lost that is devoted to work.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
