@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Conflict is the gadfly of thought. It stirs us to observation and memory. It instigates to invention. It shocks us out of sheeplike passivity, and sets us at noting and contriving.”</i><br/>
-  — John Dewey
+  <i>“More often than not, anger is actually an indication of weakness rather than of strength.”</i><br/>
+  — Dalai Lama
 </p>
 </div>
 
