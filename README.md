@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Action is the foundational key to all success.”</i><br/>
-  — Pablo Picasso
+  <i>“See the positive side, the potential, and make an effort.”</i><br/>
+  — Dalai Lama
 </p>
 </div>
 
