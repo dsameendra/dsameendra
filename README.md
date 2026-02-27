@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If a man does not make new acquaintances as he advances through life, he will soon find himself left alone. A man, sir, should keep his friendship in a constant repair.”</i><br/>
-  — Samuel Johnson
+  <i>“Action is the foundational key to all success.”</i><br/>
+  — Pablo Picasso
 </p>
 </div>
 
