@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“See the positive side, the potential, and make an effort.”</i><br/>
-  — Dalai Lama
+  <i>“Nature takes away any faculty that is not used.”</i><br/>
+  — William Inge
 </p>
 </div>
 
