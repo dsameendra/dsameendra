@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Nature takes away any faculty that is not used.”</i><br/>
-  — William Inge
+  <i>“Knowing is not enough; we must apply!”</i><br/>
+  — Johann Wolfgang von Goethe
 </p>
 </div>
 
