@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The virtue of justice consists in moderation, as regulated by wisdom.”</i><br/>
-  — Aristotle
+  <i>“Success is where preparation and opportunity meet.”</i><br/>
+  — Bobby Unser
 </p>
 </div>
 
