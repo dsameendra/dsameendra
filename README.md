@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Success is where preparation and opportunity meet.”</i><br/>
-  — Bobby Unser
+  <i>“Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark.”</i><br/>
+  — Whoopi Goldberg
 </p>
 </div>
 
