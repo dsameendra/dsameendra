@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark.”</i><br/>
-  — Whoopi Goldberg
+  <i>“Interestingly, according to modern astronomers, space is finite. This is a very comforting thought-- particularly for people who can never remember where they have left things.”</i><br/>
+  — Woody Allen
 </p>
 </div>
 
