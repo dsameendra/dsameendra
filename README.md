@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Knowing is not enough; we must apply!”</i><br/>
-  — Johann Wolfgang von Goethe
+  <i>“The virtue of justice consists in moderation, as regulated by wisdom.”</i><br/>
+  — Aristotle
 </p>
 </div>
 
