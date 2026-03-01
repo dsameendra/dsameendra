@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Interestingly, according to modern astronomers, space is finite. This is a very comforting thought-- particularly for people who can never remember where they have left things.”</i><br/>
-  — Woody Allen
+  <i>“Kindness is the language which the deaf can hear and the blind can see.”</i><br/>
+  — Mark Twain
 </p>
 </div>
 
