@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Kindness is the language which the deaf can hear and the blind can see.”</i><br/>
-  — Mark Twain
+  <i>“Love isn't something you find. Love is something that finds you.”</i><br/>
+  — Loretta Young
 </p>
 </div>
 
