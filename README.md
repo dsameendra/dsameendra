@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Love isn't something you find. Love is something that finds you.”</i><br/>
-  — Loretta Young
+  <i>“Friendship is the source of the greatest pleasures, and without friends even the most agreeable pursuits become tedious.”</i><br/>
+  — Thomas Aquinas
 </p>
 </div>
 
