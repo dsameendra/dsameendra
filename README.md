@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Life shrinks or expands in proportion to one's courage.”</i><br/>
-  — Anaïs Nin
+  <i>“You can always tell a real friend: when you've made a fool of yourself he doesn't feel you've done a permanent job.”</i><br/>
+  — Laurence J. Peter
 </p>
 </div>
 
