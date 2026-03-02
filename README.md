@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you change the way you look at things, the things you look at change.”</i><br/>
-  — Wayne Dyer
+  <i>“Remember that a gesture of friendship, no matter how small, is always appreciated.”</i><br/>
+  — H. Jackson Brown Jr.
 </p>
 </div>
 
