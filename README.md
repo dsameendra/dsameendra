@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It is only with the heart that one can see rightly, what is essential is invisible to the eye.”</i><br/>
-  — Antoine de Saint-Exupéry
+  <i>“Life shrinks or expands in proportion to one's courage.”</i><br/>
+  — Anaïs Nin
 </p>
 </div>
 
