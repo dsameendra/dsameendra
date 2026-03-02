@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You can always tell a real friend: when you've made a fool of yourself he doesn't feel you've done a permanent job.”</i><br/>
-  — Laurence J. Peter
+  <i>“If you change the way you look at things, the things you look at change.”</i><br/>
+  — Wayne Dyer
 </p>
 </div>
 
