@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Friends show their love in times of trouble, not in happiness.”</i><br/>
-  — Euripides
+  <i>“It all depends on how we look at things, and not how they are in themselves.”</i><br/>
+  — Carl Jung
 </p>
 </div>
 
