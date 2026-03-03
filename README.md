@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.”</i><br/>
-  — Marie Curie
+  <i>“Friends show their love in times of trouble, not in happiness.”</i><br/>
+  — Euripides
 </p>
 </div>
 
