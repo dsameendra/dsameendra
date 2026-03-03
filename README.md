@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Remember that a gesture of friendship, no matter how small, is always appreciated.”</i><br/>
-  — H. Jackson Brown Jr.
+  <i>“Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.”</i><br/>
+  — Marie Curie
 </p>
 </div>
 
