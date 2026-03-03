@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It all depends on how we look at things, and not how they are in themselves.”</i><br/>
-  — Carl Jung
+  <i>“To have faith is to trust yourself to the water. When you swim you don't grab hold of the water, because if you do you will sink and drown. Instead you relax, and float.”</i><br/>
+  — Alan Watts
 </p>
 </div>
 
