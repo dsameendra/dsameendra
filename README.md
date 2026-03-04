@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Time is the most valuable thing a man can spend.”</i><br/>
-  — Theophrastus
+  <i>“To me, it doesn't matter how good you are. Sport is all about playing and competing. Whatever you do in cricket and in sport, enjoy it, be positive and try to win.”</i><br/>
+  — Ian Botham
 </p>
 </div>
 
