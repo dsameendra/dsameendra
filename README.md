@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“True happiness arises, in the first place, from the enjoyment of oneself, and in the next, from the friendship and conversation of a few select companions.”</i><br/>
-  — Joseph Addison
+  <i>“Be slow to fall into friendship; but when thou art in, continue firm and constant.”</i><br/>
+  — Isocrates
 </p>
 </div>
 
