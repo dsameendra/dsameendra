@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Be slow to fall into friendship; but when thou art in, continue firm and constant.”</i><br/>
-  — Isocrates
+  <i>“Time is the most valuable thing a man can spend.”</i><br/>
+  — Theophrastus
 </p>
 </div>
 
