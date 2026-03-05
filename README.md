@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Only two things are infinite, the universe and human stupidity, and I'm not sure about the former.”</i><br/>
-  — Albert Einstein
+  <i>“If I am not for myself, who will be for me? If I am not for others, what am I? And if not now, when?”</i><br/>
+  — Rabbi Hillel
 </p>
 </div>
 
