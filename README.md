@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The simplest things are often the truest.”</i><br/>
-  — Richard Bach
+  <i>“A wise person should be urgently moved on occasions that make for urgency.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
