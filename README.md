@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A wise person should be urgently moved on occasions that make for urgency.”</i><br/>
-  — The Buddha
+  <i>“Only two things are infinite, the universe and human stupidity, and I'm not sure about the former.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
