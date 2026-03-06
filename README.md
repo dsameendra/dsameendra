@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“First-rate people hire first-rate people; second-rate people hire third-rate people.”</i><br/>
-  — Leo Rosten
+  <i>“Once you label me you negate me.”</i><br/>
+  — Søren Kierkegaard
 </p>
 </div>
 
