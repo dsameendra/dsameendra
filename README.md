@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Once you label me you negate me.”</i><br/>
-  — Søren Kierkegaard
+  <i>“The lure of the distant and the difficult is deceptive. The great opportunity is where you are.”</i><br/>
+  — John Burroughs
 </p>
 </div>
 
