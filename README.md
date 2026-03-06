@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If I am not for myself, who will be for me? If I am not for others, what am I? And if not now, when?”</i><br/>
-  — Rabbi Hillel
+  <i>“How wonderful that we have met with a paradox. Now we have some hope of making progress.”</i><br/>
+  — Niels Bohr
 </p>
 </div>
 
