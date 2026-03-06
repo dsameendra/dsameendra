@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“How wonderful that we have met with a paradox. Now we have some hope of making progress.”</i><br/>
-  — Niels Bohr
+  <i>“First-rate people hire first-rate people; second-rate people hire third-rate people.”</i><br/>
+  — Leo Rosten
 </p>
 </div>
 
