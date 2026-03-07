@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If one advances confidently in the direction of his dream, and endeavors to live the life which he had imagines, he will meet with a success unexpected in common hours.”</i><br/>
-  — Henry David Thoreau
+  <i>“Nothing is softer or more flexible than water, yet nothing can resist it.”</i><br/>
+  — Laozi
 </p>
 </div>
 
