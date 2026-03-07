@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Nothing is softer or more flexible than water, yet nothing can resist it.”</i><br/>
-  — Laozi
+  <i>“Rock n' roll as a genre is different from pop and hip hop: it is about bands, and that for me suggests brotherhood, family, friendship and community.”</i><br/>
+  — Steven Van Zandt
 </p>
 </div>
 
