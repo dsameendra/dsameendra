@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“No man can succeed in a line of endeavor which he does not like.”</i><br/>
-  — Napoleon Hill
+  <i>“If one advances confidently in the direction of his dream, and endeavors to live the life which he had imagines, he will meet with a success unexpected in common hours.”</i><br/>
+  — Henry David Thoreau
 </p>
 </div>
 
