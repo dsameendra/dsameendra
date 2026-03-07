@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The lure of the distant and the difficult is deceptive. The great opportunity is where you are.”</i><br/>
-  — John Burroughs
+  <i>“No man can succeed in a line of endeavor which he does not like.”</i><br/>
+  — Napoleon Hill
 </p>
 </div>
 
