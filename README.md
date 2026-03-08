@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The highest stage in moral culture at which we can arrive is when we recognize that we ought to control our thoughts.”</i><br/>
-  — Charles Darwin
+  <i>“If opportunity doesn't knock, build a door.”</i><br/>
+  — Milton Berle
 </p>
 </div>
 
