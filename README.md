@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Until you make peace with who you are, you will never be content with what you have.”</i><br/>
-  — Doris Mortman
+  <i>“The highest stage in moral culture at which we can arrive is when we recognize that we ought to control our thoughts.”</i><br/>
+  — Charles Darwin
 </p>
 </div>
 
