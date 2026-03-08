@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If opportunity doesn't knock, build a door.”</i><br/>
-  — Milton Berle
+  <i>“Pure, holy simplicity confounds all the wisdom of this world and the wisdom of the flesh.”</i><br/>
+  — Francis of Assisi
 </p>
 </div>
 
