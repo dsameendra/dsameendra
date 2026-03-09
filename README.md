@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“He that respects himself is safe from others; he wears a coat of mail that none can pierce.”</i><br/>
-  — Henry Wadsworth Longfellow
+  <i>“Each misfortune you encounter will carry in it the seed of tomorrows good luck.”</i><br/>
+  — Og Mandino
 </p>
 </div>
 
