@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Each misfortune you encounter will carry in it the seed of tomorrows good luck.”</i><br/>
-  — Og Mandino
+  <i>“A quarrel between friends, when made up, adds a new tie to friendship.”</i><br/>
+  — Francis de Sales
 </p>
 </div>
 
