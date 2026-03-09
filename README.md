@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Pure, holy simplicity confounds all the wisdom of this world and the wisdom of the flesh.”</i><br/>
-  — Francis of Assisi
+  <i>“He that respects himself is safe from others; he wears a coat of mail that none can pierce.”</i><br/>
+  — Henry Wadsworth Longfellow
 </p>
 </div>
 
