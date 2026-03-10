@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Friendship is but another name for an alliance with the follies and the misfortunes of others. Our own share of miseries is sufficient: why enter then as volunteers into those of another?”</i><br/>
-  — Thomas Jefferson
+  <i>“He who is taught to live upon little owes more to his father's wisdom than he who has a great deal left him does to his father's care.”</i><br/>
+  — William C. Menninger
 </p>
 </div>
 
