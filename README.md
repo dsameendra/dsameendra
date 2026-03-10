@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Experts on romance say for a happy marriage there has to be more than a passionate love. For a lasting union, they insist, there must be a genuine liking for each other. Which, in my book, is a good definition for friendship.”</i><br/>
-  — Marilyn Monroe
+  <i>“There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.”</i><br/>
+  — Nelson Mandela
 </p>
 </div>
 
