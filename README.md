@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.”</i><br/>
-  — Nelson Mandela
+  <i>“Friendship is but another name for an alliance with the follies and the misfortunes of others. Our own share of miseries is sufficient: why enter then as volunteers into those of another?”</i><br/>
+  — Thomas Jefferson
 </p>
 </div>
 
