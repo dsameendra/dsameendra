@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“He who is taught to live upon little owes more to his father's wisdom than he who has a great deal left him does to his father's care.”</i><br/>
-  — William C. Menninger
+  <i>“Knowing is not enough; we must apply. Willing is not enough; we must do.”</i><br/>
+  — Johann Wolfgang von Goethe
 </p>
 </div>
 
