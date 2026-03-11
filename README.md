@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Knowing is not enough; we must apply. Willing is not enough; we must do.”</i><br/>
-  — Johann Wolfgang von Goethe
+  <i>“God gave us the gift of life; it is up to us to give ourselves the gift of living well.”</i><br/>
+  — Voltaire
 </p>
 </div>
 
