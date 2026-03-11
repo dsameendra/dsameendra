@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.”</i><br/>
-  — Samuel Beckett
+  <i>“All of our technology is completely unnecessary to a happy life.”</i><br/>
+  — Tom Hodgkinson
 </p>
 </div>
 
