@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“All of our technology is completely unnecessary to a happy life.”</i><br/>
-  — Tom Hodgkinson
+  <i>“Remember that sometimes not getting what you want is a wonderful stroke of luck.”</i><br/>
+  — Dalai Lama
 </p>
 </div>
 
