@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It's easier to resist at the beginning than at the end.”</i><br/>
-  — Leonardo da Vinci
+  <i>“I never think of the future. It comes soon enough.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
