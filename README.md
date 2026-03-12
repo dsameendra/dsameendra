@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Remember that sometimes not getting what you want is a wonderful stroke of luck.”</i><br/>
-  — Dalai Lama
+  <i>“One may say the eternal mystery of the world is its comprehensibility.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
