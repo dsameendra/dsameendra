@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The only true wisdom is in knowing you know nothing.”</i><br/>
-  — Isocrates
+  <i>“As you walk in God's divine wisdom, you will surely begin to see a greater measure of victory and good success in your life.”</i><br/>
+  — Joseph Prince
 </p>
 </div>
 
