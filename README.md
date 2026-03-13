@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“As you walk in God's divine wisdom, you will surely begin to see a greater measure of victory and good success in your life.”</i><br/>
-  — Joseph Prince
+  <i>“Friendship is like money, easier made than kept.”</i><br/>
+  — Samuel Butler
 </p>
 </div>
 
