@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I never think of the future. It comes soon enough.”</i><br/>
-  — Albert Einstein
+  <i>“Rock n' roll as a genre is different from pop and hip hop: it is about bands, and that for me suggests brotherhood, family, friendship and community.”</i><br/>
+  — Steven Van Zandt
 </p>
 </div>
 
