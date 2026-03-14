@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Love is the wisdom of the fool and the folly of the wise.”</i><br/>
-  — Samuel Johnson
+  <i>“Let us always meet each other with smile, for the smile is the beginning of love.”</i><br/>
+  — Mother Teresa
 </p>
 </div>
 
