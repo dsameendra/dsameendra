@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Friendship is like money, easier made than kept.”</i><br/>
-  — Samuel Butler
+  <i>“Love is the wisdom of the fool and the folly of the wise.”</i><br/>
+  — Samuel Johnson
 </p>
 </div>
 
