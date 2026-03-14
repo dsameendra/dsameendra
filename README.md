@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Well begun is half done.”</i><br/>
-  — Aristotle
+  <i>“Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.”</i><br/>
+  — Blaise Pascal
 </p>
 </div>
 
