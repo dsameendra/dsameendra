@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Either you run the day or the day runs you.”</i><br/>
-  — Jim Rohn
+  <i>“A prudent question is one half of wisdom.”</i><br/>
+  — Francis Bacon
 </p>
 </div>
 
