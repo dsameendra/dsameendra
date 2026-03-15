@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Always be smarter than the people who hire you.”</i><br/>
-  — Lena Horne
+  <i>“It is the province of knowledge to speak, and it is the privilege of wisdom to listen.”</i><br/>
+  — Oliver Wendell Holmes Jr.
 </p>
 </div>
 
