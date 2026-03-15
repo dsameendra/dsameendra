@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.”</i><br/>
-  — Blaise Pascal
+  <i>“Always be smarter than the people who hire you.”</i><br/>
+  — Lena Horne
 </p>
 </div>
 
