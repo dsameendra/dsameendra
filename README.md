@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A prudent question is one half of wisdom.”</i><br/>
-  — Francis Bacon
+  <i>“Life without love is like a tree without blossoms or fruit.”</i><br/>
+  — Kahlil Gibran
 </p>
 </div>
 
