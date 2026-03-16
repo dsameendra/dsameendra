@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Life without love is like a tree without blossoms or fruit.”</i><br/>
-  — Kahlil Gibran
+  <i>“Even youngish men can acquire wisdom as time goes by.”</i><br/>
+  — John Bercow
 </p>
 </div>
 
