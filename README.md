@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Even youngish men can acquire wisdom as time goes by.”</i><br/>
-  — John Bercow
+  <i>“To acquire knowledge, one must study; but to acquire wisdom, one must observe.”</i><br/>
+  — Marilyn vos Savant
 </p>
 </div>
 
