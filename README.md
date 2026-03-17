@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“He who controls others may be powerful, but he who has mastered himself is mightier still.”</i><br/>
-  — Laozi
+  <i>“In the sky there are no tracks. Outside there is no recluse. There are no conditioned things that are eternal. There is no instability in the Buddhas.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
