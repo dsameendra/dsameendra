@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“In the sky there are no tracks. Outside there is no recluse. There are no conditioned things that are eternal. There is no instability in the Buddhas.”</i><br/>
-  — The Buddha
+  <i>“Technology is a word that describes something that doesn't work yet.”</i><br/>
+  — Douglas Adams
 </p>
 </div>
 
