@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A friend to all is a friend to none.”</i><br/>
-  — Aristotle
+  <i>“He who controls others may be powerful, but he who has mastered himself is mightier still.”</i><br/>
+  — Laozi
 </p>
 </div>
 
