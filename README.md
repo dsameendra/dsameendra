@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel.”</i><br/>
-  — Mary Kay Ash
+  <i>“A friend to all is a friend to none.”</i><br/>
+  — Aristotle
 </p>
 </div>
 
