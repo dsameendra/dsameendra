@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Trust your hunches. They're usually based on facts filed away just below the conscious level.”</i><br/>
-  — Joyce Brothers
+  <i>“The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.”</i><br/>
+  — Will Durant
 </p>
 </div>
 
