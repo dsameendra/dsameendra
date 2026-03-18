@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The world makes way for the man who knows where he is going.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“Everything that irritates us about others can lead us to an understanding of ourselves.”</i><br/>
+  — Carl Jung
 </p>
 </div>
 
