@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.”</i><br/>
-  — Will Durant
+  <i>“The world makes way for the man who knows where he is going.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
