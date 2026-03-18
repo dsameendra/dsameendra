@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Technology is a word that describes something that doesn't work yet.”</i><br/>
-  — Douglas Adams
+  <i>“Trust your hunches. They're usually based on facts filed away just below the conscious level.”</i><br/>
+  — Joyce Brothers
 </p>
 </div>
 
