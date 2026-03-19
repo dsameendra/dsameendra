@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Love is a friendship set to music.”</i><br/>
-  — Joseph Campbell
+  <i>“Science is organized knowledge. Wisdom is organized life.”</i><br/>
+  — Immanuel Kant
 </p>
 </div>
 
