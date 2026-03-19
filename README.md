@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Everything that irritates us about others can lead us to an understanding of ourselves.”</i><br/>
-  — Carl Jung
+  <i>“A real friend is one who walks in when the rest of the world walks out.”</i><br/>
+  — Walter Winchell
 </p>
 </div>
 
