@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A real friend is one who walks in when the rest of the world walks out.”</i><br/>
-  — Walter Winchell
+  <i>“Sorrow is knowledge, those that know the most must mourn the deepest, the tree of knowledge is not the tree of life.”</i><br/>
+  — Lord Byron
 </p>
 </div>
 
