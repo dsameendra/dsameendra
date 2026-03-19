@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Sorrow is knowledge, those that know the most must mourn the deepest, the tree of knowledge is not the tree of life.”</i><br/>
-  — Lord Byron
+  <i>“Love is a friendship set to music.”</i><br/>
+  — Joseph Campbell
 </p>
 </div>
 
