@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Applause is a receipt, not a bill.”</i><br/>
-  — Dale Carnegie
+  <i>“The final wisdom of life requires not the annulment of incongruity but the achievement of serenity within and above it.”</i><br/>
+  — Reinhold Niebuhr
 </p>
 </div>
 
