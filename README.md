@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There is no greater harm than that of time wasted.”</i><br/>
-  — Michelangelo
+  <i>“Applause is a receipt, not a bill.”</i><br/>
+  — Dale Carnegie
 </p>
 </div>
 
