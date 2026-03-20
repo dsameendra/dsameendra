@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Science is organized knowledge. Wisdom is organized life.”</i><br/>
-  — Immanuel Kant
+  <i>“There is no greater harm than that of time wasted.”</i><br/>
+  — Michelangelo
 </p>
 </div>
 
