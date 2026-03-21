@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Imagination is the living power and prime agent of all human perception.”</i><br/>
-  — Samuel Taylor Coleridge
+  <i>“The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.”</i><br/>
+  — Charles Lamb
 </p>
 </div>
 
