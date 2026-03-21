@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.”</i><br/>
-  — Charles Lamb
+  <i>“If you can't feed a hundred people, then feed just one.”</i><br/>
+  — Mother Teresa
 </p>
 </div>
 
