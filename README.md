@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“My friends are my estate.”</i><br/>
-  — Emily Dickinson
+  <i>“I never considered a difference of opinion in politics, in religion, in philosophy, as cause for withdrawing from a friend.”</i><br/>
+  — Thomas Jefferson
 </p>
 </div>
 
