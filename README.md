@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I never considered a difference of opinion in politics, in religion, in philosophy, as cause for withdrawing from a friend.”</i><br/>
-  — Thomas Jefferson
+  <i>“Imagination is the living power and prime agent of all human perception.”</i><br/>
+  — Samuel Taylor Coleridge
 </p>
 </div>
 
