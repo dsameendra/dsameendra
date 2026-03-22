@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Love is rarer than genius itself. And friendship is rarer than love.”</i><br/>
-  — Charles Péguy
+  <i>“Adversity causes some men to break, others to break records.”</i><br/>
+  — William Arthur Ward
 </p>
 </div>
 
