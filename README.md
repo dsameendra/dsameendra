@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“Lose an hour in the morning, and you will spend all day looking for it.”</i><br/>
+  — Richard Whately
 </p>
 </div>
 
