@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Lose an hour in the morning, and you will spend all day looking for it.”</i><br/>
-  — Richard Whately
+  <i>“Love is rarer than genius itself. And friendship is rarer than love.”</i><br/>
+  — Charles Péguy
 </p>
 </div>
 
