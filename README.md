@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you can't feed a hundred people, then feed just one.”</i><br/>
-  — Mother Teresa
+  <i>“We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
