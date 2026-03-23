@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Adversity causes some men to break, others to break records.”</i><br/>
-  — William Arthur Ward
+  <i>“If you wish to be a writer, write.”</i><br/>
+  — Epictetus
 </p>
 </div>
 
