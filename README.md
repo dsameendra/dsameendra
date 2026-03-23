@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“What wisdom can you find that is greater than kindness?”</i><br/>
-  — Jean-Jacques Rousseau
+  <i>“Life is a succession of moments. To live each one is to succeed.”</i><br/>
+  — Corita Kent
 </p>
 </div>
 
