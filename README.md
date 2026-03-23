@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Knowledge speaks, but wisdom listens.”</i><br/>
-  — Jimi Hendrix
+  <i>“What wisdom can you find that is greater than kindness?”</i><br/>
+  — Jean-Jacques Rousseau
 </p>
 </div>
 
