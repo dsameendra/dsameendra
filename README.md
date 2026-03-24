@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The industrial landscape is already littered with remains of once successful companies that could not adapt their strategic vision to altered conditions of competition.”</i><br/>
-  — Ralph Abernathy
+  <i>“You are always free to change your mind and choose a different future, or a different past.”</i><br/>
+  — Richard Bach
 </p>
 </div>
 
