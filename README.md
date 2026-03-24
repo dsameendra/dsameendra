@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I can't believe that God put us on this earth to be ordinary.”</i><br/>
-  — Lou Holtz
+  <i>“The industrial landscape is already littered with remains of once successful companies that could not adapt their strategic vision to altered conditions of competition.”</i><br/>
+  — Ralph Abernathy
 </p>
 </div>
 
