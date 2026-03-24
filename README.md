@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Life is a succession of moments. To live each one is to succeed.”</i><br/>
-  — Corita Kent
+  <i>“I can't believe that God put us on this earth to be ordinary.”</i><br/>
+  — Lou Holtz
 </p>
 </div>
 
