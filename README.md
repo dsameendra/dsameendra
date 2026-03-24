@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You are always free to change your mind and choose a different future, or a different past.”</i><br/>
-  — Richard Bach
+  <i>“Nature gave us one tongue and two ears so we could hear twice as much as we speak.”</i><br/>
+  — Epictetus
 </p>
 </div>
 
