@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Our lives are the only meaningful expression of what we believe and in Whom we believe. And the only real wealth, for any of us, lies in our faith.”</i><br/>
-  — Gordon Hinckley
+  <i>“If we are not fully ourselves, truly in the present moment, we miss everything.”</i><br/>
+  — Thích Nhất Hạnh
 </p>
 </div>
 
