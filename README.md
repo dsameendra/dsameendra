@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Nature gave us one tongue and two ears so we could hear twice as much as we speak.”</i><br/>
-  — Epictetus
+  <i>“By failing to prepare, you are preparing to fail.”</i><br/>
+  — Benjamin Franklin
 </p>
 </div>
 
