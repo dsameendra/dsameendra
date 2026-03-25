@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If we are not fully ourselves, truly in the present moment, we miss everything.”</i><br/>
-  — Thích Nhất Hạnh
+  <i>“Good luck is another name for tenacity of purpose.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
