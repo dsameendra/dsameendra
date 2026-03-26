@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Great indeed is the sublimity of the Creative, to which all beings owe their beginning, and which permeates all heaven.”</i><br/>
-  — Laozi
+  <i>“I do not dispute with the world; rather it is the world that disputes with me.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
