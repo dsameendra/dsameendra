@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If we did the things we are capable of, we would astound ourselves.”</i><br/>
-  — Thomas Edison
+  <i>“An ounce of emotion is equal to a ton of facts.”</i><br/>
+  — John Junor
 </p>
 </div>
 
