@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Good luck is another name for tenacity of purpose.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“If we did the things we are capable of, we would astound ourselves.”</i><br/>
+  — Thomas Edison
 </p>
 </div>
 
