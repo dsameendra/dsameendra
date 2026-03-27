@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I do not dispute with the world; rather it is the world that disputes with me.”</i><br/>
-  — The Buddha
+  <i>“An ant on the move does more than a dozing ox”</i><br/>
+  — Laozi
 </p>
 </div>
 
