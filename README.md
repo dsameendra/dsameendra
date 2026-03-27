@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Better than a thousand hollow words, is one word that brings peace.”</i><br/>
-  — The Buddha
+  <i>“A man who doesn't trust himself can never really trust anyone else.”</i><br/>
+  — Jean François Paul de Gondi
 </p>
 </div>
 
