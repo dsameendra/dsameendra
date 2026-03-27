@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“An ant on the move does more than a dozing ox”</i><br/>
-  — Laozi
+  <i>“Better than a thousand hollow words, is one word that brings peace.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
