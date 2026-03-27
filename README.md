@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A man who doesn't trust himself can never really trust anyone else.”</i><br/>
-  — Jean François Paul de Gondi
+  <i>“A friend is a gift you give yourself.”</i><br/>
+  — Robert Louis Stevenson
 </p>
 </div>
 
