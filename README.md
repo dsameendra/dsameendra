@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Meditation is the dissolution of thoughts in eternal awareness or Pure consciousness without objectification, knowing without thinking, merging finitude in infinity.”</i><br/>
-  — Voltaire
+  <i>“Accept the challenges so that you can feel the exhilaration of victory.”</i><br/>
+  — George S. Patton
 </p>
 </div>
 
