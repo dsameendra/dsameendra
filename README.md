@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A friend is a gift you give yourself.”</i><br/>
-  — Robert Louis Stevenson
+  <i>“If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.”</i><br/>
+  — Daisaku Ikeda
 </p>
 </div>
 
