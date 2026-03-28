@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Friendship... is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything.”</i><br/>
-  — Muhammad Ali
+  <i>“Meditation is the dissolution of thoughts in eternal awareness or Pure consciousness without objectification, knowing without thinking, merging finitude in infinity.”</i><br/>
+  — Voltaire
 </p>
 </div>
 
