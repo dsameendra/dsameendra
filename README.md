@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.”</i><br/>
-  — Daisaku Ikeda
+  <i>“Friendship... is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything.”</i><br/>
+  — Muhammad Ali
 </p>
 </div>
 
