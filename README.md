@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Let go of your attachment to being right, and suddenly your mind is more open. You're able to benefit from the unique viewpoints of others, without being crippled by your own judgement.”</i><br/>
-  — Ralph Marston
+  <i>“I think somehow, we learn who we really are and then live with that decision.”</i><br/>
+  — Eleanor Roosevelt
 </p>
 </div>
 
