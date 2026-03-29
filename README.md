@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Accept the challenges so that you can feel the exhilaration of victory.”</i><br/>
-  — George S. Patton
+  <i>“A man should look for what is, and not for what he thinks should be.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
