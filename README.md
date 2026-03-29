@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.”</i><br/>
-  — Og Mandino
+  <i>“Let go of your attachment to being right, and suddenly your mind is more open. You're able to benefit from the unique viewpoints of others, without being crippled by your own judgement.”</i><br/>
+  — Ralph Marston
 </p>
 </div>
 
