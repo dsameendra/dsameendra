@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A man should look for what is, and not for what he thinks should be.”</i><br/>
-  — Albert Einstein
+  <i>“I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.”</i><br/>
+  — Og Mandino
 </p>
 </div>
 
