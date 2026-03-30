@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I think somehow, we learn who we really are and then live with that decision.”</i><br/>
-  — Eleanor Roosevelt
+  <i>“Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.”</i><br/>
+  — Harriet Tubman
 </p>
 </div>
 
