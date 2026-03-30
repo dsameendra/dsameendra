@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It's important to know that words don't move mountains. Work, exacting work moves mountains.”</i><br/>
-  — Danilo Dolci
+  <i>“As an elephant in the battlefield withstands arrows shot from bows all around, even so shall I endure abuse.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
