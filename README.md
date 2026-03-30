@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The greatest obstacle to connecting with our joy is resentment.”</i><br/>
-  — Pema Chödrön
+  <i>“It's important to know that words don't move mountains. Work, exacting work moves mountains.”</i><br/>
+  — Danilo Dolci
 </p>
 </div>
 
