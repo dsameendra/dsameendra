@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.”</i><br/>
-  — Harriet Tubman
+  <i>“The greatest obstacle to connecting with our joy is resentment.”</i><br/>
+  — Pema Chödrön
 </p>
 </div>
 
