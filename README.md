@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“As an elephant in the battlefield withstands arrows shot from bows all around, even so shall I endure abuse.”</i><br/>
-  — The Buddha
+  <i>“Make the most of yourself, for that is all there is of you.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
