@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The awareness of our own strength makes us modest.”</i><br/>
-  — Paul Cézanne
+  <i>“Nature and books belong to the eyes that see them.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
