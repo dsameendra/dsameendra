@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The only way to have a friend is to be one.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“The awareness of our own strength makes us modest.”</i><br/>
+  — Paul Cézanne
 </p>
 </div>
 
