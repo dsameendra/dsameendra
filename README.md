@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.”</i><br/>
-  — Dalai Lama
+  <i>“Life without love is like a tree without blossoms or fruit.”</i><br/>
+  — Kahlil Gibran
 </p>
 </div>
 
