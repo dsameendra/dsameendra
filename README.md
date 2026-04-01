@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It's better to be a lion for a day than a sheep all your life.”</i><br/>
-  — Elizabeth Kenny
+  <i>“I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.”</i><br/>
+  — Dalai Lama
 </p>
 </div>
 
