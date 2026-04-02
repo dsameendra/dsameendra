@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you wish to be a writer, write.”</i><br/>
-  — Epictetus
+  <i>“If you don't know where you are going, you will probably end up somewhere else.”</i><br/>
+  — Laurence J. Peter
 </p>
 </div>
 
