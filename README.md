@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you don't know where you are going, you will probably end up somewhere else.”</i><br/>
-  — Laurence J. Peter
+  <i>“Perfection of means and confusion of ends seems to characterize our age.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
