@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The only way to have a friend is to be one.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“If you wish to be a writer, write.”</i><br/>
+  — Epictetus
 </p>
 </div>
 
