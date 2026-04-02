@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Life without love is like a tree without blossoms or fruit.”</i><br/>
-  — Kahlil Gibran
+  <i>“The only way to have a friend is to be one.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
