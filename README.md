@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Perfection of means and confusion of ends seems to characterize our age.”</i><br/>
-  — Albert Einstein
+  <i>“Everything you can imagine is real.”</i><br/>
+  — Pablo Picasso
 </p>
 </div>
 
