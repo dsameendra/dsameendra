@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I cannot make my days longer, so I strive to make them better.”</i><br/>
-  — Henry David Thoreau
+  <i>“Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born.”</i><br/>
+  — Anaïs Nin
 </p>
 </div>
 
