@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We must never forget that it is through our actions, words, and thoughts that we have a choice.”</i><br/>
-  — Sogyal Rinpoche
+  <i>“I cannot make my days longer, so I strive to make them better.”</i><br/>
+  — Henry David Thoreau
 </p>
 </div>
 
