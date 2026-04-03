@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Everything you can imagine is real.”</i><br/>
-  — Pablo Picasso
+  <i>“We must never forget that it is through our actions, words, and thoughts that we have a choice.”</i><br/>
+  — Sogyal Rinpoche
 </p>
 </div>
 
