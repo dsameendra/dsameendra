@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Be here now. Be someplace else later. Is that so complicated?”</i><br/>
-  — David Bader
+  <i>“Conquer anger with non-anger. Conquer badness with goodness. Conquer meanness with generosity. Conquer dishonesty with truth.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
