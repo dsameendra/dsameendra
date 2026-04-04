@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born.”</i><br/>
-  — Anaïs Nin
+  <i>“Be here now. Be someplace else later. Is that so complicated?”</i><br/>
+  — David Bader
 </p>
 </div>
 
