@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose.”</i><br/>
-  — Woodrow Wilson
+  <i>“All that we see or seem is but a dream within a dream.”</i><br/>
+  — Edgar Allan Poe
 </p>
 </div>
 
