@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Conquer anger with non-anger. Conquer badness with goodness. Conquer meanness with generosity. Conquer dishonesty with truth.”</i><br/>
-  — The Buddha
+  <i>“Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose.”</i><br/>
+  — Woodrow Wilson
 </p>
 </div>
 
