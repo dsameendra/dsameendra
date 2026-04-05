@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“All that we see or seem is but a dream within a dream.”</i><br/>
-  — Edgar Allan Poe
+  <i>“Trust your hunches. They're usually based on facts filed away just below the conscious level.”</i><br/>
+  — Joyce Brothers
 </p>
 </div>
 
