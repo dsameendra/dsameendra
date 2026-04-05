@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Everything in the universe goes by indirection. There are no straight lines.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“Know from the rivers in clefts and in crevices: those in small channels flow noisily, the great flow silent. Whatever's not full makes noise. Whatever is full is quiet.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
