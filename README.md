@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Know from the rivers in clefts and in crevices: those in small channels flow noisily, the great flow silent. Whatever's not full makes noise. Whatever is full is quiet.”</i><br/>
-  — The Buddha
+  <i>“The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work.”</i><br/>
+  — Dalai Lama
 </p>
 </div>
 
