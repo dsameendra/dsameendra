@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Trust your hunches. They're usually based on facts filed away just below the conscious level.”</i><br/>
-  — Joyce Brothers
+  <i>“Everything in the universe goes by indirection. There are no straight lines.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
