@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Those who dream by day are cognizant of many things which escape those who dream only by night.”</i><br/>
-  — Edgar Allan Poe
+  <i>“The more you like yourself, the less you are like anyone else, which makes you unique.”</i><br/>
+  — Walt Disney
 </p>
 </div>
 
