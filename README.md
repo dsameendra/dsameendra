@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work.”</i><br/>
-  — Dalai Lama
+  <i>“Those who dream by day are cognizant of many things which escape those who dream only by night.”</i><br/>
+  — Edgar Allan Poe
 </p>
 </div>
 
