@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The more you like yourself, the less you are like anyone else, which makes you unique.”</i><br/>
-  — Walt Disney
+  <i>“Before you put on a frown, make absolutely sure there are no smiles available.”</i><br/>
+  — James M. Beggs
 </p>
 </div>
 
