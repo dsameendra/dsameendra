@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Before you put on a frown, make absolutely sure there are no smiles available.”</i><br/>
-  — James M. Beggs
+  <i>“TV and the Internet are good because they keep stupid people from spending too much time out in public.”</i><br/>
+  — Douglas Coupland
 </p>
 </div>
 
