@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You might well remember that nothing can bring you success but yourself.”</i><br/>
-  — Napoleon Hill
+  <i>“Trouble is only opportunity in work clothes.”</i><br/>
+  — Henry J. Kaiser
 </p>
 </div>
 
