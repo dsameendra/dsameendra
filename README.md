@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Trouble is only opportunity in work clothes.”</i><br/>
-  — Henry J. Kaiser
+  <i>“Never say there is nothing beautiful in the world anymore. There is always something to make you wonder in the shape of a tree, the trembling of a leaf.”</i><br/>
+  — Albert Schweitzer
 </p>
 </div>
 
