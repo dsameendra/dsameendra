@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Men are disturbed not by things, but by the view which they take of them.”</i><br/>
-  — Epictetus
+  <i>“Work while you have the light. You are responsible for the talent that has been entrusted to you.”</i><br/>
+  — Henri-Frédéric Amiel
 </p>
 </div>
 
