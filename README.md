@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The Universal Zulu Nation stands to acknowledge wisdom, understanding, freedom, justice, and equality, peace, unity, love, and having fun, work, overcoming the negative through the positive, science, mathematics, faith, facts, and the wonders of God, whether we call him Allah, Jehovah, Yahweh, or Jah.”</i><br/>
-  — Afrika Bambaataa
+  <i>“Men are disturbed not by things, but by the view which they take of them.”</i><br/>
+  — Epictetus
 </p>
 </div>
 
