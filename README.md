@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Work while you have the light. You are responsible for the talent that has been entrusted to you.”</i><br/>
-  — Henri-Frédéric Amiel
+  <i>“Life isn't about finding yourself. Life is about creating yourself.”</i><br/>
+  — Bernard Shaw
 </p>
 </div>
 
