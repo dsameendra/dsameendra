@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Life isn't about finding yourself. Life is about creating yourself.”</i><br/>
-  — Bernard Shaw
+  <i>“You can't cross the sea merely by standing and staring at the water.”</i><br/>
+  — Rabindranath Tagore
 </p>
 </div>
 
