@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“In every walk with nature, one receives far more than he seeks.”</i><br/>
-  — John Muir
+  <i>“I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.”</i><br/>
+  — Herbert Bayard Swope
 </p>
 </div>
 
