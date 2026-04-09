@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A goal is a dream with a deadline.”</i><br/>
-  — Napoleon Hill
+  <i>“Our lives are a sum total of the choices we have made.”</i><br/>
+  — Wayne Dyer
 </p>
 </div>
 
