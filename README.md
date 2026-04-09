@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Our lives are a sum total of the choices we have made.”</i><br/>
-  — Wayne Dyer
+  <i>“In every walk with nature, one receives far more than he seeks.”</i><br/>
+  — John Muir
 </p>
 </div>
 
