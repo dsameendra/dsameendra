@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“To hell with circumstances, I create opportunities.”</i><br/>
-  — Bruce Lee
+  <i>“Learning is the beginning of wealth. Learning is the beginning of health. Learning is the beginning of spirituality. Searching and learning is where the miracle process all begins.”</i><br/>
+  — Jim Rohn
 </p>
 </div>
 
