@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.”</i><br/>
-  — Herbert Bayard Swope
+  <i>“Genius is one percent inspiration and ninety-nine percent perspiration.”</i><br/>
+  — Thomas Edison
 </p>
 </div>
 
