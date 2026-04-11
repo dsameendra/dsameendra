@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Two of man's basic needs are to love and to share. Both of these needs are satisfied in greater or lesser degree by friendship.”</i><br/>
-  — Mother Angelica
+  <i>“We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity.”</i><br/>
+  — Barbara De Angelis
 </p>
 </div>
 
