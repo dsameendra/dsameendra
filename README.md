@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity.”</i><br/>
-  — Barbara De Angelis
+  <i>“If you do what you've always done, you'll get what you've always gotten.”</i><br/>
+  — Tony Robbins
 </p>
 </div>
 
