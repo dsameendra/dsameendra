@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“In romance, we feel the need to zoom in and expound on our partner's foibles in intimate detail; in friendship, we tend to do the opposite, avoiding confrontation through fear, lethargy or both.”</i><br/>
-  — Mariella Frostrup
+  <i>“Two of man's basic needs are to love and to share. Both of these needs are satisfied in greater or lesser degree by friendship.”</i><br/>
+  — Mother Angelica
 </p>
 </div>
 
