@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“To get the full value of joy you must have someone to divide it with.”</i><br/>
-  — Mark Twain
+  <i>“If I know what love is, it is because of you.”</i><br/>
+  — Hermann Hesse
 </p>
 </div>
 
