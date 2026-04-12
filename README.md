@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It's not what you look at that matters, it's what you see.”</i><br/>
-  — Henry David Thoreau
+  <i>“We all grow up. Hopefully, we get wiser. Age brings wisdom, and fatherhood changes one's life completely.”</i><br/>
+  — Frank Abagnale
 </p>
 </div>
 
