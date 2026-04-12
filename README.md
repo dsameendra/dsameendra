@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If I know what love is, it is because of you.”</i><br/>
-  — Hermann Hesse
+  <i>“It's not what you look at that matters, it's what you see.”</i><br/>
+  — Henry David Thoreau
 </p>
 </div>
 
