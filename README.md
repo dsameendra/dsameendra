@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you do what you've always done, you'll get what you've always gotten.”</i><br/>
-  — Tony Robbins
+  <i>“To get the full value of joy you must have someone to divide it with.”</i><br/>
+  — Mark Twain
 </p>
 </div>
 
