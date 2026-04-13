@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Never apologize for showing feeling. When you do so, you apologize for truth.”</i><br/>
-  — Benjamin Disraeli
+  <i>“The smallest deed is better than the greatest intention.”</i><br/>
+  — John Burroughs
 </p>
 </div>
 
