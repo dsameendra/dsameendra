@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We all grow up. Hopefully, we get wiser. Age brings wisdom, and fatherhood changes one's life completely.”</i><br/>
-  — Frank Abagnale
+  <i>“There is never enough time to do everything, but there is always enough time to do the most important thing.”</i><br/>
+  — Brian Tracy
 </p>
 </div>
 
