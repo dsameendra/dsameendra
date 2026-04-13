@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There is never enough time to do everything, but there is always enough time to do the most important thing.”</i><br/>
-  — Brian Tracy
+  <i>“Never apologize for showing feeling. When you do so, you apologize for truth.”</i><br/>
+  — Benjamin Disraeli
 </p>
 </div>
 
