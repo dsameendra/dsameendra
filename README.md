@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Train up a fig tree in the way it should go, and when you are old sit under the shade of it.”</i><br/>
-  — Charles Dickens
+  <i>“I think that we have a great opportunity to impart our wisdom and our knowledge and our experience to this younger generation. It may be different times, but experience transcends time, and wisdom transcends time.”</i><br/>
+  — Victoria Osteen
 </p>
 </div>
 
