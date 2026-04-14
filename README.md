@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you want to kill any idea in the world, get a committee working on it.”</i><br/>
-  — Charles F. Kettering
+  <i>“Train up a fig tree in the way it should go, and when you are old sit under the shade of it.”</i><br/>
+  — Charles Dickens
 </p>
 </div>
 
