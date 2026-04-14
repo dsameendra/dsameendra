@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I have often regretted my speech, never my silence.”</i><br/>
-  — Publilius Syrus
+  <i>“The person who makes a success of living is the one who see his goal steadily and aims for it unswervingly. That is dedication.”</i><br/>
+  — Cecil B. DeMille
 </p>
 </div>
 
