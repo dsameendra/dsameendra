@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It is on our failures that we base a new and different and better success.”</i><br/>
-  — Havelock Ellis
+  <i>“Life is like riding a bicycle. To keep your balance you must keep moving.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
