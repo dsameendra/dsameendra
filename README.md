@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I think that we have a great opportunity to impart our wisdom and our knowledge and our experience to this younger generation. It may be different times, but experience transcends time, and wisdom transcends time.”</i><br/>
-  — Victoria Osteen
+  <i>“It is on our failures that we base a new and different and better success.”</i><br/>
+  — Havelock Ellis
 </p>
 </div>
 
