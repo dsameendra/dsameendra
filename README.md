@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Life is like riding a bicycle. To keep your balance you must keep moving.”</i><br/>
-  — Albert Einstein
+  <i>“We can do no great things, only small things with great love.”</i><br/>
+  — Mother Teresa
 </p>
 </div>
 
