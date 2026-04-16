@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We are all inclined to judge ourselves by our ideals; others, by their acts.”</i><br/>
-  — Harold Nicolson
+  <i>“What makes Superman a hero is not that he has power, but that he has the wisdom and the maturity to use the power wisely. From an acting point of view, that's how I approached the part.”</i><br/>
+  — Christopher Reeve
 </p>
 </div>
 
