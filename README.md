@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The road of excess leads to the palace of wisdom.”</i><br/>
-  — William Blake
+  <i>“We are all inclined to judge ourselves by our ideals; others, by their acts.”</i><br/>
+  — Harold Nicolson
 </p>
 </div>
 
