@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Gratitude is the fairest blossom which springs from the soul.”</i><br/>
-  — Henry K. Beecher
+  <i>“The road of excess leads to the palace of wisdom.”</i><br/>
+  — William Blake
 </p>
 </div>
 
