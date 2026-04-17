@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“They can do all because they think they can.”</i><br/>
-  — Virgil
+  <i>“Happiness does not come from having much, but from being attached to little.”</i><br/>
+  — Cheng Yen
 </p>
 </div>
 
