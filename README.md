@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself.”</i><br/>
-  — Henry Miller
+  <i>“They can do all because they think they can.”</i><br/>
+  — Virgil
 </p>
 </div>
 
