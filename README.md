@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Happiness does not come from having much, but from being attached to little.”</i><br/>
-  — Cheng Yen
+  <i>“I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.”</i><br/>
+  — Marilyn Monroe
 </p>
 </div>
 
