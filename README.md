@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I'd rather regret the things that I have done than the things that I have not done.”</i><br/>
-  — Lucille Ball
+  <i>“Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.”</i><br/>
+  — Bernice Reagon
 </p>
 </div>
 
