@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Gratitude is the fairest blossom which springs from the soul.”</i><br/>
-  — Henry K. Beecher
+  <i>“Don't talk about what you have done or what you are going to do.”</i><br/>
+  — Thomas Jefferson
 </p>
 </div>
 
