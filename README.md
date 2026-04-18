@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.”</i><br/>
-  — Bernice Reagon
+  <i>“Gratitude is the fairest blossom which springs from the soul.”</i><br/>
+  — Henry K. Beecher
 </p>
 </div>
 
