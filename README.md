@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Don't talk about what you have done or what you are going to do.”</i><br/>
-  — Thomas Jefferson
+  <i>“There are three faithful friends - an old wife, an old dog, and ready money.”</i><br/>
+  — Benjamin Franklin
 </p>
 </div>
 
