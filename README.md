@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There are three faithful friends - an old wife, an old dog, and ready money.”</i><br/>
-  — Benjamin Franklin
+  <i>“Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.”</i><br/>
+  — Abraham Lincoln
 </p>
 </div>
 
