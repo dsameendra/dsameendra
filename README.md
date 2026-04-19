@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.”</i><br/>
-  — Abraham Lincoln
+  <i>“If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.”</i><br/>
+  — Daisaku Ikeda
 </p>
 </div>
 
