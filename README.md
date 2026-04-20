@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.”</i><br/>
-  — Og Mandino
+  <i>“I'd rather attempt to do something great and fail than to attempt to do nothing and succeed.”</i><br/>
+  — Robert Schuller
 </p>
 </div>
 
