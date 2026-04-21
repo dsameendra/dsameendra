@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There is no friendship, no love, like that of the parent for the child.”</i><br/>
-  — Henry Ward Beecher
+  <i>“When written in Chinese, the word 'crisis' is composed of two characters. One represents danger and the other represents opportunity.”</i><br/>
+  — John F. Kennedy
 </p>
 </div>
 
