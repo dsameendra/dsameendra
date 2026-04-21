@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Character develops itself in the stream of life.”</i><br/>
-  — Johann Wolfgang von Goethe
+  <i>“There is no friendship, no love, like that of the parent for the child.”</i><br/>
+  — Henry Ward Beecher
 </p>
 </div>
 
