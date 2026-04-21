@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Friendship needs no words - it is solitude delivered from the anguish of loneliness.”</i><br/>
-  — Dag Hammarskjöld
+  <i>“A friend to all is a friend to none.”</i><br/>
+  — Aristotle
 </p>
 </div>
 
