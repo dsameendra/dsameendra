@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A friend to all is a friend to none.”</i><br/>
-  — Aristotle
+  <i>“Character develops itself in the stream of life.”</i><br/>
+  — Johann Wolfgang von Goethe
 </p>
 </div>
 
