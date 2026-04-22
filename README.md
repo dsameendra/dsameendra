@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“When written in Chinese, the word 'crisis' is composed of two characters. One represents danger and the other represents opportunity.”</i><br/>
-  — John F. Kennedy
+  <i>“Wisdom comes alone through suffering.”</i><br/>
+  — Aeschylus
 </p>
 </div>
 
