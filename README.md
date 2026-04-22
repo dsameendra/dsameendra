@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Wisdom comes alone through suffering.”</i><br/>
-  — Aeschylus
+  <i>“Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too.”</i><br/>
+  — Marcus Aurelius
 </p>
 </div>
 
