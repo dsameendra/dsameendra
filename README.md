@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“People may doubt what you say, but they will believe what you do.”</i><br/>
-  — Lewis Cass
+  <i>“Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too.”</i><br/>
+  — Marcus Aurelius
 </p>
 </div>
 
