@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too.”</i><br/>
-  — Marcus Aurelius
+  <i>“I will not be concerned at other men's not knowing me; I will be concerned at my own want of ability.”</i><br/>
+  — Confucius
 </p>
 </div>
 
