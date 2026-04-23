@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Wherever a man may happen to turn, whatever a man may undertake, he will always end up by returning to the path which nature has marked out for him.”</i><br/>
-  — Johann Wolfgang von Goethe
+  <i>“Start where you are. Use what you have. Do what you can.”</i><br/>
+  — Arthur Ashe
 </p>
 </div>
 
