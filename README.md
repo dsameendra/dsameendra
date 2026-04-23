@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain.”</i><br/>
-  — Oprah Winfrey
+  <i>“Wherever a man may happen to turn, whatever a man may undertake, he will always end up by returning to the path which nature has marked out for him.”</i><br/>
+  — Johann Wolfgang von Goethe
 </p>
 </div>
 
