@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I will not be concerned at other men's not knowing me; I will be concerned at my own want of ability.”</i><br/>
-  — Confucius
+  <i>“I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain.”</i><br/>
+  — Oprah Winfrey
 </p>
 </div>
 
