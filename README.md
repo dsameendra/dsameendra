@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Talent is God-given; be humble. Fame is man-given; be thankful. Conceit is self-given; be careful.”</i><br/>
-  — Harvey Mackay
+  <i>“Friendship is Love without his wings!”</i><br/>
+  — Lord Byron
 </p>
 </div>
 
