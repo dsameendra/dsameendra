@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Think for yourselves and let others enjoy the privilege to do so too.”</i><br/>
-  — Voltaire
+  <i>“The awareness of our own strength makes us modest.”</i><br/>
+  — Paul Cézanne
 </p>
 </div>
 
