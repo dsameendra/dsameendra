@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Silence is the true friend that never betrays.”</i><br/>
-  — Confucius
+  <i>“Think for yourselves and let others enjoy the privilege to do so too.”</i><br/>
+  — Voltaire
 </p>
 </div>
 
