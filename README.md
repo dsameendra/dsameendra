@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you have made mistakes, there is always another chance for you. You may have a fresh start any moment you choose.”</i><br/>
-  — Mary Pickford
+  <i>“Silence is the true friend that never betrays.”</i><br/>
+  — Confucius
 </p>
 </div>
 
