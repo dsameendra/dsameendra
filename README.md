@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“All things must come to the soul from its roots, from where it is planted.”</i><br/>
-  — Teresa of Ávila
+  <i>“The only thing to do with good advice is to pass it on. It is never of any use to oneself.”</i><br/>
+  — Oscar Wilde
 </p>
 </div>
 
