@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I have an everyday religion that works for me. Love yourself first, and everything else falls into line.”</i><br/>
-  — Lucille Ball
+  <i>“All things must come to the soul from its roots, from where it is planted.”</i><br/>
+  — Teresa of Ávila
 </p>
 </div>
 
