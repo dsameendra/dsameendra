@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I am of the opinion that my life belongs to the community, and as long as I live it is my privilege to do for it whatever I can.”</i><br/>
-  — Bernard Shaw
+  <i>“Victory belongs to the most persevering.”</i><br/>
+  — Napoleon
 </p>
 </div>
 
