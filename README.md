@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Victory belongs to the most persevering.”</i><br/>
-  — Napoleon
+  <i>“I have an everyday religion that works for me. Love yourself first, and everything else falls into line.”</i><br/>
+  — Lucille Ball
 </p>
 </div>
 
