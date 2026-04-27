@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Peace is not something you wish for. It's something you make, something you do, something you are, and something you give away.”</i><br/>
-  — Robert Fulghum
+  <i>“Only do what your heart tells you.”</i><br/>
+  — Princess Diana
 </p>
 </div>
 
