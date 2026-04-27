@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Only do what your heart tells you.”</i><br/>
-  — Princess Diana
+  <i>“When we are no longer able to change a situation - we are challenged to change ourselves.”</i><br/>
+  — Viktor Frankl
 </p>
 </div>
 
