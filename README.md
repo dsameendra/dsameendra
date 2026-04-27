@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“When we are no longer able to change a situation - we are challenged to change ourselves.”</i><br/>
-  — Viktor Frankl
+  <i>“The rule of friendship means there should be mutual sympathy between them, each supplying what the other lacks and trying to benefit the other, always using friendly and sincere words.”</i><br/>
+  — Cicero
 </p>
 </div>
 
