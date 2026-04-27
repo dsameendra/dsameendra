@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The only thing to do with good advice is to pass it on. It is never of any use to oneself.”</i><br/>
-  — Oscar Wilde
+  <i>“Peace is not something you wish for. It's something you make, something you do, something you are, and something you give away.”</i><br/>
+  — Robert Fulghum
 </p>
 </div>
 
