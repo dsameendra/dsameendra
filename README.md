@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The rule of friendship means there should be mutual sympathy between them, each supplying what the other lacks and trying to benefit the other, always using friendly and sincere words.”</i><br/>
-  — Cicero
+  <i>“I love my past. I love my present. I'm not ashamed of what I've had, and I'm not sad because I have it no longer.”</i><br/>
+  — Colette
 </p>
 </div>
 
