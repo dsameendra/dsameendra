@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I love my past. I love my present. I'm not ashamed of what I've had, and I'm not sad because I have it no longer.”</i><br/>
-  — Colette
+  <i>“Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
