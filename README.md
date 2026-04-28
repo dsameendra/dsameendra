@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody.”</i><br/>
+  — Henry Wadsworth Longfellow
 </p>
 </div>
 
