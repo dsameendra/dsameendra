@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody.”</i><br/>
-  — Henry Wadsworth Longfellow
+  <i>“The heart has eyes which the brain knows nothing of.”</i><br/>
+  — Charles Henry Parkhurst
 </p>
 </div>
 
