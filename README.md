@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The heart has eyes which the brain knows nothing of.”</i><br/>
-  — Charles Henry Parkhurst
+  <i>“I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.”</i><br/>
+  — Laozi
 </p>
 </div>
 
