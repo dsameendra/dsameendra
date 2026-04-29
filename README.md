@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Friendship is like money, easier made than kept.”</i><br/>
-  — Samuel Butler
+  <i>“In the middle of every difficulty lies opportunity.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
