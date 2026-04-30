@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“In the middle of every difficulty lies opportunity.”</i><br/>
-  — Albert Einstein
+  <i>“I have learned that to be with those I like is enough.”</i><br/>
+  — Walt Whitman
 </p>
 </div>
 
