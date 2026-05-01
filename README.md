@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Silence is the sleep that nourishes wisdom.”</i><br/>
-  — Francis Bacon
+  <i>“The first step to getting the things you want out of life is this: decide what you want.”</i><br/>
+  — Ben Stein
 </p>
 </div>
 
