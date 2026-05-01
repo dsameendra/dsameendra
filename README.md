@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Don't turn away from possible futures before you're certain you don't have anything to learn from them.”</i><br/>
-  — Richard Bach
+  <i>“Silence is the sleep that nourishes wisdom.”</i><br/>
+  — Francis Bacon
 </p>
 </div>
 
