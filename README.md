@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We don't stop playing because we grow old; we grow old because we stop playing.”</i><br/>
-  — Bernard Shaw
+  <i>“Don't turn away from possible futures before you're certain you don't have anything to learn from them.”</i><br/>
+  — Richard Bach
 </p>
 </div>
 
