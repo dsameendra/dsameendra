@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Know how to listen, and you will profit even from those who talk badly.”</i><br/>
-  — Plutarch
+  <i>“We don't stop playing because we grow old; we grow old because we stop playing.”</i><br/>
+  — Bernard Shaw
 </p>
 </div>
 
