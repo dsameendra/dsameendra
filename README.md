@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I can't listen to that much Wagner. I start getting the urge to conquer Poland.”</i><br/>
-  — Woody Allen
+  <i>“You'll see it when you believe it.”</i><br/>
+  — Wayne Dyer
 </p>
 </div>
 
