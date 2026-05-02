@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You were not born a winner, and you were not born a loser. You are what you make yourself be.”</i><br/>
-  — Lou Holtz
+  <i>“I can't listen to that much Wagner. I start getting the urge to conquer Poland.”</i><br/>
+  — Woody Allen
 </p>
 </div>
 
