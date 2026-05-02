@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The first step to getting the things you want out of life is this: decide what you want.”</i><br/>
-  — Ben Stein
+  <i>“Happiness is as a butterfly which, when pursued, is always beyond our grasp, but which if you will sit down quietly, may alight upon you.”</i><br/>
+  — Nathaniel Hawthorne
 </p>
 </div>
 
