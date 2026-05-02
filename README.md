@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Happiness is as a butterfly which, when pursued, is always beyond our grasp, but which if you will sit down quietly, may alight upon you.”</i><br/>
-  — Nathaniel Hawthorne
+  <i>“You were not born a winner, and you were not born a loser. You are what you make yourself be.”</i><br/>
+  — Lou Holtz
 </p>
 </div>
 
