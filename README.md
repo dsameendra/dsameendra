@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The most I can do for my friend is simply be his friend.”</i><br/>
-  — Henry David Thoreau
+  <i>“Ardently do today what must be done. Who knows? Tomorrow, death comes.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
