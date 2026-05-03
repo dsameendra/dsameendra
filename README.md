@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I have friends in overalls whose friendship I would not swap for the favor of the kings of the world.”</i><br/>
-  — Thomas Edison
+  <i>“Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.”</i><br/>
+  — Theodore Isaac Rubin
 </p>
 </div>
 
