@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Ardently do today what must be done. Who knows? Tomorrow, death comes.”</i><br/>
-  — The Buddha
+  <i>“I have friends in overalls whose friendship I would not swap for the favor of the kings of the world.”</i><br/>
+  — Thomas Edison
 </p>
 </div>
 
