@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You'll see it when you believe it.”</i><br/>
-  — Wayne Dyer
+  <i>“The most I can do for my friend is simply be his friend.”</i><br/>
+  — Henry David Thoreau
 </p>
 </div>
 
