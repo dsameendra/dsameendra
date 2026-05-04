@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“All this worldly wisdom was once the unamiable heresy of some wise man.”</i><br/>
-  — Henry David Thoreau
+  <i>“Good luck is another name for tenacity of purpose.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
