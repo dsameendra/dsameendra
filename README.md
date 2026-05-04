@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Action may not always bring happiness; but there is no happiness without action.”</i><br/>
-  — Benjamin Disraeli
+  <i>“All this worldly wisdom was once the unamiable heresy of some wise man.”</i><br/>
+  — Henry David Thoreau
 </p>
 </div>
 
