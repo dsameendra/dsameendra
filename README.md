@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Attitude is a little thing that makes a big difference.”</i><br/>
-  — Winston Churchill
+  <i>“Action may not always bring happiness; but there is no happiness without action.”</i><br/>
+  — Benjamin Disraeli
 </p>
 </div>
 
