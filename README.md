@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.”</i><br/>
-  — Theodore Isaac Rubin
+  <i>“Attitude is a little thing that makes a big difference.”</i><br/>
+  — Winston Churchill
 </p>
 </div>
 
