@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Good luck is another name for tenacity of purpose.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“Excellence is to do a common thing in an uncommon way.”</i><br/>
+  — Booker T. Washington
 </p>
 </div>
 
