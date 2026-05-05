@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Excellence is to do a common thing in an uncommon way.”</i><br/>
-  — Booker T. Washington
+  <i>“Do one thing every day that scares you.”</i><br/>
+  — Eleanor Roosevelt
 </p>
 </div>
 
