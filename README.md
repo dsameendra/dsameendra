@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times.”</i><br/>
-  — Napoleon Hill
+  <i>“Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots.”</i><br/>
+  — H. Jackson Brown Jr.
 </p>
 </div>
 
