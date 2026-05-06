@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots.”</i><br/>
-  — H. Jackson Brown Jr.
+  <i>“Logic is the beginning of wisdom, not the end.”</i><br/>
+  — Leonard Nimoy
 </p>
 </div>
 
