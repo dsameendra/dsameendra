@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Let us sacrifice our today so that our children can have a better tomorrow.”</i><br/>
-  — A. P. J. Abdul Kalam
+  <i>“Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times.”</i><br/>
+  — Napoleon Hill
 </p>
 </div>
 
