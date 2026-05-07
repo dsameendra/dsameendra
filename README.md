@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A man cannot be said to succeed in this life who does not satisfy one friend.”</i><br/>
-  — Henry David Thoreau
+  <i>“Love and friendship exclude each other.”</i><br/>
+  — Jean de La Bruyère
 </p>
 </div>
 
