@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Logic is the beginning of wisdom, not the end.”</i><br/>
-  — Leonard Nimoy
+  <i>“Fortune befriends the bold.”</i><br/>
+  — John Dryden
 </p>
 </div>
 
