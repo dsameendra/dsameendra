@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Fortune befriends the bold.”</i><br/>
-  — John Dryden
+  <i>“A man cannot be said to succeed in this life who does not satisfy one friend.”</i><br/>
+  — Henry David Thoreau
 </p>
 </div>
 
