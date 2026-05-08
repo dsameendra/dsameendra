@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Our work is the presentation of our capabilities.”</i><br/>
-  — Edward Gibbon
+  <i>“One today is worth two tomorrows.”</i><br/>
+  — Benjamin Franklin
 </p>
 </div>
 
