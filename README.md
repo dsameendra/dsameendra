@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart.”</i><br/>
-  — Nelson Mandela
+  <i>“Better than a thousand hollow words, is one word that brings peace.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
