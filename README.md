@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“What is past is left behind. The future is yet unreached. Whatever quality is present, clearly see it right there.”</i><br/>
-  — The Buddha
+  <i>“Our work is the presentation of our capabilities.”</i><br/>
+  — Edward Gibbon
 </p>
 </div>
 
