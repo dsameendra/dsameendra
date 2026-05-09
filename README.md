@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“All of our technology is completely unnecessary to a happy life.”</i><br/>
-  — Tom Hodgkinson
+  <i>“You can't shake hands with a clenched fist.”</i><br/>
+  — Indira Gandhi
 </p>
 </div>
 
