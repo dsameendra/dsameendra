@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“One today is worth two tomorrows.”</i><br/>
-  — Benjamin Franklin
+  <i>“It is on our failures that we base a new and different and better success.”</i><br/>
+  — Havelock Ellis
 </p>
 </div>
 
