@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You can't shake hands with a clenched fist.”</i><br/>
-  — Indira Gandhi
+  <i>“Love is the master key that opens the gates of happiness.”</i><br/>
+  — Oliver Wendell Holmes Jr.
 </p>
 </div>
 
