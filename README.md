@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Follow your instincts. That is where true wisdom manifests itself.”</i><br/>
-  — Oprah Winfrey
+  <i>“The way you see people is the way you treat them, and the way you treat them is what they become.”</i><br/>
+  — Johann Wolfgang von Goethe
 </p>
 </div>
 
