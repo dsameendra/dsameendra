@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Love is the master key that opens the gates of happiness.”</i><br/>
-  — Oliver Wendell Holmes Jr.
+  <i>“Love does not consist of gazing at each other, but in looking together in the same direction.”</i><br/>
+  — Antoine de Saint-Exupéry
 </p>
 </div>
 
