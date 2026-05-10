@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Honesty is the best policy.”</i><br/>
-  — Benjamin Franklin
+  <i>“Follow your instincts. That is where true wisdom manifests itself.”</i><br/>
+  — Oprah Winfrey
 </p>
 </div>
 
