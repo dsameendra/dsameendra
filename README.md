@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Love does not consist of gazing at each other, but in looking together in the same direction.”</i><br/>
-  — Antoine de Saint-Exupéry
+  <i>“Honesty is the best policy.”</i><br/>
+  — Benjamin Franklin
 </p>
 </div>
 
