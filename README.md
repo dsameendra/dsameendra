@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The heart has eyes which the brain knows nothing of.”</i><br/>
-  — Charles Henry Parkhurst
+  <i>“Swim upstream. Go the other way. Ignore the conventional wisdom.”</i><br/>
+  — Sam Walton
 </p>
 </div>
 
