@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The way you see people is the way you treat them, and the way you treat them is what they become.”</i><br/>
-  — Johann Wolfgang von Goethe
+  <i>“Waste no more time arguing about what a good man should be. Be one.”</i><br/>
+  — Marcus Aurelius
 </p>
 </div>
 
