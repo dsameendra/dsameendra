@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Waste no more time arguing about what a good man should be. Be one.”</i><br/>
-  — Marcus Aurelius
+  <i>“The heart has eyes which the brain knows nothing of.”</i><br/>
+  — Charles Henry Parkhurst
 </p>
 </div>
 
