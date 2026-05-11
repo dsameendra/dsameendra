@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Swim upstream. Go the other way. Ignore the conventional wisdom.”</i><br/>
-  — Sam Walton
+  <i>“Learning never exhausts the mind.”</i><br/>
+  — Leonardo da Vinci
 </p>
 </div>
 
