@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We make a living by what we get, but we make a life by what we give.”</i><br/>
-  — Winston Churchill
+  <i>“The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers.”</i><br/>
+  — Thích Nhất Hạnh
 </p>
 </div>
 
