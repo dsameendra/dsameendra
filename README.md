@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers.”</i><br/>
-  — Thích Nhất Hạnh
+  <i>“It is impossible to love and to be wise.”</i><br/>
+  — Francis Bacon
 </p>
 </div>
 
