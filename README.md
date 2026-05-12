@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It is impossible to love and to be wise.”</i><br/>
-  — Francis Bacon
+  <i>“The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own.”</i><br/>
+  — Laozi
 </p>
 </div>
 
