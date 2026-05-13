@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own.”</i><br/>
-  — Laozi
+  <i>“Short words are best and the old words when short are best of all.”</i><br/>
+  — Winston Churchill
 </p>
 </div>
 
