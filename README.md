@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If your actions inspire others to dream more, learn more, do more and become more, you are a leader.”</i><br/>
-  — John Quincy Adams
+  <i>“If we all did the things we are capable of doing, we would literally astound ourselves.”</i><br/>
+  — Thomas Edison
 </p>
 </div>
 
