@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If we all did the things we are capable of doing, we would literally astound ourselves.”</i><br/>
-  — Thomas Edison
+  <i>“Wisdom is the supreme part of happiness.”</i><br/>
+  — Sophocles
 </p>
 </div>
 
