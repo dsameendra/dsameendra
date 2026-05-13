@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Short words are best and the old words when short are best of all.”</i><br/>
-  — Winston Churchill
+  <i>“If your actions inspire others to dream more, learn more, do more and become more, you are a leader.”</i><br/>
+  — John Quincy Adams
 </p>
 </div>
 
