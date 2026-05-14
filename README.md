@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Wisdom is the supreme part of happiness.”</i><br/>
-  — Sophocles
+  <i>“The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.”</i><br/>
+  — Margaret Chase Smith
 </p>
 </div>
 
