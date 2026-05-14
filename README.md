@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There is nothing on this earth more to be prized than true friendship.”</i><br/>
-  — Thomas Aquinas
+  <i>“It is a miracle that curiosity survives formal education.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
