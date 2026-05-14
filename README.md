@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.”</i><br/>
-  — Margaret Chase Smith
+  <i>“It is not fair to ask of others what you are unwilling to do yourself.”</i><br/>
+  — Eleanor Roosevelt
 </p>
 </div>
 
