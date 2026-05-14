@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It is not fair to ask of others what you are unwilling to do yourself.”</i><br/>
-  — Eleanor Roosevelt
+  <i>“There is nothing on this earth more to be prized than true friendship.”</i><br/>
+  — Thomas Aquinas
 </p>
 </div>
 
