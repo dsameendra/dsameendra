@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It is a miracle that curiosity survives formal education.”</i><br/>
-  — Albert Einstein
+  <i>“Happiness depends upon ourselves.”</i><br/>
+  — Aristotle
 </p>
 </div>
 
