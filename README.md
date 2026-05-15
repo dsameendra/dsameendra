@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Happiness depends upon ourselves.”</i><br/>
-  — Aristotle
+  <i>“Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one.”</i><br/>
+  — Oscar Wilde
 </p>
 </div>
 
