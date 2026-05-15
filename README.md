@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one.”</i><br/>
-  — Oscar Wilde
+  <i>“I decided that it was not wisdom that enabled poets to write their poetry, but a kind of instinct or inspiration, such as you find in seers and prophets who deliver all their sublime messages without knowing in the least what they mean.”</i><br/>
+  — Isocrates
 </p>
 </div>
 
