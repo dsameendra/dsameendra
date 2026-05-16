@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Technology… the knack of so arranging the world that we don't have to experience it.”</i><br/>
-  — Max Frisch
+  <i>“Waste no more time arguing about what a good man should be. Be one.”</i><br/>
+  — Marcus Aurelius
 </p>
 </div>
 
