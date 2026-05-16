@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Waste no more time arguing about what a good man should be. Be one.”</i><br/>
-  — Marcus Aurelius
+  <i>“Know, first, who you are, and then adorn yourself accordingly.”</i><br/>
+  — Epictetus
 </p>
 </div>
 
