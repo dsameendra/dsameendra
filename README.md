@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If I had only known, I would have been a locksmith.”</i><br/>
-  — Albert Einstein
+  <i>“Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.”</i><br/>
+  — Franklin D. Roosevelt
 </p>
 </div>
 
