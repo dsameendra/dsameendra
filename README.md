@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.”</i><br/>
-  — Franklin D. Roosevelt
+  <i>“Technology… the knack of so arranging the world that we don't have to experience it.”</i><br/>
+  — Max Frisch
 </p>
 </div>
 
