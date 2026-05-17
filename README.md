@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Know, first, who you are, and then adorn yourself accordingly.”</i><br/>
-  — Epictetus
+  <i>“While we stop to think, we often miss our opportunity.”</i><br/>
+  — Publilius Syrus
 </p>
 </div>
 
