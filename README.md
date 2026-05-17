@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The smallest deed is better than the greatest intention.”</i><br/>
-  — John Burroughs
+  <i>“Friendship is like money, easier made than kept.”</i><br/>
+  — Samuel Butler
 </p>
 </div>
 
