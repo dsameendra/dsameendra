@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“While we stop to think, we often miss our opportunity.”</i><br/>
-  — Publilius Syrus
+  <i>“The deepest craving of human nature is the need to be appreciated.”</i><br/>
+  — William James
 </p>
 </div>
 
