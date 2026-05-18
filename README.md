@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you spend your whole life waiting for the storm, you'll never enjoy the sunshine.”</i><br/>
-  — Morris West
+  <i>“Of all the things which wisdom provides to make us entirely happy, much the greatest is the possession of friendship.”</i><br/>
+  — Epicurus
 </p>
 </div>
 
