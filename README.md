@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Of all the things which wisdom provides to make us entirely happy, much the greatest is the possession of friendship.”</i><br/>
-  — Epicurus
+  <i>“I decided that it was not wisdom that enabled poets to write their poetry, but a kind of instinct or inspiration, such as you find in seers and prophets who deliver all their sublime messages without knowing in the least what they mean.”</i><br/>
+  — Isocrates
 </p>
 </div>
 
