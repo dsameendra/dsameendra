@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Friendship is like money, easier made than kept.”</i><br/>
-  — Samuel Butler
+  <i>“If you spend your whole life waiting for the storm, you'll never enjoy the sunshine.”</i><br/>
+  — Morris West
 </p>
 </div>
 
