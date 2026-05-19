@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Honesty is the first chapter in the book of wisdom.”</i><br/>
-  — Thomas Jefferson
+  <i>“Quality is never an accident; it is always the result of intelligent effort.”</i><br/>
+  — John Ruskin
 </p>
 </div>
 
