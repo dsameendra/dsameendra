@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Some people go to priests; others to poetry; I to my friends.”</i><br/>
-  — Virginia Woolf
+  <i>“Honesty is the first chapter in the book of wisdom.”</i><br/>
+  — Thomas Jefferson
 </p>
 </div>
 
