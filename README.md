@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Quality is never an accident; it is always the result of intelligent effort.”</i><br/>
-  — John Ruskin
+  <i>“The deepest craving of human nature is the need to be appreciated.”</i><br/>
+  — William James
 </p>
 </div>
 
