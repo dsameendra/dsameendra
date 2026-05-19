@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A mind unruffled by the vagaries of fortune, from sorrow freed, from defilements cleansed, from fear liberated — this is the greatest blessing.”</i><br/>
-  — The Buddha
+  <i>“Some people go to priests; others to poetry; I to my friends.”</i><br/>
+  — Virginia Woolf
 </p>
 </div>
 
