@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I'm not afraid of storms, for I'm learning how to sail my ship.”</i><br/>
-  — Louisa May Alcott
+  <i>“What is necessary to change a person is to change his awareness of himself.”</i><br/>
+  — Abraham Maslow
 </p>
 </div>
 
