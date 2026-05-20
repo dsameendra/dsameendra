@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The deepest craving of human nature is the need to be appreciated.”</i><br/>
-  — William James
+  <i>“Wrinkles should merely indicate where smiles have been.”</i><br/>
+  — Mark Twain
 </p>
 </div>
 
