@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“What is necessary to change a person is to change his awareness of himself.”</i><br/>
-  — Abraham Maslow
+  <i>“Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
