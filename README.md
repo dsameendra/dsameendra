@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Wrinkles should merely indicate where smiles have been.”</i><br/>
-  — Mark Twain
+  <i>“I'm not afraid of storms, for I'm learning how to sail my ship.”</i><br/>
+  — Louisa May Alcott
 </p>
 </div>
 
