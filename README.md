@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I destroy my enemies when I make them my friends.”</i><br/>
-  — Abraham Lincoln
+  <i>“The only Zen you find on the tops of mountains is the Zen you bring up there.”</i><br/>
+  — Robert M. Pirsig
 </p>
 </div>
 
