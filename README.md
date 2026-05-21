@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“I destroy my enemies when I make them my friends.”</i><br/>
+  — Abraham Lincoln
 </p>
 </div>
 
