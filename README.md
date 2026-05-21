@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The only Zen you find on the tops of mountains is the Zen you bring up there.”</i><br/>
-  — Robert M. Pirsig
+  <i>“Go to your bosom: Knock there and ask your heart what it doth know.”</i><br/>
+  — William Shakespeare
 </p>
 </div>
 
