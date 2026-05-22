@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Better be ignorant of a matter than half know it.”</i><br/>
-  — Publilius Syrus
+  <i>“Two of man's basic needs are to love and to share. Both of these needs are satisfied in greater or lesser degree by friendship.”</i><br/>
+  — Mother Angelica
 </p>
 </div>
 
