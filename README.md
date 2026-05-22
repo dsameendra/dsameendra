@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I am not bothered by the fact that I am unknown. I am bothered when I do not know others.”</i><br/>
-  — Confucius
+  <i>“Better be ignorant of a matter than half know it.”</i><br/>
+  — Publilius Syrus
 </p>
 </div>
 
