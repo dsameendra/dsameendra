@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Who looks outside, dreams, who looks inside, awakes.”</i><br/>
-  — Carl Jung
+  <i>“I am not bothered by the fact that I am unknown. I am bothered when I do not know others.”</i><br/>
+  — Confucius
 </p>
 </div>
 
