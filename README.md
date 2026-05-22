@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It's not what you look at that matters, it's what you see.”</i><br/>
-  — Henry David Thoreau
+  <i>“Who looks outside, dreams, who looks inside, awakes.”</i><br/>
+  — Carl Jung
 </p>
 </div>
 
