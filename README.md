@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Two of man's basic needs are to love and to share. Both of these needs are satisfied in greater or lesser degree by friendship.”</i><br/>
-  — Mother Angelica
+  <i>“Don't talk about what you have done or what you are going to do.”</i><br/>
+  — Thomas Jefferson
 </p>
 </div>
 
