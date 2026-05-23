@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Don't talk about what you have done or what you are going to do.”</i><br/>
-  — Thomas Jefferson
+  <i>“You are always free to change your mind and choose a different future, or a different past.”</i><br/>
+  — Richard Bach
 </p>
 </div>
 
