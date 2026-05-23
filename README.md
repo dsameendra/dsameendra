@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius.”</i><br/>
-  — Wolfgang Amadeus Mozart
+  <i>“The bird of paradise alights only upon the hand that does not grasp.”</i><br/>
+  — John Berry
 </p>
 </div>
 
