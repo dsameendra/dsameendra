@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You are always free to change your mind and choose a different future, or a different past.”</i><br/>
-  — Richard Bach
+  <i>“Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius.”</i><br/>
+  — Wolfgang Amadeus Mozart
 </p>
 </div>
 
