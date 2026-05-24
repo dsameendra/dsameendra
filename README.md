@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I never worry about action, but only inaction.”</i><br/>
-  — Winston Churchill
+  <i>“Always seek out the seed of triumph in every adversity.”</i><br/>
+  — Og Mandino
 </p>
 </div>
 
