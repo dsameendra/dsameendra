@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Always seek out the seed of triumph in every adversity.”</i><br/>
-  — Og Mandino
+  <i>“History is written by the victors.”</i><br/>
+  — Winston Churchill
 </p>
 </div>
 
