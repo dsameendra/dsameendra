@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“History is written by the victors.”</i><br/>
-  — Winston Churchill
+  <i>“What is necessary to change a person is to change his awareness of himself.”</i><br/>
+  — Abraham Maslow
 </p>
 </div>
 
