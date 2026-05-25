@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“What is necessary to change a person is to change his awareness of himself.”</i><br/>
-  — Abraham Maslow
+  <i>“Minds are like parachutes. They only function when open.”</i><br/>
+  — Thomas Dewar
 </p>
 </div>
 
