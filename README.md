@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Change your life today. Don't gamble on the future, act now, without delay.”</i><br/>
-  — Simone de Beauvoir
+  <i>“The best thing about the future is that it only comes one day at a time.”</i><br/>
+  — Abraham Lincoln
 </p>
 </div>
 
