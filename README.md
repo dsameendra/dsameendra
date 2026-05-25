@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Minds are like parachutes. They only function when open.”</i><br/>
-  — Thomas Dewar
+  <i>“Change your life today. Don't gamble on the future, act now, without delay.”</i><br/>
+  — Simone de Beauvoir
 </p>
 </div>
 
