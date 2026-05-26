@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The best thing about the future is that it only comes one day at a time.”</i><br/>
-  — Abraham Lincoln
+  <i>“Once you label me you negate me.”</i><br/>
+  — Søren Kierkegaard
 </p>
 </div>
 
