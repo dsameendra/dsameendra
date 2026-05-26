@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I never considered a difference of opinion in politics, in religion, in philosophy, as cause for withdrawing from a friend.”</i><br/>
-  — Thomas Jefferson
+  <i>“There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded.”</i><br/>
+  — Mark Twain
 </p>
 </div>
 
