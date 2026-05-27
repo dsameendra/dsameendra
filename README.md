@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Friendship is certainly the finest balm for the pangs of disappointed love.”</i><br/>
-  — Jane Austen
+  <i>“Liberty, taking the word in its concrete sense, consists in the ability to choose.”</i><br/>
+  — Simone Weil
 </p>
 </div>
 
