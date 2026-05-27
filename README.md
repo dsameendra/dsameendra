@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Imagination allows us to escape the predictable. It enables us to reply to the common wisdom that we cannot soar by saying, 'Just watch!'”</i><br/>
-  — Bill Bradley
+  <i>“Friendship is certainly the finest balm for the pangs of disappointed love.”</i><br/>
+  — Jane Austen
 </p>
 </div>
 
