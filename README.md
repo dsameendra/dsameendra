@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded.”</i><br/>
-  — Mark Twain
+  <i>“I destroy my enemies when I make them my friends.”</i><br/>
+  — Abraham Lincoln
 </p>
 </div>
 
