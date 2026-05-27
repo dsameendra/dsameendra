@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I destroy my enemies when I make them my friends.”</i><br/>
-  — Abraham Lincoln
+  <i>“Imagination allows us to escape the predictable. It enables us to reply to the common wisdom that we cannot soar by saying, 'Just watch!'”</i><br/>
+  — Bill Bradley
 </p>
 </div>
 
