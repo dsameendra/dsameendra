@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Liberty, taking the word in its concrete sense, consists in the ability to choose.”</i><br/>
-  — Simone Weil
+  <i>“Nine-tenths of wisdom is being wise in time.”</i><br/>
+  — Theodore Roosevelt
 </p>
 </div>
 
