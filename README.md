@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I love wisdom. And you can never be great at anything unless you love it. Not be in love with it, but love the thing, admire the thing. And it seems that if you love the thing, and you don't just want to possess it, it will find you.”</i><br/>
-  — Maya Angelou
+  <i>“Genuine love should first be directed at oneself; if we do not love ourselves, how can we love others?”</i><br/>
+  — Dalai Lama
 </p>
 </div>
 
