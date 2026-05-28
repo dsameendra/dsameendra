@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Nine-tenths of wisdom is being wise in time.”</i><br/>
-  — Theodore Roosevelt
+  <i>“Where there is charity and wisdom, there is neither fear nor ignorance.”</i><br/>
+  — Francis of Assisi
 </p>
 </div>
 
