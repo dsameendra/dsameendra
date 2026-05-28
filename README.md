@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Where there is charity and wisdom, there is neither fear nor ignorance.”</i><br/>
-  — Francis of Assisi
+  <i>“I love wisdom. And you can never be great at anything unless you love it. Not be in love with it, but love the thing, admire the thing. And it seems that if you love the thing, and you don't just want to possess it, it will find you.”</i><br/>
+  — Maya Angelou
 </p>
 </div>
 
