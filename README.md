@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There is not one big cosmic meaning for all, there is only the meaning we each give to our life.”</i><br/>
-  — Anaïs Nin
+  <i>“Grief can be the garden of compassion. If you keep your heart open through everything, your pain can become your greatest ally in your life's search for love and wisdom.”</i><br/>
+  — Rumi
 </p>
 </div>
 
