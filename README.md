@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Grief can be the garden of compassion. If you keep your heart open through everything, your pain can become your greatest ally in your life's search for love and wisdom.”</i><br/>
-  — Rumi
+  <i>“True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.”</i><br/>
+  — Isocrates
 </p>
 </div>
 
