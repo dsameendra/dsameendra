@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Computers are like bikinis. They save people a lot of guesswork.”</i><br/>
-  — Sam Ewing
+  <i>“There is not one big cosmic meaning for all, there is only the meaning we each give to our life.”</i><br/>
+  — Anaïs Nin
 </p>
 </div>
 
