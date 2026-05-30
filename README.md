@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“He can who thinks he can, and he can't who thinks he can't. This is an inexorable, indisputable law.”</i><br/>
-  — Pablo Picasso
+  <i>“Things are as they are. Looking out into it the universe at night, we make no comparisons between right and wrong stars, nor between well and badly arranged constellations.”</i><br/>
+  — Alan Watts
 </p>
 </div>
 
