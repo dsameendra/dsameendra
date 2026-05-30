@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The truest greatness lies in being kind, the truest wisdom in a happy mind.”</i><br/>
-  — Ella Wheeler Wilcox
+  <i>“Just be patient. Let the game come to you. Don't rush. Be quick, but don't hurry.”</i><br/>
+  — Earl Monroe
 </p>
 </div>
 
