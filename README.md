@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Friendship is always a sweet responsibility, never an opportunity.”</i><br/>
-  — Kahlil Gibran
+  <i>“A ruffled mind makes a restless pillow.”</i><br/>
+  — Charlotte Brontë
 </p>
 </div>
 
