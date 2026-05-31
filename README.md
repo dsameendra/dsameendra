@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Things are as they are. Looking out into it the universe at night, we make no comparisons between right and wrong stars, nor between well and badly arranged constellations.”</i><br/>
-  — Alan Watts
+  <i>“The two most powerful warriors are patience and time.”</i><br/>
+  — Leo Tolstoy
 </p>
 </div>
 
