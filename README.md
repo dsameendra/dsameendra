@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A ruffled mind makes a restless pillow.”</i><br/>
-  — Charlotte Brontë
+  <i>“I'd rather regret the things I've done than regret the things I haven't done.”</i><br/>
+  — Lucille Ball
 </p>
 </div>
 
