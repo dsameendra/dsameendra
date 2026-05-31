@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The two most powerful warriors are patience and time.”</i><br/>
-  — Leo Tolstoy
+  <i>“Friendship is always a sweet responsibility, never an opportunity.”</i><br/>
+  — Kahlil Gibran
 </p>
 </div>
 
