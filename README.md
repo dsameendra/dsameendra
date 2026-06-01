@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Your talent is God's gift to you. What you do with it is your gift back to God.”</i><br/>
-  — Leo Buscaglia
+  <i>“If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success.”</i><br/>
+  — John Locke
 </p>
 </div>
 
