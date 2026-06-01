@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“All achievements, all earned riches, have their beginning in an idea.”</i><br/>
-  — Napoleon Hill
+  <i>“Your talent is God's gift to you. What you do with it is your gift back to God.”</i><br/>
+  — Leo Buscaglia
 </p>
 </div>
 
