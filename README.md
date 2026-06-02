@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success.”</i><br/>
-  — John Locke
+  <i>“Efficiency is doing things right; effectiveness is doing the right things.”</i><br/>
+  — Peter Drucker
 </p>
 </div>
 
