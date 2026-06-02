@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There is no greater harm than that of time wasted.”</i><br/>
-  — Michelangelo
+  <i>“Eternal nothingness is fine if you happen to be dressed for it.”</i><br/>
+  — Woody Allen
 </p>
 </div>
 
