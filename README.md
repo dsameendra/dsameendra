@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Eternal nothingness is fine if you happen to be dressed for it.”</i><br/>
-  — Woody Allen
+  <i>“I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.”</i><br/>
+  — Leonardo da Vinci
 </p>
 </div>
 
