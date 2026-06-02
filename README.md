@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Efficiency is doing things right; effectiveness is doing the right things.”</i><br/>
-  — Peter Drucker
+  <i>“There is no greater harm than that of time wasted.”</i><br/>
+  — Michelangelo
 </p>
 </div>
 
