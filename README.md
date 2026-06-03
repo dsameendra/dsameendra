@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Learning never exhausts the mind.”</i><br/>
-  — Leonardo da Vinci
+  <i>“If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away.”</i><br/>
+  — John Steinbeck
 </p>
 </div>
 
