@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away.”</i><br/>
-  — John Steinbeck
+  <i>“Either I will find a way, or I will make one.”</i><br/>
+  — Philip Sidney
 </p>
 </div>
 
