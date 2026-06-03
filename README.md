@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.”</i><br/>
-  — Leonardo da Vinci
+  <i>“Always tell the truth. That way, you don't have to remember what you said.”</i><br/>
+  — Mark Twain
 </p>
 </div>
 
