@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Either I will find a way, or I will make one.”</i><br/>
-  — Philip Sidney
+  <i>“We must become the change we want to see.”</i><br/>
+  — Mahatma Gandhi
 </p>
 </div>
 
