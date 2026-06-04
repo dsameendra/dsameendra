@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We must become the change we want to see.”</i><br/>
-  — Mahatma Gandhi
+  <i>“Time stays long enough for anyone who will use it.”</i><br/>
+  — Leonardo da Vinci
 </p>
 </div>
 
