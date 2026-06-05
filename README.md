@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The best thing about the future is that it only comes one day at a time.”</i><br/>
-  — Abraham Lincoln
+  <i>“To accomplish great things, we must dream as well as act.”</i><br/>
+  — Anatole France
 </p>
 </div>
 
