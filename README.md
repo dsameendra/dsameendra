@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There is no scarcity of opportunity to make a living at what you love; there's only scarcity of resolve to make it happen.”</i><br/>
-  — Wayne Dyer
+  <i>“He who knows that enough is enough will always have enough.”</i><br/>
+  — Laozi
 </p>
 </div>
 
