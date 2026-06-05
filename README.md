@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“He who knows that enough is enough will always have enough.”</i><br/>
-  — Laozi
+  <i>“What is not started today is never finished tomorrow.”</i><br/>
+  — Johann Wolfgang von Goethe
 </p>
 </div>
 
