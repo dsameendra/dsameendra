@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“What is not started today is never finished tomorrow.”</i><br/>
-  — Johann Wolfgang von Goethe
+  <i>“The best thing about the future is that it only comes one day at a time.”</i><br/>
+  — Abraham Lincoln
 </p>
 </div>
 
