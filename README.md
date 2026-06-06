@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Friendship with oneself is all important, because without it one cannot be friends with anyone else in the world.”</i><br/>
-  — Eleanor Roosevelt
+  <i>“Technology has to be invented or adopted.”</i><br/>
+  — Jared Diamond
 </p>
 </div>
 
