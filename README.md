@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Technology has to be invented or adopted.”</i><br/>
-  — Jared Diamond
+  <i>“Things do not change; we change.”</i><br/>
+  — Henry David Thoreau
 </p>
 </div>
 
