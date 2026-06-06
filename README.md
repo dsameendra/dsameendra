@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Things do not change; we change.”</i><br/>
-  — Henry David Thoreau
+  <i>“Don't smother each other. No one can grow in the shade.”</i><br/>
+  — Leo Buscaglia
 </p>
 </div>
 
