@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“To accomplish great things, we must dream as well as act.”</i><br/>
-  — Anatole France
+  <i>“Friendship with oneself is all important, because without it one cannot be friends with anyone else in the world.”</i><br/>
+  — Eleanor Roosevelt
 </p>
 </div>
 
