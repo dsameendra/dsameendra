@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Go to your bosom: Knock there and ask your heart what it doth know.”</i><br/>
-  — William Shakespeare
+  <i>“Fans don't boo nobodies.”</i><br/>
+  — Reggie Jackson (basketball, born 1990)
 </p>
 </div>
 
