@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Cleverness is not wisdom.”</i><br/>
-  — Euripides
+  <i>“May all beings have happy minds.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
