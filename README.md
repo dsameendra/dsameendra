@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“May all beings have happy minds.”</i><br/>
-  — The Buddha
+  <i>“Go to your bosom: Knock there and ask your heart what it doth know.”</i><br/>
+  — William Shakespeare
 </p>
 </div>
 
