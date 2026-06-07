@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Don't smother each other. No one can grow in the shade.”</i><br/>
-  — Leo Buscaglia
+  <i>“Cleverness is not wisdom.”</i><br/>
+  — Euripides
 </p>
 </div>
 
