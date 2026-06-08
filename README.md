@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You cannot find yourself by going into the past. You can find yourself by coming into the present.”</i><br/>
-  — Eckhart Tolle
+  <i>“I endeavor to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress.”</i><br/>
+  — Elizabeth Montagu
 </p>
 </div>
 
