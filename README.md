@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Fans don't boo nobodies.”</i><br/>
-  — Reggie Jackson (basketball, born 1990)
+  <i>“You cannot find yourself by going into the past. You can find yourself by coming into the present.”</i><br/>
+  — Eckhart Tolle
 </p>
 </div>
 
