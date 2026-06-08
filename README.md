@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark.”</i><br/>
-  — Whoopi Goldberg
+  <i>“The truest greatness lies in being kind, the truest wisdom in a happy mind.”</i><br/>
+  — Ella Wheeler Wilcox
 </p>
 </div>
 
