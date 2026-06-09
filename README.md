@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The truest greatness lies in being kind, the truest wisdom in a happy mind.”</i><br/>
-  — Ella Wheeler Wilcox
+  <i>“The more you care, the stronger you can be.”</i><br/>
+  — Jim Rohn
 </p>
 </div>
 
