@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The more you care, the stronger you can be.”</i><br/>
-  — Jim Rohn
+  <i>“Believe deep down in your heart that you're destined to do great things.”</i><br/>
+  — Joe Paterno
 </p>
 </div>
 
