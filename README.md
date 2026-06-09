@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Believe deep down in your heart that you're destined to do great things.”</i><br/>
-  — Joe Paterno
+  <i>“The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back.”</i><br/>
+  — Seneca the Younger
 </p>
 </div>
 
