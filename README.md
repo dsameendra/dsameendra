@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back.”</i><br/>
-  — Seneca the Younger
+  <i>“The deepest craving of human nature is the need to be appreciated.”</i><br/>
+  — William James
 </p>
 </div>
 
