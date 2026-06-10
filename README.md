@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Good actions give strength to ourselves and inspire good actions in others.”</i><br/>
-  — Plato
+  <i>“Age does not protect you from love. But love, to some extent, protects you from age.”</i><br/>
+  — Anaïs Nin
 </p>
 </div>
 
