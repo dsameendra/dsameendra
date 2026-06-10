@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The deepest craving of human nature is the need to be appreciated.”</i><br/>
-  — William James
+  <i>“The only limit to our realization of tomorrow will be our doubts of today.”</i><br/>
+  — Franklin D. Roosevelt
 </p>
 </div>
 
