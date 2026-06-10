@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The only limit to our realization of tomorrow will be our doubts of today.”</i><br/>
-  — Franklin D. Roosevelt
+  <i>“Good actions give strength to ourselves and inspire good actions in others.”</i><br/>
+  — Plato
 </p>
 </div>
 
