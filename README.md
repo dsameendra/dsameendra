@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Age does not protect you from love. But love, to some extent, protects you from age.”</i><br/>
-  — Anaïs Nin
+  <i>“Always tell the truth. That way, you don't have to remember what you said.”</i><br/>
+  — Mark Twain
 </p>
 </div>
 
