@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The superior man blames himself. The inferior man blames others.”</i><br/>
-  — Don Shula
+  <i>“Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose.”</i><br/>
+  — Eknath Easwaran
 </p>
 </div>
 
