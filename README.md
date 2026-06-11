@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Always tell the truth. That way, you don't have to remember what you said.”</i><br/>
-  — Mark Twain
+  <i>“The superior man blames himself. The inferior man blames others.”</i><br/>
+  — Don Shula
 </p>
 </div>
 
