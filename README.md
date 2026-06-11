@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose.”</i><br/>
-  — Eknath Easwaran
+  <i>“Wisdom has never made a bigot, but learning has.”</i><br/>
+  — Josh Billings
 </p>
 </div>
 
