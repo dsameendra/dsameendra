@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Wisdom has never made a bigot, but learning has.”</i><br/>
-  — Josh Billings
+  <i>“If you seek truth, you will not seek victory by dishonorable means, and if you find truth you will become invincible.”</i><br/>
+  — Epictetus
 </p>
 </div>
 
