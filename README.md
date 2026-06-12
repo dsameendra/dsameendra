@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The more sand that has escaped from the hourglass of our life, the clearer we should see through it.”</i><br/>
-  — Jean-Paul Sartre
+  <i>“You may say I'm a dreamer, but I'm not the only one, I hope someday you will join us, and the world will live as one.”</i><br/>
+  — John Lennon
 </p>
 </div>
 
