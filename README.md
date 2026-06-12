@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We shall never know all the good that a simple smile can do.”</i><br/>
-  — Mother Teresa
+  <i>“It is with words as with sunbeams. The more they are condensed, the deeper they burn.”</i><br/>
+  — Robert Southey
 </p>
 </div>
 
