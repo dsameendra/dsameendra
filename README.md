@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you seek truth, you will not seek victory by dishonorable means, and if you find truth you will become invincible.”</i><br/>
-  — Epictetus
+  <i>“We shall never know all the good that a simple smile can do.”</i><br/>
+  — Mother Teresa
 </p>
 </div>
 
