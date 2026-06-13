@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I know not age, nor weariness nor defeat.”</i><br/>
-  — Rose Kennedy
+  <i>“Change your life today. Don't gamble on the future, act now, without delay.”</i><br/>
+  — Simone de Beauvoir
 </p>
 </div>
 
