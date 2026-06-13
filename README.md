@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Change your life today. Don't gamble on the future, act now, without delay.”</i><br/>
-  — Simone de Beauvoir
+  <i>“Be faithful in small things because it is in them that your strength lies.”</i><br/>
+  — Mother Teresa
 </p>
 </div>
 
