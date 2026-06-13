@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Be faithful in small things because it is in them that your strength lies.”</i><br/>
-  — Mother Teresa
+  <i>“First say to yourself what you would be; and then do what you have to do.”</i><br/>
+  — Epictetus
 </p>
 </div>
 
