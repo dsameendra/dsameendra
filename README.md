@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Everything that happens as it should, and if you observe carefully, you will find this to be so.”</i><br/>
-  — Marcus Aurelius
+  <i>“The aim of life is self-development. To realize one's nature perfectly - that is what each of us is here for.”</i><br/>
+  — Oscar Wilde
 </p>
 </div>
 
