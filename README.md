@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“First say to yourself what you would be; and then do what you have to do.”</i><br/>
-  — Epictetus
+  <i>“Think like a man of action; act like a man of thought.”</i><br/>
+  — Henri Bergson
 </p>
 </div>
 
