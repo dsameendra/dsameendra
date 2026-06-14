@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Think like a man of action; act like a man of thought.”</i><br/>
-  — Henri Bergson
+  <i>“The three great essentials to achieve anything worthwhile are: Hard work, Stick-to-itiveness, and Common sense.”</i><br/>
+  — Thomas Edison
 </p>
 </div>
 
