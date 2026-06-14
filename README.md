@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The three great essentials to achieve anything worthwhile are: Hard work, Stick-to-itiveness, and Common sense.”</i><br/>
-  — Thomas Edison
+  <i>“Everything that happens as it should, and if you observe carefully, you will find this to be so.”</i><br/>
+  — Marcus Aurelius
 </p>
 </div>
 
