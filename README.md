@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It has long been an axiom of mine that the little things are infinitely the most important.”</i><br/>
-  — Arthur Conan Doyle
+  <i>“The greatest remedy for anger is delay.”</i><br/>
+  — Seneca the Younger
 </p>
 </div>
 
