@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Friendship is the source of the greatest pleasures, and without friends even the most agreeable pursuits become tedious.”</i><br/>
-  — Thomas Aquinas
+  <i>“It has long been an axiom of mine that the little things are infinitely the most important.”</i><br/>
+  — Arthur Conan Doyle
 </p>
 </div>
 
