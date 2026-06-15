@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The aim of life is self-development. To realize one's nature perfectly - that is what each of us is here for.”</i><br/>
-  — Oscar Wilde
+  <i>“Friendship is the source of the greatest pleasures, and without friends even the most agreeable pursuits become tedious.”</i><br/>
+  — Thomas Aquinas
 </p>
 </div>
 
