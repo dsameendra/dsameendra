@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Freedom is what you do with what's been done to you.”</i><br/>
-  — Jean-Paul Sartre
+  <i>“Forgiveness is choosing to love. It is the first skill of self-giving love.”</i><br/>
+  — Mahatma Gandhi
 </p>
 </div>
 
