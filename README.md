@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour.”</i><br/>
-  — Mary Kay Ash
+  <i>“True friendship ought never to conceal what it thinks.”</i><br/>
+  — Jerome
 </p>
 </div>
 
