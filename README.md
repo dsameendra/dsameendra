@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“True friendship ought never to conceal what it thinks.”</i><br/>
-  — Jerome
+  <i>“Freedom is what you do with what's been done to you.”</i><br/>
+  — Jean-Paul Sartre
 </p>
 </div>
 
