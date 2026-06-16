@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The greatest remedy for anger is delay.”</i><br/>
-  — Seneca the Younger
+  <i>“For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour.”</i><br/>
+  — Mary Kay Ash
 </p>
 </div>
 
