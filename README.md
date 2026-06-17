@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Sports do not build character. They reveal it.”</i><br/>
-  — Heywood Broun
+  <i>“Not what we have but what we enjoy constitutes our abundance.”</i><br/>
+  — Jean Antoine Petit-Senn
 </p>
 </div>
 
