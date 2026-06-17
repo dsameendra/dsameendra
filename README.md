@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Forgiveness is choosing to love. It is the first skill of self-giving love.”</i><br/>
-  — Mahatma Gandhi
+  <i>“Sports do not build character. They reveal it.”</i><br/>
+  — Heywood Broun
 </p>
 </div>
 
