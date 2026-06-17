@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“As a technology, the book is like a hammer. That is to say, it is perfect: a tool ideally suited to its task. Hammers can be tweaked and varied but will never go obsolete. Even when builders pound nails by the thousand with pneumatic nail guns, every household needs a hammer.”</i><br/>
-  — James Gleick
+  <i>“Blessed are the hearts that can bend; they shall never be broken.”</i><br/>
+  — Albert Camus
 </p>
 </div>
 
