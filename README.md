@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“All the great things are simple, and many can be expressed in a single word: freedom, justice, honor, duty, mercy, hope.”</i><br/>
-  — Winston Churchill
+  <i>“Value your friendship. Value your relationships.”</i><br/>
+  — Barbara Bush
 </p>
 </div>
 
