@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Blessed are the hearts that can bend; they shall never be broken.”</i><br/>
-  — Albert Camus
+  <i>“Happiness is found in doing, not merely possessing.”</i><br/>
+  — Napoleon Hill
 </p>
 </div>
 
