@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A creative man is motivated by the desire to achieve, not by the desire to beat others.”</i><br/>
-  — Ayn Rand
+  <i>“All the great things are simple, and many can be expressed in a single word: freedom, justice, honor, duty, mercy, hope.”</i><br/>
+  — Winston Churchill
 </p>
 </div>
 
