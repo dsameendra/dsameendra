@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Happiness is found in doing, not merely possessing.”</i><br/>
-  — Napoleon Hill
+  <i>“A creative man is motivated by the desire to achieve, not by the desire to beat others.”</i><br/>
+  — Ayn Rand
 </p>
 </div>
 
