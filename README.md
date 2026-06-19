@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A good head and a good heart are always a formidable combination.”</i><br/>
-  — Nelson Mandela
+  <i>“Never give up, for that is just the place and time that the tide will turn.”</i><br/>
+  — Harriet Beecher Stowe
 </p>
 </div>
 
