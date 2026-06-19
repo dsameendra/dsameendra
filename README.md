@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Value your friendship. Value your relationships.”</i><br/>
-  — Barbara Bush
+  <i>“First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination.”</i><br/>
+  — Napoleon Hill
 </p>
 </div>
 
