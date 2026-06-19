@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination.”</i><br/>
-  — Napoleon Hill
+  <i>“Friendships are the family we make - not the one we inherit. I've always been someone to whom friendship, elective affinities, is as important as family.”</i><br/>
+  — Salman Rushdie
 </p>
 </div>
 
