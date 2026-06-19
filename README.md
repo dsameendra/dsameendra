@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Friendships are the family we make - not the one we inherit. I've always been someone to whom friendship, elective affinities, is as important as family.”</i><br/>
-  — Salman Rushdie
+  <i>“A good head and a good heart are always a formidable combination.”</i><br/>
+  — Nelson Mandela
 </p>
 </div>
 
