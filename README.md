@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Happiness often sneaks in through a door you didn't know you left open.”</i><br/>
-  — John Barrymore
+  <i>“In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice.”</i><br/>
+  — Richard Bach
 </p>
 </div>
 
