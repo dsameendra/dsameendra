@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There are no failures. Just experiences and your reactions to them.”</i><br/>
-  — Tom Krause
+  <i>“But man is not made for defeat. A man can be destroyed but not defeated.”</i><br/>
+  — Ernest Hemingway
 </p>
 </div>
 
