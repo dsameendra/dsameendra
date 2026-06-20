@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“But man is not made for defeat. A man can be destroyed but not defeated.”</i><br/>
-  — Ernest Hemingway
+  <i>“Happiness often sneaks in through a door you didn't know you left open.”</i><br/>
+  — John Barrymore
 </p>
 </div>
 
