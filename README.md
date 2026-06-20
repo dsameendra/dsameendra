@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Never give up, for that is just the place and time that the tide will turn.”</i><br/>
-  — Harriet Beecher Stowe
+  <i>“There are no failures. Just experiences and your reactions to them.”</i><br/>
+  — Tom Krause
 </p>
 </div>
 
