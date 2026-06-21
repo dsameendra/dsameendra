@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Technological progress has merely provided us with more efficient means for going backwards.”</i><br/>
-  — Aldous Huxley
+  <i>“You have enemies? Good. That means you've stood up for something, sometime in your life.”</i><br/>
+  — Winston Churchill
 </p>
 </div>
 
