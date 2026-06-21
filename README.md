@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You have enemies? Good. That means you've stood up for something, sometime in your life.”</i><br/>
-  — Winston Churchill
+  <i>“Do not be embarrassed by your mistakes. Nothing can teach us better than our understanding of them. This is one of the best ways of self-education.”</i><br/>
+  — Thomas Carlyle
 </p>
 </div>
 
