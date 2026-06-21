@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I'm not afraid of storms, for I'm learning how to sail my ship.”</i><br/>
-  — Louisa May Alcott
+  <i>“Technological progress has merely provided us with more efficient means for going backwards.”</i><br/>
+  — Aldous Huxley
 </p>
 </div>
 
