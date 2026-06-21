@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice.”</i><br/>
-  — Richard Bach
+  <i>“I'm not afraid of storms, for I'm learning how to sail my ship.”</i><br/>
+  — Louisa May Alcott
 </p>
 </div>
 
