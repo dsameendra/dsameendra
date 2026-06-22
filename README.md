@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Do not be embarrassed by your mistakes. Nothing can teach us better than our understanding of them. This is one of the best ways of self-education.”</i><br/>
-  — Thomas Carlyle
+  <i>“Rare as is true love, true friendship is rarer.”</i><br/>
+  — Jean de La Fontaine
 </p>
 </div>
 
