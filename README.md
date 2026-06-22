@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If a man watches three football games in a row, he should be declared legally dead.”</i><br/>
-  — Erma Bombeck
+  <i>“An ant on the move does more than a dozing ox”</i><br/>
+  — Laozi
 </p>
 </div>
 
