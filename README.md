@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Rare as is true love, true friendship is rarer.”</i><br/>
-  — Jean de La Fontaine
+  <i>“If a man watches three football games in a row, he should be declared legally dead.”</i><br/>
+  — Erma Bombeck
 </p>
 </div>
 
