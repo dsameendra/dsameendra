@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Humanity is acquiring all the right technology for all the wrong reasons.”</i><br/>
-  — Buckminster Fuller
+  <i>“We are wiser than we know.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
