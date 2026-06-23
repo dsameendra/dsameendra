@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“An ant on the move does more than a dozing ox”</i><br/>
-  — Laozi
+  <i>“Peace cannot be kept by force. It can only be achieved by understanding.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
