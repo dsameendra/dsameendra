@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Peace cannot be kept by force. It can only be achieved by understanding.”</i><br/>
-  — Albert Einstein
+  <i>“Humanity is acquiring all the right technology for all the wrong reasons.”</i><br/>
+  — Buckminster Fuller
 </p>
 </div>
 
