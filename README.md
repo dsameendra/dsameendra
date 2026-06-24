@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Be great in act, as you have been in thought.”</i><br/>
-  — William Shakespeare
+  <i>“Lose an hour in the morning, and you will spend all day looking for it.”</i><br/>
+  — Richard Whately
 </p>
 </div>
 
