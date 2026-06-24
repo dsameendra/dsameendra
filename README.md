@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one.”</i><br/>
-  — Oscar Wilde
+  <i>“Be great in act, as you have been in thought.”</i><br/>
+  — William Shakespeare
 </p>
 </div>
 
