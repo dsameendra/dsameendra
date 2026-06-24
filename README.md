@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning.”</i><br/>
-  — Winston Churchill
+  <i>“Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one.”</i><br/>
+  — Oscar Wilde
 </p>
 </div>
 
