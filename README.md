@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Lose an hour in the morning, and you will spend all day looking for it.”</i><br/>
-  — Richard Whately
+  <i>“You got to be careful if you don't know where you're going, because you might not get there.”</i><br/>
+  — Yogi Berra
 </p>
 </div>
 
