@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A lot of times people look at the negative side of what they feel they can't do. I always look on the positive side of what I can do.”</i><br/>
-  — Chuck Norris
+  <i>“A single rose can be my garden... a single friend, my world.”</i><br/>
+  — Leo Buscaglia
 </p>
 </div>
 
