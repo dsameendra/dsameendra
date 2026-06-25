@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Life is like riding a bicycle. To keep your balance you must keep moving.”</i><br/>
-  — Albert Einstein
+  <i>“Success consists of going from failure to failure without loss of enthusiasm.”</i><br/>
+  — Winston Churchill
 </p>
 </div>
 
