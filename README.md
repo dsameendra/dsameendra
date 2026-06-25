@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You got to be careful if you don't know where you're going, because you might not get there.”</i><br/>
-  — Yogi Berra
+  <i>“Life is like riding a bicycle. To keep your balance you must keep moving.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
