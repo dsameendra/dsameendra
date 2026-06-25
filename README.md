@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Success consists of going from failure to failure without loss of enthusiasm.”</i><br/>
-  — Winston Churchill
+  <i>“A lot of times people look at the negative side of what they feel they can't do. I always look on the positive side of what I can do.”</i><br/>
+  — Chuck Norris
 </p>
 </div>
 
