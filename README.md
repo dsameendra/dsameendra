@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We are Divine enough to ask and we are important enough to receive.”</i><br/>
-  — Wayne Dyer
+  <i>“Go to your bosom: Knock there and ask your heart what it doth know.”</i><br/>
+  — William Shakespeare
 </p>
 </div>
 
