@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Champions keep playing until they get it right.”</i><br/>
-  — Billie Jean King
+  <i>“It is never too late to be what you might have been.”</i><br/>
+  — George Eliot
 </p>
 </div>
 
