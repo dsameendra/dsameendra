@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A single rose can be my garden... a single friend, my world.”</i><br/>
-  — Leo Buscaglia
+  <i>“We are Divine enough to ask and we are important enough to receive.”</i><br/>
+  — Wayne Dyer
 </p>
 </div>
 
