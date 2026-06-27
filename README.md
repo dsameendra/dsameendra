@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It is never too late to be what you might have been.”</i><br/>
-  — George Eliot
+  <i>“Let us always meet each other with smile, for the smile is the beginning of love.”</i><br/>
+  — Mother Teresa
 </p>
 </div>
 
