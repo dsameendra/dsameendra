@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Let us always meet each other with smile, for the smile is the beginning of love.”</i><br/>
-  — Mother Teresa
+  <i>“Happiness is the reward we get for living to the highest right we know.”</i><br/>
+  — Richard Bach
 </p>
 </div>
 
