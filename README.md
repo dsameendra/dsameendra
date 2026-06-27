@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Happiness is the reward we get for living to the highest right we know.”</i><br/>
-  — Richard Bach
+  <i>“The most I can do for my friend is simply be his friend.”</i><br/>
+  — Henry David Thoreau
 </p>
 </div>
 
