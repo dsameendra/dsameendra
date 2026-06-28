@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“God gave us the gift of life; it is up to us to give ourselves the gift of living well.”</i><br/>
-  — Voltaire
+  <i>“I love you the more in that I believe you had liked me for my own sake and for nothing else.”</i><br/>
+  — John Keats
 </p>
 </div>
 
