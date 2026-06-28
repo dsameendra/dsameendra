@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I love you the more in that I believe you had liked me for my own sake and for nothing else.”</i><br/>
-  — John Keats
+  <i>“Stay away from what might have been and look at what will be.”</i><br/>
+  — Marsha Petrie Sue
 </p>
 </div>
 
