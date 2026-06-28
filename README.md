@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Stay away from what might have been and look at what will be.”</i><br/>
-  — Marsha Petrie Sue
+  <i>“A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action.”</i><br/>
+  — Jawaharlal Nehru
 </p>
 </div>
 
