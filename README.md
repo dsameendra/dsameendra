@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action.”</i><br/>
-  — Jawaharlal Nehru
+  <i>“The poor man is not he who is without a cent, but he who is without a dream.”</i><br/>
+  — Harry Kemp
 </p>
 </div>
 
