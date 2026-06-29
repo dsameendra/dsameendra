@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The future is completely open, and we are writing it moment to moment.”</i><br/>
-  — Pema Chödrön
+  <i>“The truth is not for all men, but only for those who seek it.”</i><br/>
+  — Ayn Rand
 </p>
 </div>
 
