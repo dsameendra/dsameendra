@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Get busy living or get busy dying.”</i><br/>
-  — Stephen King
+  <i>“The future is completely open, and we are writing it moment to moment.”</i><br/>
+  — Pema Chödrön
 </p>
 </div>
 
