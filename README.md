@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The poor man is not he who is without a cent, but he who is without a dream.”</i><br/>
-  — Harry Kemp
+  <i>“A lot of people give up just before theyre about to make it. You know you never know when that next obstacle is going to be the last one.”</i><br/>
+  — Chuck Norris
 </p>
 </div>
 
