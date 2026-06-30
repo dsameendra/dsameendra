@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Everything comes to him who hustles while he waits.”</i><br/>
-  — Thomas Edison
+  <i>“When you judge another, you do not define them, you define yourself.”</i><br/>
+  — Wayne Dyer
 </p>
 </div>
 
