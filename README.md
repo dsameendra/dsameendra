@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The truth is not for all men, but only for those who seek it.”</i><br/>
-  — Ayn Rand
+  <i>“Everything comes to him who hustles while he waits.”</i><br/>
+  — Thomas Edison
 </p>
 </div>
 
