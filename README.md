@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I define friendship as a bond that transcends all barriers. When you are ready to expect anything and everything from friends, good, bad or ugly... that's what I call true friendship.”</i><br/>
-  — Harbhajan Singh
+  <i>“Wisdom is always an overmatch for strength.”</i><br/>
+  — Phil Jackson
 </p>
 </div>
 
