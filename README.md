@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The truth is not for all men, but only for those who seek it.”</i><br/>
-  — Ayn Rand
+  <i>“It is no use saying, 'We are doing our best.' You have got to succeed in doing what is necessary.”</i><br/>
+  — Winston Churchill
 </p>
 </div>
 
