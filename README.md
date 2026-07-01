@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Your mind will answer most questions if you learn to relax and wait for the answer.”</i><br/>
-  — William Burroughs
+  <i>“The truth is not for all men, but only for those who seek it.”</i><br/>
+  — Ayn Rand
 </p>
 </div>
 
