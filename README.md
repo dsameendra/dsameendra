@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Wisdom is always an overmatch for strength.”</i><br/>
-  — Phil Jackson
+  <i>“Can you imagine what I would do if I could do all I can?”</i><br/>
+  — Sun Tzu
 </p>
 </div>
 
