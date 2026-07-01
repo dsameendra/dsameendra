@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Can you imagine what I would do if I could do all I can?”</i><br/>
-  — Sun Tzu
+  <i>“Your mind will answer most questions if you learn to relax and wait for the answer.”</i><br/>
+  — William Burroughs
 </p>
 </div>
 
