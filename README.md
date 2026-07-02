@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“No party has a monopoly on wisdom. No democracy works without compromise.”</i><br/>
-  — Barack Obama
+  <i>“A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.”</i><br/>
+  — Jeff Bezos
 </p>
 </div>
 
