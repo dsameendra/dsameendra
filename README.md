@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It is no use saying, 'We are doing our best.' You have got to succeed in doing what is necessary.”</i><br/>
-  — Winston Churchill
+  <i>“If you have a harem of 40 women, you never get to know any of them very well.”</i><br/>
+  — Warren Buffett
 </p>
 </div>
 
