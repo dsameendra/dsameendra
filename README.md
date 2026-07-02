@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you have a harem of 40 women, you never get to know any of them very well.”</i><br/>
-  — Warren Buffett
+  <i>“No party has a monopoly on wisdom. No democracy works without compromise.”</i><br/>
+  — Barack Obama
 </p>
 </div>
 
