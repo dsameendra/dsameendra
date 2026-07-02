@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.”</i><br/>
-  — Jeff Bezos
+  <i>“If there is such a thing as a good marriage, it is because it resembles friendship rather than love.”</i><br/>
+  — Michel de Montaigne
 </p>
 </div>
 
