@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If there is such a thing as a good marriage, it is because it resembles friendship rather than love.”</i><br/>
-  — Michel de Montaigne
+  <i>“Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living.”</i><br/>
+  — Anaïs Nin
 </p>
 </div>
 
