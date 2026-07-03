@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“To enjoy life, we must touch much of it lightly.”</i><br/>
-  — Voltaire
+  <i>“Quality is not an act; it is a habit.”</i><br/>
+  — Aristotle
 </p>
 </div>
 
