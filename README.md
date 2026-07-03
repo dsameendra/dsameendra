@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living.”</i><br/>
-  — Anaïs Nin
+  <i>“To enjoy life, we must touch much of it lightly.”</i><br/>
+  — Voltaire
 </p>
 </div>
 
