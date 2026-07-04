@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It's not what you look at that matters, it's what you see.”</i><br/>
-  — Henry David Thoreau
+  <i>“No bird soars too high if he soars with his own wings.”</i><br/>
+  — William Blake
 </p>
 </div>
 
