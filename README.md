@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Reason and free inquiry are the only effectual agents against error.”</i><br/>
-  — Thomas Jefferson
+  <i>“Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.”</i><br/>
+  — Eleanor Roosevelt
 </p>
 </div>
 
