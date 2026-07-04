@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There is no retirement for an artist, it's your way of living so there is no end to it.”</i><br/>
-  — Henry Moore
+  <i>“Reason and free inquiry are the only effectual agents against error.”</i><br/>
+  — Thomas Jefferson
 </p>
 </div>
 
