@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.”</i><br/>
-  — Eleanor Roosevelt
+  <i>“It's not what you look at that matters, it's what you see.”</i><br/>
+  — Henry David Thoreau
 </p>
 </div>
 
