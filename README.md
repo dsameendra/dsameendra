@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Always bear in mind that your own resolution to succeed is more important than any other.”</i><br/>
-  — Abraham Lincoln
+  <i>“Whenever something negative happens to you, there is a deep lesson concealed within it.”</i><br/>
+  — Eckhart Tolle
 </p>
 </div>
 
