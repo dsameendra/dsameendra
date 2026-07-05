@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“No bird soars too high if he soars with his own wings.”</i><br/>
-  — William Blake
+  <i>“Study the past, if you would divine the future.”</i><br/>
+  — Confucius
 </p>
 </div>
 
