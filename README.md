@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.”</i><br/>
-  — Laozi
+  <i>“Always bear in mind that your own resolution to succeed is more important than any other.”</i><br/>
+  — Abraham Lincoln
 </p>
 </div>
 
