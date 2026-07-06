@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.”</i><br/>
-  — Albert Camus
+  <i>“A youth, when at home, should be filial and, abroad, respectful to his elders. He should be earnest and truthful. He should overflow in love to all and cultivate the friendship of the good. When he has time and opportunity, after the performance of these things, he should employ them in polite studies.”</i><br/>
+  — Confucius
 </p>
 </div>
 
