@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Choose a job you love, and you will never have to work a day in your life.”</i><br/>
-  — Confucius
+  <i>“You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.”</i><br/>
+  — Albert Camus
 </p>
 </div>
 
