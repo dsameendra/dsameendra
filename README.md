@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Whenever something negative happens to you, there is a deep lesson concealed within it.”</i><br/>
-  — Eckhart Tolle
+  <i>“Choose a job you love, and you will never have to work a day in your life.”</i><br/>
+  — Confucius
 </p>
 </div>
 
