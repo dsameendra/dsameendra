@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“To know oneself is to study oneself in action with another person.”</i><br/>
-  — Bruce Lee
+  <i>“It is the province of knowledge to speak, and it is the privilege of wisdom to listen.”</i><br/>
+  — Oliver Wendell Holmes Jr.
 </p>
 </div>
 
