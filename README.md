@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Having nothing, nothing can he lose.”</i><br/>
-  — William Shakespeare
+  <i>“When an opponent comes forward, move in and greet him; if he wants to pull back, send him on his way.”</i><br/>
+  — Morihei Ueshiba
 </p>
 </div>
 
