@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Mistakes are the usual bridge between inexperience and wisdom.”</i><br/>
-  — Phyllis Grissim-Theroux
+  <i>“Having nothing, nothing can he lose.”</i><br/>
+  — William Shakespeare
 </p>
 </div>
 
