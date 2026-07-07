@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“When an opponent comes forward, move in and greet him; if he wants to pull back, send him on his way.”</i><br/>
-  — Morihei Ueshiba
+  <i>“To know oneself is to study oneself in action with another person.”</i><br/>
+  — Bruce Lee
 </p>
 </div>
 
