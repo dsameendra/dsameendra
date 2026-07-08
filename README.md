@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“He who knows, does not speak. He who speaks, does not know.”</i><br/>
-  — Laozi
+  <i>“One who gains strength by overcoming obstacles possesses the only strength which can overcome adversity.”</i><br/>
+  — Albert Schweitzer
 </p>
 </div>
 
