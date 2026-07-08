@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“One who gains strength by overcoming obstacles possesses the only strength which can overcome adversity.”</i><br/>
-  — Albert Schweitzer
+  <i>“Vanity can easily overtake wisdom. It usually overtakes common sense.”</i><br/>
+  — Julian Casablancas
 </p>
 </div>
 
