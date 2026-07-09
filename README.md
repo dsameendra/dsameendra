@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“One's life has value so long as one attributes value to the life of others, by means of love, friendship, indignation and compassion.”</i><br/>
-  — Simone de Beauvoir
+  <i>“The years teach much which the days never know.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
