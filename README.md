@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Many of life's failures are people who did not realize how close they were to success when they gave up.”</i><br/>
-  — Thomas Edison
+  <i>“One's life has value so long as one attributes value to the life of others, by means of love, friendship, indignation and compassion.”</i><br/>
+  — Simone de Beauvoir
 </p>
 </div>
 
