@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Vanity can easily overtake wisdom. It usually overtakes common sense.”</i><br/>
-  — Julian Casablancas
+  <i>“Many of life's failures are people who did not realize how close they were to success when they gave up.”</i><br/>
+  — Thomas Edison
 </p>
 </div>
 
