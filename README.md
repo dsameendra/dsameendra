@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The years teach much which the days never know.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“Read as you taste fruit or savor wine, or enjoy friendship, love or life.”</i><br/>
+  — George Herbert
 </p>
 </div>
 
