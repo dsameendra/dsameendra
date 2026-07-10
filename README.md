@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“To be tested is good. The challenged life may be the best therapist.”</i><br/>
-  — Gail Sheehy
+  <i>“There are people who have money and people who are rich.”</i><br/>
+  — Coco Chanel
 </p>
 </div>
 
