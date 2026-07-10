@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There are people who have money and people who are rich.”</i><br/>
-  — Coco Chanel
+  <i>“Just trust yourself, then you will know how to live.”</i><br/>
+  — Johann Wolfgang von Goethe
 </p>
 </div>
 
