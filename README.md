@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The truth of the matter is that you always know the right thing to do. The hard part is doing it.”</i><br/>
-  — Norman Schwarzkopf
+  <i>“To be tested is good. The challenged life may be the best therapist.”</i><br/>
+  — Gail Sheehy
 </p>
 </div>
 
