@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Read as you taste fruit or savor wine, or enjoy friendship, love or life.”</i><br/>
-  — George Herbert
+  <i>“The truth of the matter is that you always know the right thing to do. The hard part is doing it.”</i><br/>
+  — Norman Schwarzkopf
 </p>
 </div>
 
