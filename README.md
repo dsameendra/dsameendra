@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Just trust yourself, then you will know how to live.”</i><br/>
-  — Johann Wolfgang von Goethe
+  <i>“A prudent question is one half of wisdom.”</i><br/>
+  — Francis Bacon
 </p>
 </div>
 
