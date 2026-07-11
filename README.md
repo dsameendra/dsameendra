@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Truth is generally the best vindication against slander.”</i><br/>
-  — Abraham Lincoln
+  <i>“I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
