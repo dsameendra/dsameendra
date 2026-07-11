@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A prudent question is one half of wisdom.”</i><br/>
-  — Francis Bacon
+  <i>“The key to growth is the introduction of higher dimensions of consciousness into our awareness.”</i><br/>
+  — Laozi
 </p>
 </div>
 
