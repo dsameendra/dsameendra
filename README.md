@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Three things cannot be long hidden: the sun, the moon, and the truth.”</i><br/>
-  — The Buddha
+  <i>“It is not only for what we do that we are held responsible, but also for what we do not do.”</i><br/>
+  — Molière
 </p>
 </div>
 
