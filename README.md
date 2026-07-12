@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones.”</i><br/>
-  — Albert Einstein
+  <i>“To make no mistakes is not in the power of man; but from their errors and mistakes the wise and good learn wisdom for the future.”</i><br/>
+  — Plutarch
 </p>
 </div>
 
