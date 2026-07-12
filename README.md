@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It is not only for what we do that we are held responsible, but also for what we do not do.”</i><br/>
-  — Molière
+  <i>“The extreme limit of wisdom, that's what the public calls madness.”</i><br/>
+  — Jean Cocteau
 </p>
 </div>
 
