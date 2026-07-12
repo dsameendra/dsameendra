@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“To make no mistakes is not in the power of man; but from their errors and mistakes the wise and good learn wisdom for the future.”</i><br/>
-  — Plutarch
+  <i>“Three things cannot be long hidden: the sun, the moon, and the truth.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
