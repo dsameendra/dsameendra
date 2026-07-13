@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The most important thing is transforming our minds, for a new way of thinking, a new outlook: we should strive to develop a new inner world.”</i><br/>
-  — Dalai Lama
+  <i>“I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act.”</i><br/>
+  — G. K. Chesterton
 </p>
 </div>
 
