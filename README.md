@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The less effort, the faster and more powerful you will be.”</i><br/>
-  — Bruce Lee
+  <i>“We must not allow ourselves to become like the system we oppose.”</i><br/>
+  — Desmond Tutu
 </p>
 </div>
 
