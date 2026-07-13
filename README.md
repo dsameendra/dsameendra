@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The extreme limit of wisdom, that's what the public calls madness.”</i><br/>
-  — Jean Cocteau
+  <i>“The less effort, the faster and more powerful you will be.”</i><br/>
+  — Bruce Lee
 </p>
 </div>
 
