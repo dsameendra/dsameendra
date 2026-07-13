@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We must not allow ourselves to become like the system we oppose.”</i><br/>
-  — Desmond Tutu
+  <i>“The most important thing is transforming our minds, for a new way of thinking, a new outlook: we should strive to develop a new inner world.”</i><br/>
+  — Dalai Lama
 </p>
 </div>
 
