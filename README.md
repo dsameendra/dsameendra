@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act.”</i><br/>
-  — G. K. Chesterton
+  <i>“Let us sacrifice our today so that our children can have a better tomorrow.”</i><br/>
+  — A. P. J. Abdul Kalam
 </p>
 </div>
 
