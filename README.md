@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We know the truth, not only by the reason, but by the heart.”</i><br/>
-  — Blaise Pascal
+  <i>“Quality is not an act; it is a habit.”</i><br/>
+  — Aristotle
 </p>
 </div>
 
