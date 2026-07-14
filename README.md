@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Meditation brings wisdom, lack of meditation leaves ignorance. Know well what leads you forward and what holds you back and choose the path that leads to wisdom.”</i><br/>
-  — The Buddha
+  <i>“We know the truth, not only by the reason, but by the heart.”</i><br/>
+  — Blaise Pascal
 </p>
 </div>
 
