@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Reality does not conform to the ideal but confirms it.”</i><br/>
-  — Gustave Flaubert
+  <i>“It is easier to live through someone else than to become complete yourself.”</i><br/>
+  — Betty Friedan
 </p>
 </div>
 
