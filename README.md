@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The doors of wisdom are never shut.”</i><br/>
-  — Benjamin Franklin
+  <i>“Reality does not conform to the ideal but confirms it.”</i><br/>
+  — Gustave Flaubert
 </p>
 </div>
 
