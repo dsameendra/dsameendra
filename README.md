@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It is easier to live through someone else than to become complete yourself.”</i><br/>
-  — Betty Friedan
+  <i>“Do not turn back when you are just at the goal.”</i><br/>
+  — Publilius Syrus
 </p>
 </div>
 
