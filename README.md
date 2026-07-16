@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back.”</i><br/>
-  — Seneca the Younger
+  <i>“Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.”</i><br/>
+  — Dale Carnegie
 </p>
 </div>
 
