@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Do not turn back when you are just at the goal.”</i><br/>
-  — Publilius Syrus
+  <i>“The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back.”</i><br/>
+  — Seneca the Younger
 </p>
 </div>
 
