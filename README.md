@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.”</i><br/>
-  — Dale Carnegie
+  <i>“For beautiful eyes, look for the good in others; for beautiful lips, speak only words of kindness; and for poise, walk with the knowledge that you are never alone.”</i><br/>
+  — Audrey Hepburn
 </p>
 </div>
 
