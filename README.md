@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If one does not know to which port is sailing, no wind is favorable.”</i><br/>
-  — Seneca the Younger
+  <i>“Friendship is the marriage of the soul, and this marriage is liable to divorce.”</i><br/>
+  — Voltaire
 </p>
 </div>
 
