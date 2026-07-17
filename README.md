@@ -6,7 +6,7 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“No man was ever wise by chance.”</i><br/>
+  <i>“If one does not know to which port is sailing, no wind is favorable.”</i><br/>
   — Seneca the Younger
 </p>
 </div>
