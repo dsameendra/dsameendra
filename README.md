@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Friendship is the marriage of the soul, and this marriage is liable to divorce.”</i><br/>
-  — Voltaire
+  <i>“Spectacular achievement is always preceded by unspectacular preparation.”</i><br/>
+  — Robert Schuller
 </p>
 </div>
 
