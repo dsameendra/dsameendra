@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A man is great by deeds, not by birth.”</i><br/>
-  — Chanakya
+  <i>“No man was ever wise by chance.”</i><br/>
+  — Seneca the Younger
 </p>
 </div>
 
