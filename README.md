@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Life's most persistent and urgent question is, 'What are you doing for others?'”</i><br/>
-  — Martin Luther King Jr.
+  <i>“If you love someone, set them free. If they come back, they're yours; if they don't, they never were.”</i><br/>
+  — Richard Bach
 </p>
 </div>
 
