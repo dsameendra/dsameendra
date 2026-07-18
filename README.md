@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Spectacular achievement is always preceded by unspectacular preparation.”</i><br/>
-  — Robert Schuller
+  <i>“Life's most persistent and urgent question is, 'What are you doing for others?'”</i><br/>
+  — Martin Luther King Jr.
 </p>
 </div>
 
