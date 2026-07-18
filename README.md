@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you love someone, set them free. If they come back, they're yours; if they don't, they never were.”</i><br/>
-  — Richard Bach
+  <i>“Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel.”</i><br/>
+  — Mary Kay Ash
 </p>
 </div>
 
