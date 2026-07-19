@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A wise man is superior to any insults which can be put upon him, and the best reply to unseemly behavior is patience and moderation.”</i><br/>
-  — Molière
+  <i>“All children are artists. The problem is how to remain an artist once he grows up.”</i><br/>
+  — Pablo Picasso
 </p>
 </div>
 
