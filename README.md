@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you love life, don't waste time, for time is what life is made up of.”</i><br/>
-  — Bruce Lee
+  <i>“A wise man is superior to any insults which can be put upon him, and the best reply to unseemly behavior is patience and moderation.”</i><br/>
+  — Molière
 </p>
 </div>
 
