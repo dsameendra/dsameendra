@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“All children are artists. The problem is how to remain an artist once he grows up.”</i><br/>
-  — Pablo Picasso
+  <i>“Change will not come if we wait for some other person or some other time. We are the ones we've been waiting for. We are the change that we seek.”</i><br/>
+  — Barack Obama
 </p>
 </div>
 
