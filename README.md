@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Marriage: A friendship recognized by the police.”</i><br/>
-  — Robert Louis Stevenson
+  <i>“If you love life, don't waste time, for time is what life is made up of.”</i><br/>
+  — Bruce Lee
 </p>
 </div>
 
