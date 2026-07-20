@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I will prepare and some day my chance will come.”</i><br/>
-  — Abraham Lincoln
+  <i>“You do not become good by trying to be good, but by finding the goodness that is already within you.”</i><br/>
+  — Eckhart Tolle
 </p>
 </div>
 
