@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“He is no fool who gives what he cannot keep to gain what he cannot lose.”</i><br/>
-  — Jim Elliot
+  <i>“I will prepare and some day my chance will come.”</i><br/>
+  — Abraham Lincoln
 </p>
 </div>
 
