@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You do not become good by trying to be good, but by finding the goodness that is already within you.”</i><br/>
-  — Eckhart Tolle
+  <i>“Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark.”</i><br/>
+  — Whoopi Goldberg
 </p>
 </div>
 
