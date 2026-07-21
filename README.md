@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Stay away from what might have been and look at what will be.”</i><br/>
-  — Marsha Petrie Sue
+  <i>“A friend may well be reckoned the masterpiece of nature.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
