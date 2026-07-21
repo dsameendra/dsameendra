@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“He that respects himself is safe from others; he wears a coat of mail that none can pierce.”</i><br/>
-  — Henry Wadsworth Longfellow
+  <i>“Stay away from what might have been and look at what will be.”</i><br/>
+  — Marsha Petrie Sue
 </p>
 </div>
 
