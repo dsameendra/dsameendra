@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark.”</i><br/>
-  — Whoopi Goldberg
+  <i>“He that respects himself is safe from others; he wears a coat of mail that none can pierce.”</i><br/>
+  — Henry Wadsworth Longfellow
 </p>
 </div>
 
