@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A friend may well be reckoned the masterpiece of nature.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“The thing always happens that you really believe in; and the belief in a thing makes it happen.”</i><br/>
+  — Frank Lloyd Wright
 </p>
 </div>
 
