@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination.”</i><br/>
-  — Napoleon Hill
+  <i>“Friendship is like money, easier made than kept.”</i><br/>
+  — Samuel Butler
 </p>
 </div>
 
