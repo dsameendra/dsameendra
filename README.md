@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It is not wisdom but Authority that makes a law.”</i><br/>
-  — Thomas Hobbes
+  <i>“Quick decisions are unsafe decisions.”</i><br/>
+  — Sophocles
 </p>
 </div>
 
