@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Friendship is like money, easier made than kept.”</i><br/>
-  — Samuel Butler
+  <i>“It is not wisdom but Authority that makes a law.”</i><br/>
+  — Thomas Hobbes
 </p>
 </div>
 
