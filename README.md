@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The thing always happens that you really believe in; and the belief in a thing makes it happen.”</i><br/>
-  — Frank Lloyd Wright
+  <i>“First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination.”</i><br/>
+  — Napoleon Hill
 </p>
 </div>
 
