@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Let the beauty of what you love be what you do.”</i><br/>
-  — Rumi
+  <i>“Remember that failure is an event, not a person.”</i><br/>
+  — Zig Ziglar
 </p>
 </div>
 
