@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Quick decisions are unsafe decisions.”</i><br/>
-  — Sophocles
+  <i>“The world has the habit of making room for the man whose actions show that he knows where he is going.”</i><br/>
+  — Napoleon Hill
 </p>
 </div>
 
