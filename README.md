@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Excellence, then, is a state concerned with choice, lying in a mean, relative to us, this being determined by reason and in the way in which the man of practical wisdom would determine it.”</i><br/>
-  — Aristotle
+  <i>“All our dreams can come true, if we have the courage to pursue them.”</i><br/>
+  — Walt Disney
 </p>
 </div>
 
