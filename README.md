@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Technology is the campfire around which we tell our stories.”</i><br/>
-  — Laurie Anderson
+  <i>“I think somehow, we learn who we really are and then live with that decision.”</i><br/>
+  — Eleanor Roosevelt
 </p>
 </div>
 
