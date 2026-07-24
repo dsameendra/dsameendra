@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“All our dreams can come true, if we have the courage to pursue them.”</i><br/>
-  — Walt Disney
+  <i>“Technology is the campfire around which we tell our stories.”</i><br/>
+  — Laurie Anderson
 </p>
 </div>
 
