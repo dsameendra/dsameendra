@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I think somehow, we learn who we really are and then live with that decision.”</i><br/>
-  — Eleanor Roosevelt
+  <i>“Life is a progress, and not a station.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
