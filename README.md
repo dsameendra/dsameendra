@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Life is a progress, and not a station.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“I am a man of fixed and unbending principles, the first of which is to be flexible at all times.”</i><br/>
+  — Everett Dirksen
 </p>
 </div>
 
