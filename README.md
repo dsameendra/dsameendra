@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I am a man of fixed and unbending principles, the first of which is to be flexible at all times.”</i><br/>
-  — Everett Dirksen
+  <i>“If you were to offer a thirsty man all wisdom, you would not please him more than if you gave him a drink.”</i><br/>
+  — Sophocles
 </p>
 </div>
 
