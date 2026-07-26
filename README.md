@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The spirit, the will to win, and the will to excel, are the things that endure. These qualities are so much more important than the events that occur.”</i><br/>
-  — Vince Lombardi
+  <i>“Wisdom cannot come by railroad or automobile or airplane or be hurried up by telegraph or telephone.”</i><br/>
+  — John Burroughs
 </p>
 </div>
 
