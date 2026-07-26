@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Wisdom cannot come by railroad or automobile or airplane or be hurried up by telegraph or telephone.”</i><br/>
-  — John Burroughs
+  <i>“A person who never made a mistake never tried anything new.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
