@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times, I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed.”</i><br/>
-  — Michael Jordan
+  <i>“The spirit, the will to win, and the will to excel, are the things that endure. These qualities are so much more important than the events that occur.”</i><br/>
+  — Vince Lombardi
 </p>
 </div>
 
