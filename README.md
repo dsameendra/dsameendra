@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Not what we have but what we enjoy constitutes our abundance.”</i><br/>
-  — Jean Antoine Petit-Senn
+  <i>“If you would take, you must first give, this is the beginning of intelligence.”</i><br/>
+  — Laozi
 </p>
 </div>
 
