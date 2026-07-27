@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“All love that has not friendship for its base, is like a mansion built upon the sand.”</i><br/>
-  — Ella Wheeler Wilcox
+  <i>“Not what we have but what we enjoy constitutes our abundance.”</i><br/>
+  — Jean Antoine Petit-Senn
 </p>
 </div>
 
