@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you would take, you must first give, this is the beginning of intelligence.”</i><br/>
-  — Laozi
+  <i>“The important thing is this: to be able at any moment to sacrifice what we are for what we could become.”</i><br/>
+  — Charles Du Bos
 </p>
 </div>
 
