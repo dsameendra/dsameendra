@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A person who never made a mistake never tried anything new.”</i><br/>
-  — Albert Einstein
+  <i>“All love that has not friendship for its base, is like a mansion built upon the sand.”</i><br/>
+  — Ella Wheeler Wilcox
 </p>
 </div>
 
