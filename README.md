@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The important thing is this: to be able at any moment to sacrifice what we are for what we could become.”</i><br/>
-  — Charles Du Bos
+  <i>“If you do not express your own original ideas, if you do not listen to your own being, you will have betrayed yourself.”</i><br/>
+  — Rollo May
 </p>
 </div>
 
