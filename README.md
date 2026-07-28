@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you do not express your own original ideas, if you do not listen to your own being, you will have betrayed yourself.”</i><br/>
-  — Rollo May
+  <i>“Creativity comes from trust. Trust your instincts. And never hope more than you work.”</i><br/>
+  — Rita Mae Brown
 </p>
 </div>
 
