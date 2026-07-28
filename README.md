@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Creativity comes from trust. Trust your instincts. And never hope more than you work.”</i><br/>
-  — Rita Mae Brown
+  <i>“It is a characteristic of wisdom not to do desperate things.”</i><br/>
+  — Henry David Thoreau
 </p>
 </div>
 
