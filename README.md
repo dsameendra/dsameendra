@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The supreme art of war is to subdue the enemy without fighting.”</i><br/>
-  — Sun Tzu
+  <i>“Life is like a sewer. What you get out of it depends on what you put into it.”</i><br/>
+  — Tom Lehrer
 </p>
 </div>
 
