@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Life is like a sewer. What you get out of it depends on what you put into it.”</i><br/>
-  — Tom Lehrer
+  <i>“Leave no stone unturned.”</i><br/>
+  — Euripides
 </p>
 </div>
 
