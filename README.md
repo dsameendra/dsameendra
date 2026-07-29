@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Leave no stone unturned.”</i><br/>
-  — Euripides
+  <i>“Even an animal, if you show genuine affection, gradually trust develops... If you always showing bad face and beating, how can you develop friendship?”</i><br/>
+  — Dalai Lama
 </p>
 </div>
 
