@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“All the great performers I have worked with are fueled by a personal dream.”</i><br/>
-  — John Eliot
+  <i>“Life without love is like a tree without blossoms or fruit.”</i><br/>
+  — Kahlil Gibran
 </p>
 </div>
 
