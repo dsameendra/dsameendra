@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Much wisdom often goes with fewest words.”</i><br/>
-  — Sophocles
+  <i>“All the great performers I have worked with are fueled by a personal dream.”</i><br/>
+  — John Eliot
 </p>
 </div>
 
