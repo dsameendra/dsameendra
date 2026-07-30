@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If there is such a thing as a good marriage, it is because it resembles friendship rather than love.”</i><br/>
-  — Michel de Montaigne
+  <i>“Sadness flies away on the wings of time.”</i><br/>
+  — Jean de La Fontaine
 </p>
 </div>
 
