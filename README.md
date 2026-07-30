@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Life without love is like a tree without blossoms or fruit.”</i><br/>
-  — Kahlil Gibran
+  <i>“If there is such a thing as a good marriage, it is because it resembles friendship rather than love.”</i><br/>
+  — Michel de Montaigne
 </p>
 </div>
 
