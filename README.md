@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Aim for the moon. If you miss, you may hit a star.”</i><br/>
-  — W. Clement Stone
+  <i>“All that I am, or hope to be, I owe to my angel mother.”</i><br/>
+  — Abraham Lincoln
 </p>
 </div>
 
