@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If facts are the seeds that later produce knowledge and wisdom, then the emotions and the impressions of the senses are the fertile soil in which the seeds must grow.”</i><br/>
-  — Rachel Carson
+  <i>“Aim for the moon. If you miss, you may hit a star.”</i><br/>
+  — W. Clement Stone
 </p>
 </div>
 
