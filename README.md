@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It's better to be a lion for a day than a sheep all your life.”</i><br/>
-  — Elizabeth Kenny
+  <i>“Without courage, wisdom bears no fruit.”</i><br/>
+  — Baltasar Gracián
 </p>
 </div>
 
