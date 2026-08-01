@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“All that I am, or hope to be, I owe to my angel mother.”</i><br/>
-  — Abraham Lincoln
+  <i>“Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too.”</i><br/>
+  — Marcus Aurelius
 </p>
 </div>
 
