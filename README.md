@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too.”</i><br/>
-  — Marcus Aurelius
+  <i>“Friends are those rare people who ask how we are and then wait to hear the answer.”</i><br/>
+  — Ed Cunningham
 </p>
 </div>
 
