@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Friends are those rare people who ask how we are and then wait to hear the answer.”</i><br/>
-  — Ed Cunningham
+  <i>“It's better to be a lion for a day than a sheep all your life.”</i><br/>
+  — Elizabeth Kenny
 </p>
 </div>
 
