@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Without courage, wisdom bears no fruit.”</i><br/>
-  — Baltasar Gracián
+  <i>“It is the supreme art of the teacher to awaken joy in creative expression and knowledge.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
