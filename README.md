@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The simplest things are often the truest.”</i><br/>
-  — Richard Bach
+  <i>“There are two ways of spreading light: to be the candle or the mirror that reflects it.”</i><br/>
+  — Edith Wharton
 </p>
 </div>
 
