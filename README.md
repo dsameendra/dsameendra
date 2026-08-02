@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The World is my country, all mankind are my brethren, and to do good is my religion.”</i><br/>
-  — Thomas Paine
+  <i>“The simplest things are often the truest.”</i><br/>
+  — Richard Bach
 </p>
 </div>
 
