@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There is nothing so useless as doing efficiently that which should not be done at all.”</i><br/>
-  — Peter Drucker
+  <i>“I know but one freedom and that is the freedom of the mind.”</i><br/>
+  — Antoine de Saint-Exupéry
 </p>
 </div>
 
