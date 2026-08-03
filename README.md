@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Friendship is one of our most treasured relationships, but it isn't codified and celebrated; it's never going to give you a party.”</i><br/>
-  — Hanya Yanagihara
+  <i>“There is nothing so useless as doing efficiently that which should not be done at all.”</i><br/>
+  — Peter Drucker
 </p>
 </div>
 
