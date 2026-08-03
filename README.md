@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There are two ways of spreading light: to be the candle or the mirror that reflects it.”</i><br/>
-  — Edith Wharton
+  <i>“Friendship is one of our most treasured relationships, but it isn't codified and celebrated; it's never going to give you a party.”</i><br/>
+  — Hanya Yanagihara
 </p>
 </div>
 
