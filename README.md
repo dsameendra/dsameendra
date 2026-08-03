@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I know but one freedom and that is the freedom of the mind.”</i><br/>
-  — Antoine de Saint-Exupéry
+  <i>“Don't look back. Something might be gaining on you.”</i><br/>
+  — Satchel Paige
 </p>
 </div>
 
