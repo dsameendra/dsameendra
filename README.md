@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Don't look back. Something might be gaining on you.”</i><br/>
-  — Satchel Paige
+  <i>“Life is really simple, but we insist on making it complicated.”</i><br/>
+  — Confucius
 </p>
 </div>
 
