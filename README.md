@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Life is really simple, but we insist on making it complicated.”</i><br/>
-  — Confucius
+  <i>“Great acts are made up of small deeds.”</i><br/>
+  — Laozi
 </p>
 </div>
 
