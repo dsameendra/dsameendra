@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Knowledge is of no value unless you put it into practice.”</i><br/>
-  — Anton Chekhov
+  <i>“If we open a quarrel between past and present, we shall find that we have lost the future.”</i><br/>
+  — Winston Churchill
 </p>
 </div>
 
