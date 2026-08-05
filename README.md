@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The way we communicate with others and with ourselves ultimately determines the quality of our lives.”</i><br/>
-  — Tony Robbins
+  <i>“A man sees in the world what he carries in his heart.”</i><br/>
+  — Johann Wolfgang von Goethe
 </p>
 </div>
 
