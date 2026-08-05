@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A man sees in the world what he carries in his heart.”</i><br/>
-  — Johann Wolfgang von Goethe
+  <i>“Knowledge is of no value unless you put it into practice.”</i><br/>
+  — Anton Chekhov
 </p>
 </div>
 
