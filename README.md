@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Your big opportunity may be right where you are now.”</i><br/>
-  — Napoleon Hill
+  <i>“The way we communicate with others and with ourselves ultimately determines the quality of our lives.”</i><br/>
+  — Tony Robbins
 </p>
 </div>
 
