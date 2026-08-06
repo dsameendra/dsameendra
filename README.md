@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“True friendship multiplies the good in life and divides its evils. Strive to have friends, for life without friends is like life on a desert island... to find one real friend in a lifetime is good fortune; to keep him is a blessing.”</i><br/>
-  — Baltasar Gracián
+  <i>“Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
