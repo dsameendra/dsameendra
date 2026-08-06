@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Every great advance in science has issued from a new audacity of the imagination.”</i><br/>
-  — John Dewey
+  <i>“True friendship multiplies the good in life and divides its evils. Strive to have friends, for life without friends is like life on a desert island... to find one real friend in a lifetime is good fortune; to keep him is a blessing.”</i><br/>
+  — Baltasar Gracián
 </p>
 </div>
 
