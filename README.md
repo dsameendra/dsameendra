@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If we open a quarrel between past and present, we shall find that we have lost the future.”</i><br/>
-  — Winston Churchill
+  <i>“Every great advance in science has issued from a new audacity of the imagination.”</i><br/>
+  — John Dewey
 </p>
 </div>
 
