@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“True friendship can afford true knowledge. It does not depend on darkness and ignorance.”</i><br/>
+  — Henry David Thoreau
 </p>
 </div>
 
