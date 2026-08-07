@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Well begun is half done.”</i><br/>
-  — Aristotle
+  <i>“Choose a job you love, and you will never have to work a day in your life.”</i><br/>
+  — Confucius
 </p>
 </div>
 
