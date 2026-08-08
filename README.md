@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Without leaps of imagination, or dreaming, we lose the excitement of possibilities. Dreaming, after all, is a form of planning.”</i><br/>
-  — Gloria Steinem
+  <i>“Love demands infinitely less than friendship.”</i><br/>
+  — George Jean Nathan
 </p>
 </div>
 
