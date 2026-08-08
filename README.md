@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Choose a job you love, and you will never have to work a day in your life.”</i><br/>
-  — Confucius
+  <i>“When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.”</i><br/>
+  — Helen Keller
 </p>
 </div>
 
