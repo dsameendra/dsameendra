@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run.”</i><br/>
-  — Abraham Lincoln
+  <i>“If you break your neck, if you have nothing to eat, if your house is on fire, then you got a problem. Everything else is inconvenience.”</i><br/>
+  — Robert Fulghum
 </p>
 </div>
 
