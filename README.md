@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The only real mistake is the one from which we learn nothing.”</i><br/>
-  — John Powell
+  <i>“The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty.”</i><br/>
+  — Winston Churchill
 </p>
 </div>
 
