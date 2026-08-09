@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you break your neck, if you have nothing to eat, if your house is on fire, then you got a problem. Everything else is inconvenience.”</i><br/>
-  — Robert Fulghum
+  <i>“The only real mistake is the one from which we learn nothing.”</i><br/>
+  — John Powell
 </p>
 </div>
 
