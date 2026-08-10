@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The cause is hidden. The effect is visible to all.”</i><br/>
-  — Ovid
+  <i>“Cleverness is not wisdom.”</i><br/>
+  — Euripides
 </p>
 </div>
 
