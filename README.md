@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose.”</i><br/>
-  — Woodrow Wilson
+  <i>“I'm not afraid of storms, for I'm learning how to sail my ship.”</i><br/>
+  — Louisa May Alcott
 </p>
 </div>
 
