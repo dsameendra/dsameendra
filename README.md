@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I'm not afraid of storms, for I'm learning how to sail my ship.”</i><br/>
-  — Louisa May Alcott
+  <i>“The cause is hidden. The effect is visible to all.”</i><br/>
+  — Ovid
 </p>
 </div>
 
