@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty.”</i><br/>
-  — Winston Churchill
+  <i>“Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose.”</i><br/>
+  — Woodrow Wilson
 </p>
 </div>
 
