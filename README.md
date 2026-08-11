@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Time you enjoy wasting, was not wasted.”</i><br/>
-  — John Lennon
+  <i>“Technology made large populations possible; large populations now make technology indispensable.”</i><br/>
+  — Joseph Wood Krutch
 </p>
 </div>
 
