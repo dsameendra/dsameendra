@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Technology made large populations possible; large populations now make technology indispensable.”</i><br/>
-  — Joseph Wood Krutch
+  <i>“The place to improve the world is first in one's own heart and head and hands.”</i><br/>
+  — Robert M. Pirsig
 </p>
 </div>
 
