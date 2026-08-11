@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Cleverness is not wisdom.”</i><br/>
-  — Euripides
+  <i>“Time you enjoy wasting, was not wasted.”</i><br/>
+  — John Lennon
 </p>
 </div>
 
