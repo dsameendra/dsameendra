@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The place to improve the world is first in one's own heart and head and hands.”</i><br/>
-  — Robert M. Pirsig
+  <i>“Consider that not only do negative thoughts and emotions destroy our experience of peace, but they also undermine our health.”</i><br/>
+  — Dalai Lama
 </p>
 </div>
 
