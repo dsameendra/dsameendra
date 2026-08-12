@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Happiness cannot be travelled to, owned, earned, worn or consumed. Happiness is the spiritual experience of living every minute with love, grace and gratitude.”</i><br/>
-  — Denis Waitley
+  <i>“He who conquers others is strong; He who conquers himself is mighty.”</i><br/>
+  — Laozi
 </p>
 </div>
 
