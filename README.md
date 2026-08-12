@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“He who conquers others is strong; He who conquers himself is mighty.”</i><br/>
-  — Laozi
+  <i>“True friends stab you in the front.”</i><br/>
+  — Oscar Wilde
 </p>
 </div>
 
