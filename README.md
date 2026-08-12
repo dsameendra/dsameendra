@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Consider that not only do negative thoughts and emotions destroy our experience of peace, but they also undermine our health.”</i><br/>
-  — Dalai Lama
+  <i>“Happiness cannot be travelled to, owned, earned, worn or consumed. Happiness is the spiritual experience of living every minute with love, grace and gratitude.”</i><br/>
+  — Denis Waitley
 </p>
 </div>
 
