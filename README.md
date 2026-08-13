@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists.”</i><br/>
-  — Eric Hoffer
+  <i>“People may doubt what you say, but they will believe what you do.”</i><br/>
+  — Lewis Cass
 </p>
 </div>
 
