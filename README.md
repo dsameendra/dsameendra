@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The best way to pay for a lovely moment is to enjoy it.”</i><br/>
-  — Richard Bach
+  <i>“Science is organized knowledge. Wisdom is organized life.”</i><br/>
+  — Immanuel Kant
 </p>
 </div>
 
