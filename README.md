@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Science is organized knowledge. Wisdom is organized life.”</i><br/>
-  — Immanuel Kant
+  <i>“In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists.”</i><br/>
+  — Eric Hoffer
 </p>
 </div>
 
