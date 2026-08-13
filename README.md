@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“People may doubt what you say, but they will believe what you do.”</i><br/>
-  — Lewis Cass
+  <i>“No enterprise is more likely to succeed than one concealed from the enemy until it is ripe for execution.”</i><br/>
+  — Niccolò Machiavelli
 </p>
 </div>
 
