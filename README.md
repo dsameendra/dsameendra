@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.”</i><br/>
-  — Thomas Edison
+  <i>“Meditation brings wisdom, lack of meditation leaves ignorance. Know well what leads you forward and what holds you back and choose the path that leads to wisdom.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
