@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“All that I am, or hope to be, I owe to my angel mother.”</i><br/>
-  — Abraham Lincoln
+  <i>“A rolling stone gathers no moss.”</i><br/>
+  — Publilius Syrus
 </p>
 </div>
 
