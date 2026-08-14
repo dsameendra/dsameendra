@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“No enterprise is more likely to succeed than one concealed from the enemy until it is ripe for execution.”</i><br/>
-  — Niccolò Machiavelli
+  <i>“Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.”</i><br/>
+  — Thomas Edison
 </p>
 </div>
 
