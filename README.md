@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Tragedy is a tool for the living to gain wisdom, not a guide by which to live.”</i><br/>
-  — Robert F. Kennedy
+  <i>“To want to be what one can be is purpose in life.”</i><br/>
+  — Cynthia Ozick
 </p>
 </div>
 
