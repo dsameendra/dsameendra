@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It is fatal to enter any war without the will to win it.”</i><br/>
-  — Douglas MacArthur
+  <i>“Tragedy is a tool for the living to gain wisdom, not a guide by which to live.”</i><br/>
+  — Robert F. Kennedy
 </p>
 </div>
 
