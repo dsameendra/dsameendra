@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“To want to be what one can be is purpose in life.”</i><br/>
-  — Cynthia Ozick
+  <i>“A long habit of not thinking a thing wrong gives it a superficial appearance of being right.”</i><br/>
+  — Thomas Paine
 </p>
 </div>
 
