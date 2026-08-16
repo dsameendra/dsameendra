@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Never mistake activity for achievement.”</i><br/>
-  — John Wooden
+  <i>“The exercise of an extraordinary gift is the supremist pleasure in life.”</i><br/>
+  — Mark Twain
 </p>
 </div>
 
