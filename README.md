@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The exercise of an extraordinary gift is the supremist pleasure in life.”</i><br/>
-  — Mark Twain
+  <i>“Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.”</i><br/>
+  — Arthur Rubinstein
 </p>
 </div>
 
