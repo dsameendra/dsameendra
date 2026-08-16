@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A long habit of not thinking a thing wrong gives it a superficial appearance of being right.”</i><br/>
-  — Thomas Paine
+  <i>“Never mistake activity for achievement.”</i><br/>
+  — John Wooden
 </p>
 </div>
 
