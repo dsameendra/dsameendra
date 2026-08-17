@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Be true to yourself, help others, make each day your masterpiece, make friendship a fine art, drink deeply from good books - especially the Bible, build a shelter against a rainy day, give thanks for your blessings and pray for guidance every day.”</i><br/>
-  — John Wooden
+  <i>“I don't want to achieve immortality through my work... I want to achieve it through not dying.”</i><br/>
+  — Woody Allen
 </p>
 </div>
 
