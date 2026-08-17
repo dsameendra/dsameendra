@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It is not so much our friends' help that helps us, as the confidence of their help.”</i><br/>
-  — Epicurus
+  <i>“Time you enjoyed wasting was not wasted.”</i><br/>
+  — John Lennon
 </p>
 </div>
 
