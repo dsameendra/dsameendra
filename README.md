@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Time you enjoyed wasting was not wasted.”</i><br/>
-  — John Lennon
+  <i>“Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is a law eternal.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
