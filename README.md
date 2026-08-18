@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“All achievements, all earned riches, have their beginning in an idea.”</i><br/>
-  — Napoleon Hill
+  <i>“You were not born a winner, and you were not born a loser. You are what you make yourself be.”</i><br/>
+  — Lou Holtz
 </p>
 </div>
 
