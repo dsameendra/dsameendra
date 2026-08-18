@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is a law eternal.”</i><br/>
-  — The Buddha
+  <i>“All achievements, all earned riches, have their beginning in an idea.”</i><br/>
+  — Napoleon Hill
 </p>
 </div>
 
