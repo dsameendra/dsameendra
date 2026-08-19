@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“No man can succeed in a line of endeavor which he does not like.”</i><br/>
-  — Napoleon Hill
+  <i>“All this modern technology just makes people try to do everything at once.”</i><br/>
+  — Bill Watterson
 </p>
 </div>
 
