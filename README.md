@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Friendship needs no words - it is solitude delivered from the anguish of loneliness.”</i><br/>
-  — Dag Hammarskjöld
+  <i>“Those who dream by day are cognizant of many things which escape those who dream only by night.”</i><br/>
+  — Edgar Allan Poe
 </p>
 </div>
 
