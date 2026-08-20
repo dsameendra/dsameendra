@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It is the quality of our work which will please God, not the quantity.”</i><br/>
-  — Mahatma Gandhi
+  <i>“Life is a succession of moments. To live each one is to succeed.”</i><br/>
+  — Corita Kent
 </p>
 </div>
 
