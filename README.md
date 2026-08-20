@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“He who lives in harmony with himself lives in harmony with the universe.”</i><br/>
-  — Marcus Aurelius
+  <i>“It is the quality of our work which will please God, not the quantity.”</i><br/>
+  — Mahatma Gandhi
 </p>
 </div>
 
