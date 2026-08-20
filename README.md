@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes.”</i><br/>
-  — Dalai Lama
+  <i>“We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity.”</i><br/>
+  — Barbara De Angelis
 </p>
 </div>
 
