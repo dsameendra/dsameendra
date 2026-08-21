@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit.”</i><br/>
-  — Helen Keller
+  <i>“Friendship is certainly the finest balm for the pangs of disappointed love.”</i><br/>
+  — Jane Austen
 </p>
 </div>
 
