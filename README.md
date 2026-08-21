@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Life is a succession of moments. To live each one is to succeed.”</i><br/>
-  — Corita Kent
+  <i>“Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.”</i><br/>
+  — Jane Addams
 </p>
 </div>
 
