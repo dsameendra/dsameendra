@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.”</i><br/>
-  — Jane Addams
+  <i>“Cherish your visions and your dreams as they are the children of your soul; the blueprints of your ultimate achievements.”</i><br/>
+  — Napoleon Hill
 </p>
 </div>
 
