@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.”</i><br/>
-  — Richard Bach
+  <i>“The human spirit must prevail over technology.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
