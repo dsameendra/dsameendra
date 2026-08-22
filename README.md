@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The human spirit must prevail over technology.”</i><br/>
-  — Albert Einstein
+  <i>“Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.”</i><br/>
+  — Laozi
 </p>
 </div>
 
