@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There is not one big cosmic meaning for all, there is only the meaning we each give to our life.”</i><br/>
-  — Anaïs Nin
+  <i>“To make no mistakes is not in the power of man; but from their errors and mistakes the wise and good learn wisdom for the future.”</i><br/>
+  — Plutarch
 </p>
 </div>
 
