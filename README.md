@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“To make no mistakes is not in the power of man; but from their errors and mistakes the wise and good learn wisdom for the future.”</i><br/>
-  — Plutarch
+  <i>“Friendship is held to be the severest test of character. It is easy, we think, to be loyal to a family and clan, whose blood is in your own veins.”</i><br/>
+  — Charles Eastman
 </p>
 </div>
 
