@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A person who never made a mistake never tried anything new.”</i><br/>
-  — Albert Einstein
+  <i>“There is not one big cosmic meaning for all, there is only the meaning we each give to our life.”</i><br/>
+  — Anaïs Nin
 </p>
 </div>
 
