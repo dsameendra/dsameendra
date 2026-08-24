@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We know what we are but know not what we may be.”</i><br/>
-  — William Shakespeare
+  <i>“Belief consists in accepting the affirmations of the soul; Unbelief, in denying them.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
