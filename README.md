@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Belief consists in accepting the affirmations of the soul; Unbelief, in denying them.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“Arriving at one point is the starting point to another.”</i><br/>
+  — John Dewey
 </p>
 </div>
 
