@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.”</i><br/>
-  — Epictetus
+  <i>“Try not to become a man of success, but rather try to become a man of value.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
