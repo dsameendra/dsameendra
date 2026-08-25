@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Arriving at one point is the starting point to another.”</i><br/>
-  — John Dewey
+  <i>“Success is not final; failure is not fatal: it is the courage to continue that counts.”</i><br/>
+  — Winston Churchill
 </p>
 </div>
 
