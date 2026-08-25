@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Try not to become a man of success, but rather try to become a man of value.”</i><br/>
-  — Albert Einstein
+  <i>“The differences between friends cannot but reinforce their friendship.”</i><br/>
+  — Mao Zedong
 </p>
 </div>
 
