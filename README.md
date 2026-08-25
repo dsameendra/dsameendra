@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Success is not final; failure is not fatal: it is the courage to continue that counts.”</i><br/>
-  — Winston Churchill
+  <i>“There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.”</i><br/>
+  — Epictetus
 </p>
 </div>
 
