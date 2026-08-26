@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The differences between friends cannot but reinforce their friendship.”</i><br/>
-  — Mao Zedong
+  <i>“One fails forward toward success.”</i><br/>
+  — Charles F. Kettering
 </p>
 </div>
 
