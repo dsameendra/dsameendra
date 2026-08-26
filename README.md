@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“One fails forward toward success.”</i><br/>
-  — Charles F. Kettering
+  <i>“Successful people ask better questions, and as a result, they get better answers.”</i><br/>
+  — Tony Robbins
 </p>
 </div>
 
