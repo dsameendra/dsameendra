@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Successful people ask better questions, and as a result, they get better answers.”</i><br/>
-  — Tony Robbins
+  <i>“I am always doing that which I cannot do, in order that I may learn how to do it.”</i><br/>
+  — Pablo Picasso
 </p>
 </div>
 
