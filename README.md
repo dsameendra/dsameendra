@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I am always doing that which I cannot do, in order that I may learn how to do it.”</i><br/>
-  — Pablo Picasso
+  <i>“If you think you can, you can. And if you think you can't, you're right.”</i><br/>
+  — Henry Ford
 </p>
 </div>
 
