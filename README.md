@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time.”</i><br/>
-  — Leonardo da Vinci
+  <i>“When a friend is in trouble, don't annoy him by asking if there is anything you can do. Think up something appropriate and do it.”</i><br/>
+  — A. Powell Davies
 </p>
 </div>
 
