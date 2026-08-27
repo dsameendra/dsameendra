@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you think you can, you can. And if you think you can't, you're right.”</i><br/>
-  — Henry Ford
+  <i>“In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time.”</i><br/>
+  — Leonardo da Vinci
 </p>
 </div>
 
