@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I hope our wisdom will grow with our power, and teach us, that the less we use our power the greater it will be.”</i><br/>
-  — Thomas Jefferson
+  <i>“If with a pure mind a person speaks or acts, happiness follows them like a never-departing shadow.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
