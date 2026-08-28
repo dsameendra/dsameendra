@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“When a friend is in trouble, don't annoy him by asking if there is anything you can do. Think up something appropriate and do it.”</i><br/>
-  — A. Powell Davies
+  <i>“I hope our wisdom will grow with our power, and teach us, that the less we use our power the greater it will be.”</i><br/>
+  — Thomas Jefferson
 </p>
 </div>
 
