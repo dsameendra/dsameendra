@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If with a pure mind a person speaks or acts, happiness follows them like a never-departing shadow.”</i><br/>
-  — The Buddha
+  <i>“Time is the most valuable thing a man can spend.”</i><br/>
+  — Theophrastus
 </p>
 </div>
 
