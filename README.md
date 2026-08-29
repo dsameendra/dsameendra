@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I cannot make my days longer, so I strive to make them better.”</i><br/>
-  — Henry David Thoreau
+  <i>“Beware lest you lose the substance by grasping at the shadow.”</i><br/>
+  — Aesop
 </p>
 </div>
 
