@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Time is the most valuable thing a man can spend.”</i><br/>
-  — Theophrastus
+  <i>“I cannot make my days longer, so I strive to make them better.”</i><br/>
+  — Henry David Thoreau
 </p>
 </div>
 
