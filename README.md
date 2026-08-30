@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Beware lest you lose the substance by grasping at the shadow.”</i><br/>
-  — Aesop
+  <i>“TV and the Internet are good because they keep stupid people from spending too much time out in public.”</i><br/>
+  — Douglas Coupland
 </p>
 </div>
 
