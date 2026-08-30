@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“By nature, man hates change; seldom will he quit his old home till it has actually fallen around his ears.”</i><br/>
-  — Thomas Carlyle
+  <i>“It is more shameful to distrust our friends than to be deceived by them.”</i><br/>
+  — Confucius
 </p>
 </div>
 
