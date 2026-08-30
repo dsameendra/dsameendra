@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“TV and the Internet are good because they keep stupid people from spending too much time out in public.”</i><br/>
-  — Douglas Coupland
+  <i>“Either I will find a way, or I will make one.”</i><br/>
+  — Philip Sidney
 </p>
 </div>
 
