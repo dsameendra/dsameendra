@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Either I will find a way, or I will make one.”</i><br/>
-  — Philip Sidney
+  <i>“By nature, man hates change; seldom will he quit his old home till it has actually fallen around his ears.”</i><br/>
+  — Thomas Carlyle
 </p>
 </div>
 
