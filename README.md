@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment.”</i><br/>
-  — William Penn
+  <i>“Friendship at first sight, like love at first sight, is said to be the only truth.”</i><br/>
+  — Herman Melville
 </p>
 </div>
 
