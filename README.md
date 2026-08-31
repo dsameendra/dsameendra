@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It is more shameful to distrust our friends than to be deceived by them.”</i><br/>
-  — Confucius
+  <i>“True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment.”</i><br/>
+  — William Penn
 </p>
 </div>
 
