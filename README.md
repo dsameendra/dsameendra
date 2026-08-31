@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Friendship at first sight, like love at first sight, is said to be the only truth.”</i><br/>
-  — Herman Melville
+  <i>“What is necessary to change a person is to change his awareness of himself.”</i><br/>
+  — Abraham Maslow
 </p>
 </div>
 
