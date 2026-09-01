@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“What is necessary to change a person is to change his awareness of himself.”</i><br/>
-  — Abraham Maslow
+  <i>“The function of wisdom is to discriminate between good and evil.”</i><br/>
+  — Cicero
 </p>
 </div>
 
