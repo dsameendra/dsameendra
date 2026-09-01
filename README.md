@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Keep silence for the most part, and speak only when you must, and then briefly.”</i><br/>
-  — Epictetus
+  <i>“No party has a monopoly on wisdom. No democracy works without compromise.”</i><br/>
+  — Barack Obama
 </p>
 </div>
 
