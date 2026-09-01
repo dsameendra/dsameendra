@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Study the past, if you would divine the future.”</i><br/>
-  — Confucius
+  <i>“Keep silence for the most part, and speak only when you must, and then briefly.”</i><br/>
+  — Epictetus
 </p>
 </div>
 
