@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The function of wisdom is to discriminate between good and evil.”</i><br/>
-  — Cicero
+  <i>“Study the past, if you would divine the future.”</i><br/>
+  — Confucius
 </p>
 </div>
 
