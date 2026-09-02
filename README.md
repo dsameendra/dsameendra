@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“No party has a monopoly on wisdom. No democracy works without compromise.”</i><br/>
-  — Barack Obama
+  <i>“The least of things with a meaning is worth more in life than the greatest of things without it.”</i><br/>
+  — Carl Jung
 </p>
 </div>
 
