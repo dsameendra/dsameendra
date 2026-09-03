@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“He has no enemies, but is intensely disliked by his friends.”</i><br/>
-  — Oscar Wilde
+  <i>“By living deeply in the present moment we can understand the past better and we can prepare for a better future.”</i><br/>
+  — Thích Nhất Hạnh
 </p>
 </div>
 
