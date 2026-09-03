@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“What we see depends mainly on what we look for.”</i><br/>
-  — John Lubbock
+  <i>“He has no enemies, but is intensely disliked by his friends.”</i><br/>
+  — Oscar Wilde
 </p>
 </div>
 
