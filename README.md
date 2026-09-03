@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Do not follow where the path may lead. Go, instead, where there is no path and leave a trail.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“Pain and foolishness lead to great bliss and complete knowledge, for Eternal Wisdom created nothing under the sun in vain.”</i><br/>
+  — Kahlil Gibran
 </p>
 </div>
 
