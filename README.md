@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“By living deeply in the present moment we can understand the past better and we can prepare for a better future.”</i><br/>
-  — Thích Nhất Hạnh
+  <i>“Do not follow where the path may lead. Go, instead, where there is no path and leave a trail.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
