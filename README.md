@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Get busy living or get busy dying.”</i><br/>
-  — Stephen King
+  <i>“The personal life deeply lived always expands into truths beyond itself.”</i><br/>
+  — Anaïs Nin
 </p>
 </div>
 
