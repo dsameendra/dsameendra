@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Pain and foolishness lead to great bliss and complete knowledge, for Eternal Wisdom created nothing under the sun in vain.”</i><br/>
-  — Kahlil Gibran
+  <i>“He who hath many friends hath none.”</i><br/>
+  — Aristotle
 </p>
 </div>
 
