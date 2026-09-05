@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The personal life deeply lived always expands into truths beyond itself.”</i><br/>
-  — Anaïs Nin
+  <i>“I can't change the direction of the wind, but I can adjust my sails to always reach my destination.”</i><br/>
+  — Jimmy Dean
 </p>
 </div>
 
