@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The time to repair the roof is when the sun is shining.”</i><br/>
-  — John F. Kennedy
+  <i>“Friendship with oneself is all important, because without it one cannot be friends with anyone else in the world.”</i><br/>
+  — Eleanor Roosevelt
 </p>
 </div>
 
