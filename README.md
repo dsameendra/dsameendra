@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Friendship with oneself is all important, because without it one cannot be friends with anyone else in the world.”</i><br/>
-  — Eleanor Roosevelt
+  <i>“Wise men speak because they have something to say; Fools because they have to say something.”</i><br/>
+  — Plato
 </p>
 </div>
 
