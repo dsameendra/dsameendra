@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I can't change the direction of the wind, but I can adjust my sails to always reach my destination.”</i><br/>
-  — Jimmy Dean
+  <i>“The time to repair the roof is when the sun is shining.”</i><br/>
+  — John F. Kennedy
 </p>
 </div>
 
