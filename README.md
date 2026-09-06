@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Life is so constructed that an event does not, cannot, will not, match the expectation.”</i><br/>
-  — Charlotte Brontë
+  <i>“The greatest way to live with honor in this world is to be what we pretend to be.”</i><br/>
+  — Socrates
 </p>
 </div>
 
