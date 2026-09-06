@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Wise men speak because they have something to say; Fools because they have to say something.”</i><br/>
-  — Plato
+  <i>“Pick battles big enough to matter, small enough to win.”</i><br/>
+  — Jonathan Kozol
 </p>
 </div>
 
