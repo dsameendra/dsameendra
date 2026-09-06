@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Friendship is the marriage of the soul, and this marriage is liable to divorce.”</i><br/>
-  — Voltaire
+  <i>“Life is so constructed that an event does not, cannot, will not, match the expectation.”</i><br/>
+  — Charlotte Brontë
 </p>
 </div>
 
