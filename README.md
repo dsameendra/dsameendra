@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Pick battles big enough to matter, small enough to win.”</i><br/>
-  — Jonathan Kozol
+  <i>“Friendship is the marriage of the soul, and this marriage is liable to divorce.”</i><br/>
+  — Voltaire
 </p>
 </div>
 
