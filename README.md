@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“What sweetness is left in life, if you take away friendship? Robbing life of friendship is like robbing the world of the sun. A true friend is more to be esteemed than kinsfolk.”</i><br/>
-  — Cicero
+  <i>“The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty.”</i><br/>
+  — Winston Churchill
 </p>
 </div>
 
