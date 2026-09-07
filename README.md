@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Whenever something negative happens to you, there is a deep lesson concealed within it.”</i><br/>
-  — Eckhart Tolle
+  <i>“What sweetness is left in life, if you take away friendship? Robbing life of friendship is like robbing the world of the sun. A true friend is more to be esteemed than kinsfolk.”</i><br/>
+  — Cicero
 </p>
 </div>
 
