@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I never worry about action, but only inaction.”</i><br/>
-  — Winston Churchill
+  <i>“He has no enemies, but is intensely disliked by his friends.”</i><br/>
+  — Oscar Wilde
 </p>
 </div>
 
