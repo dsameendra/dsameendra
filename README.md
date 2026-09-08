@@ -6,7 +6,7 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty.”</i><br/>
+  <i>“I never worry about action, but only inaction.”</i><br/>
   — Winston Churchill
 </p>
 </div>
