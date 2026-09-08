@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“He has no enemies, but is intensely disliked by his friends.”</i><br/>
-  — Oscar Wilde
+  <i>“Nothing could be worse than the fear that one had given up too soon and left one unexpended effort that might have saved the world.”</i><br/>
+  — Jane Addams
 </p>
 </div>
 
