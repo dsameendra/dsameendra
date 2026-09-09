@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You always succeed in producing a result.”</i><br/>
-  — Tony Robbins
+  <i>“Without courage, wisdom bears no fruit.”</i><br/>
+  — Baltasar Gracián
 </p>
 </div>
 
