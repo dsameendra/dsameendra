@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose.”</i><br/>
-  — Woodrow Wilson
+  <i>“Here is one quality that one must possess to win, and that is definiteness of purpose, the knowledge of what one wants, and a burning desire to possess it.”</i><br/>
+  — Napoleon Hill
 </p>
 </div>
 
