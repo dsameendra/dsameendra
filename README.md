@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Independence is happiness.”</i><br/>
-  — Susan B. Anthony
+  <i>“Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose.”</i><br/>
+  — Woodrow Wilson
 </p>
 </div>
 
