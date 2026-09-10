@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Here is one quality that one must possess to win, and that is definiteness of purpose, the knowledge of what one wants, and a burning desire to possess it.”</i><br/>
-  — Napoleon Hill
+  <i>“There are things so deep and complex that only intuition can reach it in our stage of development as human beings.”</i><br/>
+  — John Astin
 </p>
 </div>
 
