@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There are things so deep and complex that only intuition can reach it in our stage of development as human beings.”</i><br/>
-  — John Astin
+  <i>“This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.”</i><br/>
+  — Thomas Carlyle
 </p>
 </div>
 
