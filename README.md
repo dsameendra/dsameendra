@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.”</i><br/>
-  — Hannah Arendt
+  <i>“Everything that exists is in a manner the seed of that which will be.”</i><br/>
+  — Marcus Aurelius
 </p>
 </div>
 
