@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.”</i><br/>
-  — Thomas Carlyle
+  <i>“Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.”</i><br/>
+  — Hannah Arendt
 </p>
 </div>
 
