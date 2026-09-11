@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Everything that exists is in a manner the seed of that which will be.”</i><br/>
-  — Marcus Aurelius
+  <i>“To fly, we have to have resistance.”</i><br/>
+  — Maya Lin
 </p>
 </div>
 
