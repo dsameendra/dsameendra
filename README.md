@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“To fly, we have to have resistance.”</i><br/>
-  — Maya Lin
+  <i>“Nature takes away any faculty that is not used.”</i><br/>
+  — William Inge
 </p>
 </div>
 
