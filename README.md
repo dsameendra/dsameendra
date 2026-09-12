@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Each day provides its own gifts.”</i><br/>
-  — Marcus Aurelius
+  <i>“Without passion man is a mere latent force and possibility, like the flint which awaits the shock of the iron before it can give forth its spark.”</i><br/>
+  — Henri-Frédéric Amiel
 </p>
 </div>
 
