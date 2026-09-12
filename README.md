@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“As a water bead on a lotus leaf, as water on a red lily, does not adhere, so the sage does not adhere to the seen, the heard, or the sensed.”</i><br/>
-  — The Buddha
+  <i>“Each day provides its own gifts.”</i><br/>
+  — Marcus Aurelius
 </p>
 </div>
 
