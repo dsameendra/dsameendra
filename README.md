@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The real danger is not that computers will begin to think like men, but that men will begin to think like computers.”</i><br/>
-  — Sydney J. Harris
+  <i>“Everyone in the world ought to do the things for which he is specially adapted. It is the part of wisdom to recognize what each one of us is best fitted for, and it is the part of education to perfect and utilize such predispositions. Because education can direct and aid nature but can never transform her.”</i><br/>
+  — Maria Montessori
 </p>
 </div>
 
