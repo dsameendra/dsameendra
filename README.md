@@ -6,7 +6,7 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“What the caterpillar calls the end of the world, the master calls a butterfly.”</i><br/>
+  <i>“The mark of your ignorance is the depth of your belief in injustice and tragedy. What the caterpillar calls the end of the world, the Master calls the butterfly.”</i><br/>
   — Richard Bach
 </p>
 </div>
