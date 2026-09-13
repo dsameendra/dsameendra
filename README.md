@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The mark of your ignorance is the depth of your belief in injustice and tragedy. What the caterpillar calls the end of the world, the Master calls the butterfly.”</i><br/>
-  — Richard Bach
+  <i>“The real danger is not that computers will begin to think like men, but that men will begin to think like computers.”</i><br/>
+  — Sydney J. Harris
 </p>
 </div>
 
