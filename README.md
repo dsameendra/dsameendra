@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“To enjoy life, we must touch much of it lightly.”</i><br/>
-  — Voltaire
+  <i>“Learning without reflection is a waste, reflection without learning is dangerous.”</i><br/>
+  — Confucius
 </p>
 </div>
 
