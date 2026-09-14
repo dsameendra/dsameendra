@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The person who lives life fully, glowing with life's energy, is the person who lives a successful life.”</i><br/>
-  — Daisaku Ikeda
+  <i>“To enjoy life, we must touch much of it lightly.”</i><br/>
+  — Voltaire
 </p>
 </div>
 
