@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The truth of the matter is that you always know the right thing to do. The hard part is doing it.”</i><br/>
-  — Norman Schwarzkopf
+  <i>“When we feel love and kindness toward others, it not only makes others feel loved and cared for, but it helps us also to develop inner happiness and peace.”</i><br/>
+  — Dalai Lama
 </p>
 </div>
 
