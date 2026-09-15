@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“When we feel love and kindness toward others, it not only makes others feel loved and cared for, but it helps us also to develop inner happiness and peace.”</i><br/>
-  — Dalai Lama
+  <i>“What we see depends mainly on what we look for.”</i><br/>
+  — John Lubbock
 </p>
 </div>
 
