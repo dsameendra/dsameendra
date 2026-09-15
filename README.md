@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It is the supreme art of the teacher to awaken joy in creative expression and knowledge.”</i><br/>
-  — Albert Einstein
+  <i>“The truth of the matter is that you always know the right thing to do. The hard part is doing it.”</i><br/>
+  — Norman Schwarzkopf
 </p>
 </div>
 
