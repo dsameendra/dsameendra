@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It's so simple to be wise. Just think of something stupid to say and then don't say it.”</i><br/>
-  — Sam Levenson
+  <i>“When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.”</i><br/>
+  — Audre Lorde
 </p>
 </div>
 
