@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It is fatal to enter any war without the will to win it.”</i><br/>
-  — Douglas MacArthur
+  <i>“It's so simple to be wise. Just think of something stupid to say and then don't say it.”</i><br/>
+  — Sam Levenson
 </p>
 </div>
 
