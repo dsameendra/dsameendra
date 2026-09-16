@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“What we see depends mainly on what we look for.”</i><br/>
-  — John Lubbock
+  <i>“The three great essentials to achieve anything worthwhile are: Hard work, Stick-to-itiveness, and Common sense.”</i><br/>
+  — Thomas Edison
 </p>
 </div>
 
