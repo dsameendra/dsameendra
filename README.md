@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.”</i><br/>
-  — Audre Lorde
+  <i>“Friendship increases in visiting friends, but in visiting them seldom.”</i><br/>
+  — Francis Bacon
 </p>
 </div>
 
