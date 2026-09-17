@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You really can change the world if you care enough.”</i><br/>
-  — Marian Wright Edelman
+  <i>“Friendship increases in visiting friends, but in visiting them seldom.”</i><br/>
+  — Francis Bacon
 </p>
 </div>
 
