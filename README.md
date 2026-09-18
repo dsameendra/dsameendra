@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you focus on results, you will never change. If you focus on change, you will get results.”</i><br/>
-  — Jack Dixon
+  <i>“The fall of dropping water wears away the Stone.”</i><br/>
+  — Lucretius
 </p>
 </div>
 
