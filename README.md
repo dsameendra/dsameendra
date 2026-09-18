@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Love isn't something you find. Love is something that finds you.”</i><br/>
-  — Loretta Young
+  <i>“Aim for the moon. If you miss, you may hit a star.”</i><br/>
+  — W. Clement Stone
 </p>
 </div>
 
