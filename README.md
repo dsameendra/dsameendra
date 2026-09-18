@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Stay away from what might have been and look at what will be.”</i><br/>
-  — Marsha Petrie Sue
+  <i>“If you focus on results, you will never change. If you focus on change, you will get results.”</i><br/>
+  — Jack Dixon
 </p>
 </div>
 
