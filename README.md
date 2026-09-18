@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Aim for the moon. If you miss, you may hit a star.”</i><br/>
-  — W. Clement Stone
+  <i>“Stay away from what might have been and look at what will be.”</i><br/>
+  — Marsha Petrie Sue
 </p>
 </div>
 
