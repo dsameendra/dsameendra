@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Think how hard physics would be if particles could think.”</i><br/>
-  — Murray Gell-Mann
+  <i>“The less effort, the faster and more powerful you will be.”</i><br/>
+  — Bruce Lee
 </p>
 </div>
 
