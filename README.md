@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Never reach out your hand unless you're willing to extend an arm.”</i><br/>
-  — Pope Paul VI
+  <i>“Think how hard physics would be if particles could think.”</i><br/>
+  — Murray Gell-Mann
 </p>
 </div>
 
