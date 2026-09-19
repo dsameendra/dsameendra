@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.”</i><br/>
-  — Elbert Hubbard
+  <i>“Never reach out your hand unless you're willing to extend an arm.”</i><br/>
+  — Pope Paul VI
 </p>
 </div>
 
