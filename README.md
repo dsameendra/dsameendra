@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The less effort, the faster and more powerful you will be.”</i><br/>
-  — Bruce Lee
+  <i>“Wisdom is always an overmatch for strength.”</i><br/>
+  — Phil Jackson
 </p>
 </div>
 
