@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We gain the strength of the temptation we resist.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“We know what we are but know not what we may be.”</i><br/>
+  — William Shakespeare
 </p>
 </div>
 
