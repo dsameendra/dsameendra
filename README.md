@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Wisdom is always an overmatch for strength.”</i><br/>
-  — Phil Jackson
+  <i>“We gain the strength of the temptation we resist.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
