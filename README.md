@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We know what we are but know not what we may be.”</i><br/>
-  — William Shakespeare
+  <i>“The person who lives life fully, glowing with life's energy, is the person who lives a successful life.”</i><br/>
+  — Daisaku Ikeda
 </p>
 </div>
 
