@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Life is what happens while you are making other plans.”</i><br/>
-  — John Lennon
+  <i>“One who gains strength by overcoming obstacles possesses the only strength which can overcome adversity.”</i><br/>
+  — Albert Schweitzer
 </p>
 </div>
 
