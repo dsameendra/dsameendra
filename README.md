@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Eighty percent of success is showing up.”</i><br/>
-  — Woody Allen
+  <i>“The highest stage in moral culture at which we can arrive is when we recognize that we ought to control our thoughts.”</i><br/>
+  — Charles Darwin
 </p>
 </div>
 
