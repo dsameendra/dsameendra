@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you only have a hammer, you tend to see every problem as a nail.”</i><br/>
-  — Abraham Maslow
+  <i>“Eighty percent of success is showing up.”</i><br/>
+  — Woody Allen
 </p>
 </div>
 
