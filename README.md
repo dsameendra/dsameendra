@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Adversity causes some men to break, others to break records.”</i><br/>
-  — William Arthur Ward
+  <i>“If you only have a hammer, you tend to see every problem as a nail.”</i><br/>
+  — Abraham Maslow
 </p>
 </div>
 
