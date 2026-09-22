@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A goal is a dream with a deadline.”</i><br/>
-  — Napoleon Hill
+  <i>“Adversity causes some men to break, others to break records.”</i><br/>
+  — William Arthur Ward
 </p>
 </div>
 
