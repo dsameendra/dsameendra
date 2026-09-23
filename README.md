@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Peace begins with a smile.”</i><br/>
-  — Mother Teresa
+  <i>“Good actions give strength to ourselves and inspire good actions in others.”</i><br/>
+  — Plato
 </p>
 </div>
 
