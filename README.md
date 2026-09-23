@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Be your own hero, it's cheaper than a movie ticket.”</i><br/>
-  — Doug Horton
+  <i>“Peace begins with a smile.”</i><br/>
+  — Mother Teresa
 </p>
 </div>
 
