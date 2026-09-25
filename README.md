@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Technology is teaching us to be human again.”</i><br/>
-  — Simon Mainwaring
+  <i>“A little knowledge that acts is worth infinitely more than much knowledge that is idle.”</i><br/>
+  — Kahlil Gibran
 </p>
 </div>
 
