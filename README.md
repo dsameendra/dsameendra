@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Where there is charity and wisdom, there is neither fear nor ignorance.”</i><br/>
-  — Francis of Assisi
+  <i>“What you do today can improve all your tomorrows.”</i><br/>
+  — Ralph Marston
 </p>
 </div>
 
