@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A little knowledge that acts is worth infinitely more than much knowledge that is idle.”</i><br/>
-  — Kahlil Gibran
+  <i>“Nothing is softer or more flexible than water, yet nothing can resist it.”</i><br/>
+  — Laozi
 </p>
 </div>
 
