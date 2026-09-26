@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Be as you wish to seem.”</i><br/>
-  — Socrates
+  <i>“I never did a day's work in my life.  It was all fun.”</i><br/>
+  — Thomas Edison
 </p>
 </div>
 
