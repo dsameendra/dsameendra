@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“What you do today can improve all your tomorrows.”</i><br/>
-  — Ralph Marston
+  <i>“Be as you wish to seem.”</i><br/>
+  — Socrates
 </p>
 </div>
 
