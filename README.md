@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I never did a day's work in my life.  It was all fun.”</i><br/>
-  — Thomas Edison
+  <i>“To change one's life, start immediately, do it flamboyantly, no exceptions.”</i><br/>
+  — William James
 </p>
 </div>
 
