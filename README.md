@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I know not age, nor weariness nor defeat.”</i><br/>
-  — Rose Kennedy
+  <i>“Setting an example is not the main means of influencing another, it is the only means.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
