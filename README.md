@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I want you to be everything that's you, deep at the center of your being.”</i><br/>
-  — Confucius
+  <i>“One of the advantages of being disorderly is that one is constantly making exciting discoveries.”</i><br/>
+  — A. A. Milne
 </p>
 </div>
 
