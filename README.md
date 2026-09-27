@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Excellence is not a skill. It is an attitude.”</i><br/>
-  — Ralph Marston
+  <i>“I want you to be everything that's you, deep at the center of your being.”</i><br/>
+  — Confucius
 </p>
 </div>
 
