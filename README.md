@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Setting an example is not the main means of influencing another, it is the only means.”</i><br/>
-  — Albert Einstein
+  <i>“Excellence is not a skill. It is an attitude.”</i><br/>
+  — Ralph Marston
 </p>
 </div>
 
