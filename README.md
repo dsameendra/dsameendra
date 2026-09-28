@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The biggest adventure you can ever take is to live the life of your dreams.”</i><br/>
-  — Oprah Winfrey
+  <i>“One of the most beautiful qualities of true friendship is to understand and to be understood.”</i><br/>
+  — Seneca the Younger
 </p>
 </div>
 
