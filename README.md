@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“One of the advantages of being disorderly is that one is constantly making exciting discoveries.”</i><br/>
-  — A. A. Milne
+  <i>“No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other's worth.”</i><br/>
+  — Robert Southey
 </p>
 </div>
 
