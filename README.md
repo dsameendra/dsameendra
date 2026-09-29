@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Gratitude is riches. Complaint is poverty.”</i><br/>
-  — Doris Day
+  <i>“The energy of the mind is the essence of life.”</i><br/>
+  — Aristotle
 </p>
 </div>
 
