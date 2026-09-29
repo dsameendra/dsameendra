@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“One of the most beautiful qualities of true friendship is to understand and to be understood.”</i><br/>
-  — Seneca the Younger
+  <i>“Can you imagine what I would do if I could do all I can?”</i><br/>
+  — Sun Tzu
 </p>
 </div>
 
