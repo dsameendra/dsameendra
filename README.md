@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Can you imagine what I would do if I could do all I can?”</i><br/>
-  — Sun Tzu
+  <i>“Gratitude is riches. Complaint is poverty.”</i><br/>
+  — Doris Day
 </p>
 </div>
 
