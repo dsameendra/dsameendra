@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The energy of the mind is the essence of life.”</i><br/>
-  — Aristotle
+  <i>“Always seek out the seed of triumph in every adversity.”</i><br/>
+  — Og Mandino
 </p>
 </div>
 
