@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Until you make peace with who you are, you will never be content with what you have.”</i><br/>
-  — Doris Mortman
+  <i>“Start where you are. Use what you have. Do what you can.”</i><br/>
+  — Arthur Ashe
 </p>
 </div>
 
