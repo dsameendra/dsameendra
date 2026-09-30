@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Always seek out the seed of triumph in every adversity.”</i><br/>
-  — Og Mandino
+  <i>“Until you make peace with who you are, you will never be content with what you have.”</i><br/>
+  — Doris Mortman
 </p>
 </div>
 
