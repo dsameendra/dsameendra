@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you change the way you look at things, the things you look at change.”</i><br/>
-  — Wayne Dyer
+  <i>“The superior man is modest in his speech but exceeds in his actions.”</i><br/>
+  — Confucius
 </p>
 </div>
 
