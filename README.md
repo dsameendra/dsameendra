@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The superior man is modest in his speech but exceeds in his actions.”</i><br/>
-  — Confucius
+  <i>“Wisdom is a kind of knowledge. It is knowledge of the nature, career, and consequences of human values.”</i><br/>
+  — Sidney Hook
 </p>
 </div>
 
