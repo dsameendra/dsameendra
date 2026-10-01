@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Start where you are. Use what you have. Do what you can.”</i><br/>
-  — Arthur Ashe
+  <i>“If you change the way you look at things, the things you look at change.”</i><br/>
+  — Wayne Dyer
 </p>
 </div>
 
