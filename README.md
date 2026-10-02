@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Always be a first-rate version of yourself, instead of a second-rate version of somebody else.”</i><br/>
-  — Judy Garland
+  <i>“Truth is powerful and it prevails.”</i><br/>
+  — Sojourner Truth
 </p>
 </div>
 
