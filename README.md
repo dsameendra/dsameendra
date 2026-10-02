@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Wisdom is a kind of knowledge. It is knowledge of the nature, career, and consequences of human values.”</i><br/>
-  — Sidney Hook
+  <i>“Always be a first-rate version of yourself, instead of a second-rate version of somebody else.”</i><br/>
+  — Judy Garland
 </p>
 </div>
 
