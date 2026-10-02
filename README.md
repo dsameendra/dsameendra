@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Truth is powerful and it prevails.”</i><br/>
-  — Sojourner Truth
+  <i>“The universe is made of stories, not atoms.”</i><br/>
+  — Muriel Rukeyser
 </p>
 </div>
 
