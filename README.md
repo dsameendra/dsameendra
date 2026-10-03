@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Friends are the siblings God never gave us.”</i><br/>
-  — Mencius
+  <i>“Love is never lost. If not reciprocated, it will flow back and soften and purify the heart.”</i><br/>
+  — Washington Irving
 </p>
 </div>
 
