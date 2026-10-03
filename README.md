@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The universe is made of stories, not atoms.”</i><br/>
-  — Muriel Rukeyser
+  <i>“He who knows, does not speak. He who speaks, does not know.”</i><br/>
+  — Laozi
 </p>
 </div>
 
