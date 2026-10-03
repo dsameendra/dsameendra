@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“He who knows, does not speak. He who speaks, does not know.”</i><br/>
-  — Laozi
+  <i>“The best thing about the future is that it only comes one day at a time.”</i><br/>
+  — Abraham Lincoln
 </p>
 </div>
 
