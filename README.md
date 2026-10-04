@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Take no thought of who is right or wrong or who is better than. Be not for or against.”</i><br/>
-  — Bruce Lee
+  <i>“Wisdom, compassion, and courage are the three universally recognized moral qualities of men.”</i><br/>
+  — Confucius
 </p>
 </div>
 
