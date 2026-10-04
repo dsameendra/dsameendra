@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“All great achievements require time.”</i><br/>
-  — Maya Angelou
+  <i>“Take no thought of who is right or wrong or who is better than. Be not for or against.”</i><br/>
+  — Bruce Lee
 </p>
 </div>
 
