@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Never accept ultimatums, conventional wisdom, or absolutes.”</i><br/>
-  — Christopher Reeve
+  <i>“All great achievements require time.”</i><br/>
+  — Maya Angelou
 </p>
 </div>
 
