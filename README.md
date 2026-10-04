@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Love is never lost. If not reciprocated, it will flow back and soften and purify the heart.”</i><br/>
-  — Washington Irving
+  <i>“Never accept ultimatums, conventional wisdom, or absolutes.”</i><br/>
+  — Christopher Reeve
 </p>
 </div>
 
