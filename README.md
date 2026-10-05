@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Wisdom, compassion, and courage are the three universally recognized moral qualities of men.”</i><br/>
-  — Confucius
+  <i>“Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.”</i><br/>
+  — Laozi
 </p>
 </div>
 
