@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.”</i><br/>
-  — Laozi
+  <i>“To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly.”</i><br/>
+  — Henri Bergson
 </p>
 </div>
 
