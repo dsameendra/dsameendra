@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Practice yourself, for heaven's sake in little things, and then proceed to greater.”</i><br/>
-  — Epictetus
+  <i>“The greatest minds are capable of the greatest vices as well as of the greatest virtues.”</i><br/>
+  — René Descartes
 </p>
 </div>
 
