@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There are two ways of spreading light: to be the candle or the mirror that reflects it.”</i><br/>
-  — Edith Wharton
+  <i>“Practice yourself, for heaven's sake in little things, and then proceed to greater.”</i><br/>
+  — Epictetus
 </p>
 </div>
 
