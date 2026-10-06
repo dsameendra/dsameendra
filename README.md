@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The greatest minds are capable of the greatest vices as well as of the greatest virtues.”</i><br/>
-  — René Descartes
+  <i>“True knowledge exists in knowing that you know nothing.”</i><br/>
+  — Isocrates
 </p>
 </div>
 
