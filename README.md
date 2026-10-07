@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Ignorance and bungling with love are better than wisdom and skill without.”</i><br/>
-  — Henry David Thoreau
+  <i>“In wisdom gathered over time I have found that every experience is a form of exploration.”</i><br/>
+  — Ansel Adams
 </p>
 </div>
 
