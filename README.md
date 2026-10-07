@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness.”</i><br/>
-  — Rumi
+  <i>“Ignorance and bungling with love are better than wisdom and skill without.”</i><br/>
+  — Henry David Thoreau
 </p>
 </div>
 
