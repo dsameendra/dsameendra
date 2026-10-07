@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“True knowledge exists in knowing that you know nothing.”</i><br/>
-  — Isocrates
+  <i>“Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness.”</i><br/>
+  — Rumi
 </p>
 </div>
 
