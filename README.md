@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“In wisdom gathered over time I have found that every experience is a form of exploration.”</i><br/>
-  — Ansel Adams
+  <i>“Life is a succession of moments. To live each one is to succeed.”</i><br/>
+  — Corita Kent
 </p>
 </div>
 
