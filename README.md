@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Quality is not an act; it is a habit.”</i><br/>
-  — Aristotle
+  <i>“Friendship is Love without his wings!”</i><br/>
+  — Lord Byron
 </p>
 </div>
 
