@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Friendship is Love without his wings!”</i><br/>
-  — Lord Byron
+  <i>“An invasion of armies can be resisted, but not an idea whose time has come.”</i><br/>
+  — Victor Hugo
 </p>
 </div>
 
