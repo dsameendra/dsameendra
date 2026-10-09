@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Do not mind anything that anyone tells you about anyone else. Judge everyone and everything for yourself.”</i><br/>
-  — Henry James
+  <i>“The more you care, the stronger you can be.”</i><br/>
+  — Jim Rohn
 </p>
 </div>
 
