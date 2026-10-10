@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Don't be afraid to go out on a limb. That's where the fruit is.”</i><br/>
-  — H. Jackson Brown Jr.
+  <i>“By nature, man hates change; seldom will he quit his old home till it has actually fallen around his ears.”</i><br/>
+  — Thomas Carlyle
 </p>
 </div>
 
