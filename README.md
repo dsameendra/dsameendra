@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Eighty percent of success is showing up.”</i><br/>
-  — Woody Allen
+  <i>“Don't be afraid to go out on a limb. That's where the fruit is.”</i><br/>
+  — H. Jackson Brown Jr.
 </p>
 </div>
 
