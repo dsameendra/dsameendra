@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The more you care, the stronger you can be.”</i><br/>
-  — Jim Rohn
+  <i>“Eighty percent of success is showing up.”</i><br/>
+  — Woody Allen
 </p>
 </div>
 
