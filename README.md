@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“By nature, man hates change; seldom will he quit his old home till it has actually fallen around his ears.”</i><br/>
-  — Thomas Carlyle
+  <i>“Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social environment. Most people are even incapable of forming such opinions.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
