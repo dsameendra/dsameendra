@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Never idealize others. They will never live up to your expectations.”</i><br/>
-  — Leo Buscaglia
+  <i>“Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social environment. Most people are even incapable of forming such opinions.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
