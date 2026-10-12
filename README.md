@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social environment. Most people are even incapable of forming such opinions.”</i><br/>
-  — Albert Einstein
+  <i>“The only way to make sense out of change is to plunge into it, move with it, and join the dance.”</i><br/>
+  — Alan Watts
 </p>
 </div>
 
