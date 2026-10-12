@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The only way to make sense out of change is to plunge into it, move with it, and join the dance.”</i><br/>
-  — Alan Watts
+  <i>“One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.”</i><br/>
+  — Elbert Hubbard
 </p>
 </div>
 
