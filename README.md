@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The only way to make sense out of change is to plunge into it, move with it, and join the dance.”</i><br/>
-  — Alan Watts
+  <i>“This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.”</i><br/>
+  — Thomas Carlyle
 </p>
 </div>
 
