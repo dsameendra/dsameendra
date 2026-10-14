@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Wisdom alone is the science of other sciences.”</i><br/>
-  — Plato
+  <i>“The only way to make sense out of change is to plunge into it, move with it, and join the dance.”</i><br/>
+  — Alan Watts
 </p>
 </div>
 
