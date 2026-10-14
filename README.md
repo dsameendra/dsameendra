@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.”</i><br/>
-  — Thomas Carlyle
+  <i>“The most certain sign of wisdom is cheerfulness.”</i><br/>
+  — Michel de Montaigne
 </p>
 </div>
 
