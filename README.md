@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Two persons cannot long be friends if they cannot forgive each other's little failings.”</i><br/>
-  — Jean de La Bruyère
+  <i>“No man has a good enough memory to be a successful liar.”</i><br/>
+  — Abraham Lincoln
 </p>
 </div>
 
