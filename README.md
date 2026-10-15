@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The most certain sign of wisdom is cheerfulness.”</i><br/>
-  — Michel de Montaigne
+  <i>“Two persons cannot long be friends if they cannot forgive each other's little failings.”</i><br/>
+  — Jean de La Bruyère
 </p>
 </div>
 
