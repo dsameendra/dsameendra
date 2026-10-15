@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“No man has a good enough memory to be a successful liar.”</i><br/>
-  — Abraham Lincoln
+  <i>“In every walk with nature, one receives far more than he seeks.”</i><br/>
+  — John Muir
 </p>
 </div>
 
