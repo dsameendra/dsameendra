@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Whenever something negative happens to you, there is a deep lesson concealed within it.”</i><br/>
-  — Eckhart Tolle
+  <i>“Love is the attempt to form a friendship inspired by beauty.”</i><br/>
+  — Cicero
 </p>
 </div>
 
