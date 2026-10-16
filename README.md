@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Nothing could be worse than the fear that one had given up too soon and left one unexpended effort that might have saved the world.”</i><br/>
-  — Jane Addams
+  <i>“No day in which you learn something is a complete loss.”</i><br/>
+  — David Eddings
 </p>
 </div>
 
