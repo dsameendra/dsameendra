@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Love is the attempt to form a friendship inspired by beauty.”</i><br/>
-  — Cicero
+  <i>“Nothing could be worse than the fear that one had given up too soon and left one unexpended effort that might have saved the world.”</i><br/>
+  — Jane Addams
 </p>
 </div>
 
