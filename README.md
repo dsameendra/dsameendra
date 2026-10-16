@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“No day in which you learn something is a complete loss.”</i><br/>
-  — David Eddings
+  <i>“Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.”</i><br/>
+  — Eleanor Roosevelt
 </p>
 </div>
 
