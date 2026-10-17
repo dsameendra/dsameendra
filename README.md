@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Silence is the true friend that never betrays.”</i><br/>
-  — Confucius
+  <i>“Love at first sight is easy to understand; it's when two people have been looking at each other for a lifetime that it becomes a miracle.”</i><br/>
+  — Amy Bloom
 </p>
 </div>
 
