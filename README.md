@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.”</i><br/>
-  — Eleanor Roosevelt
+  <i>“Better to have loved and lost, than to have never loved at all.”</i><br/>
+  — Augustine of Hippo
 </p>
 </div>
 
