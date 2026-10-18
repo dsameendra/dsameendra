@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You cannot step twice into the same river, for other waters are continually flowing in.”</i><br/>
-  — Heraclitus
+  <i>“God has given you one face, and you make yourself another.”</i><br/>
+  — William Shakespeare
 </p>
 </div>
 
