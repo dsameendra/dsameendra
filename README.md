@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I do not know the American gentleman, god forgive me for putting two such words together.”</i><br/>
-  — Charles Dickens
+  <i>“You cannot step twice into the same river, for other waters are continually flowing in.”</i><br/>
+  — Heraclitus
 </p>
 </div>
 
