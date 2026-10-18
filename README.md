@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Things are as they are. Looking out into it the universe at night, we make no comparisons between right and wrong stars, nor between well and badly arranged constellations.”</i><br/>
-  — Alan Watts
+  <i>“I do not know the American gentleman, god forgive me for putting two such words together.”</i><br/>
+  — Charles Dickens
 </p>
 </div>
 
