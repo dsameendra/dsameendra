@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Wisdom begins in wonder.”</i><br/>
-  — Socrates
+  <i>“Things are as they are. Looking out into it the universe at night, we make no comparisons between right and wrong stars, nor between well and badly arranged constellations.”</i><br/>
+  — Alan Watts
 </p>
 </div>
 
