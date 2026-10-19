@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you focus on results, you will never change. If you focus on change, you will get results.”</i><br/>
-  — Jack Dixon
+  <i>“An economist is an expert who will know tomorrow why the things he predicted yesterday didn't happen today.”</i><br/>
+  — Laurence J. Peter
 </p>
 </div>
 
