@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“An economist is an expert who will know tomorrow why the things he predicted yesterday didn't happen today.”</i><br/>
-  — Laurence J. Peter
+  <i>“Take rest; a field that has rested gives a bountiful crop.”</i><br/>
+  — Ovid
 </p>
 </div>
 
