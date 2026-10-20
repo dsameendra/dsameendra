@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Love, friendship and respect do not unite people as much as a common hatred for something.”</i><br/>
-  — Anton Chekhov
+  <i>“Pure, holy simplicity confounds all the wisdom of this world and the wisdom of the flesh.”</i><br/>
+  — Francis of Assisi
 </p>
 </div>
 
