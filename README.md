@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Your talent is God's gift to you. What you do with it is your gift back to God.”</i><br/>
-  — Leo Buscaglia
+  <i>“Reality is merely an illusion, albeit a very persistent one.”</i><br/>
+  — Albert Einstein
 </p>
 </div>
 
