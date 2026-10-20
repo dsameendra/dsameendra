@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Take rest; a field that has rested gives a bountiful crop.”</i><br/>
-  — Ovid
+  <i>“Love, friendship and respect do not unite people as much as a common hatred for something.”</i><br/>
+  — Anton Chekhov
 </p>
 </div>
 
