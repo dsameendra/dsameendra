@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Pure, holy simplicity confounds all the wisdom of this world and the wisdom of the flesh.”</i><br/>
-  — Francis of Assisi
+  <i>“Your talent is God's gift to you. What you do with it is your gift back to God.”</i><br/>
+  — Leo Buscaglia
 </p>
 </div>
 
