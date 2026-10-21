@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“He has no enemies, but is intensely disliked by his friends.”</i><br/>
-  — Oscar Wilde
+  <i>“Formula for success: under promise and over deliver.”</i><br/>
+  — Tom Peters
 </p>
 </div>
 
