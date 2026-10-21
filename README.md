@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Reality is merely an illusion, albeit a very persistent one.”</i><br/>
-  — Albert Einstein
+  <i>“He has no enemies, but is intensely disliked by his friends.”</i><br/>
+  — Oscar Wilde
 </p>
 </div>
 
