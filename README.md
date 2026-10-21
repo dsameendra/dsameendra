@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Take things as they are. Punch when you have to punch. Kick when you have to kick.”</i><br/>
-  — Bruce Lee
+  <i>“From error to error one discovers the entire truth.”</i><br/>
+  — Sigmund Freud
 </p>
 </div>
 
