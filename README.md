@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Formula for success: under promise and over deliver.”</i><br/>
-  — Tom Peters
+  <i>“Take things as they are. Punch when you have to punch. Kick when you have to kick.”</i><br/>
+  — Bruce Lee
 </p>
 </div>
 
