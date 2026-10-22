@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens.”</i><br/>
-  — Pema Chödrön
+  <i>“Experience is not what happens to a man. It is what a man does with what happens to him.”</i><br/>
+  — Aldous Huxley
 </p>
 </div>
 
