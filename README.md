@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Those who cling to perceptions and views wander the world offending people.”</i><br/>
-  — The Buddha
+  <i>“It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens.”</i><br/>
+  — Pema Chödrön
 </p>
 </div>
 
