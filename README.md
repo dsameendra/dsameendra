@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“From error to error one discovers the entire truth.”</i><br/>
-  — Sigmund Freud
+  <i>“Those who cling to perceptions and views wander the world offending people.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
