@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Experience is not what happens to a man. It is what a man does with what happens to him.”</i><br/>
-  — Aldous Huxley
+  <i>“Those who cling to perceptions and views wander the world offending people.”</i><br/>
+  — The Buddha
 </p>
 </div>
 
