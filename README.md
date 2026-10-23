@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Silence is the sleep that nourishes wisdom.”</i><br/>
-  — Francis Bacon
+  <i>“Fans don't boo nobodies.”</i><br/>
+  — Reggie Jackson (basketball, born 1990)
 </p>
 </div>
 
