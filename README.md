@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Life is a succession of moments. To live each one is to succeed.”</i><br/>
-  — Corita Kent
+  <i>“Real success is finding your lifework in the work that you love.”</i><br/>
+  — David McCullough
 </p>
 </div>
 
