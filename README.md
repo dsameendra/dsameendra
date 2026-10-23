@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Fans don't boo nobodies.”</i><br/>
-  — Reggie Jackson (basketball, born 1990)
+  <i>“Life is a succession of moments. To live each one is to succeed.”</i><br/>
+  — Corita Kent
 </p>
 </div>
 
