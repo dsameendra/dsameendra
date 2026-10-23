@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Those who cling to perceptions and views wander the world offending people.”</i><br/>
-  — The Buddha
+  <i>“Silence is the sleep that nourishes wisdom.”</i><br/>
+  — Francis Bacon
 </p>
 </div>
 
