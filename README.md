@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Let us always meet each other with smile, for the smile is the beginning of love.”</i><br/>
-  — Mother Teresa
+  <i>“Marriage: A friendship recognized by the police.”</i><br/>
+  — Robert Louis Stevenson
 </p>
 </div>
 
