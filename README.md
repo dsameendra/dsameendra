@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Marriage: A friendship recognized by the police.”</i><br/>
-  — Robert Louis Stevenson
+  <i>“We do not quit playing because we grow old, we grow old because we quit playing.”</i><br/>
+  — Oliver Wendell Holmes Jr.
 </p>
 </div>
 
