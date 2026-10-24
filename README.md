@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We do not quit playing because we grow old, we grow old because we quit playing.”</i><br/>
-  — Oliver Wendell Holmes Jr.
+  <i>“Happiness is when what you think, what you say, and what you do are in harmony.”</i><br/>
+  — Mahatma Gandhi
 </p>
 </div>
 
