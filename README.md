@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Real success is finding your lifework in the work that you love.”</i><br/>
-  — David McCullough
+  <i>“Let us always meet each other with smile, for the smile is the beginning of love.”</i><br/>
+  — Mother Teresa
 </p>
 </div>
 
