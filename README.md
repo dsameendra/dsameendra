@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Happiness is when what you think, what you say, and what you do are in harmony.”</i><br/>
-  — Mahatma Gandhi
+  <i>“There are things so deep and complex that only intuition can reach it in our stage of development as human beings.”</i><br/>
+  — John Astin
 </p>
 </div>
 
