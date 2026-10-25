@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There are things so deep and complex that only intuition can reach it in our stage of development as human beings.”</i><br/>
-  — John Astin
+  <i>“Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.”</i><br/>
+  — Mother Teresa
 </p>
 </div>
 
