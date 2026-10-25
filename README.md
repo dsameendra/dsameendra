@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.”</i><br/>
-  — Mother Teresa
+  <i>“Irony is the gaiety of reflection and the joy of wisdom.”</i><br/>
+  — Anatole France
 </p>
 </div>
 
