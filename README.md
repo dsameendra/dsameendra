@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“When you judge another, you do not define them, you define yourself.”</i><br/>
-  — Wayne Dyer
+  <i>“Light tomorrow with today!”</i><br/>
+  — Elizabeth Browning
 </p>
 </div>
 
