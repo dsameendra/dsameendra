@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Cleverness is not wisdom.”</i><br/>
-  — Euripides
+  <i>“Small opportunities are often the beginning of great enterprises.”</i><br/>
+  — Demosthenes
 </p>
 </div>
 
