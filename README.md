@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Light tomorrow with today!”</i><br/>
-  — Elizabeth Browning
+  <i>“Cleverness is not wisdom.”</i><br/>
+  — Euripides
 </p>
 </div>
 
