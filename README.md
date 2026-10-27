@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Attitude is a little thing that makes a big difference.”</i><br/>
-  — Winston Churchill
+  <i>“The greatest part of our happiness depends on our dispositions, not our circumstances.”</i><br/>
+  — Martha Washington
 </p>
 </div>
 
