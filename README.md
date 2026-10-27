@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Small opportunities are often the beginning of great enterprises.”</i><br/>
-  — Demosthenes
+  <i>“Attitude is a little thing that makes a big difference.”</i><br/>
+  — Winston Churchill
 </p>
 </div>
 
