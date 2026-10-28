@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Trouble is only opportunity in work clothes.”</i><br/>
-  — Henry J. Kaiser
+  <i>“It is easier to live through someone else than to become complete yourself.”</i><br/>
+  — Betty Friedan
 </p>
 </div>
 
