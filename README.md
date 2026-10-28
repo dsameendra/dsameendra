@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Logic is the beginning of wisdom, not the end.”</i><br/>
-  — Leonard Nimoy
+  <i>“Trouble is only opportunity in work clothes.”</i><br/>
+  — Henry J. Kaiser
 </p>
 </div>
 
