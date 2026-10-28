@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It is easier to live through someone else than to become complete yourself.”</i><br/>
-  — Betty Friedan
+  <i>“Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.”</i><br/>
+  — Louis Pasteur
 </p>
 </div>
 
