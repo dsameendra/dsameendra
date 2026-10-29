@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If we look at the world with a love of life, the world will reveal its beauty to us.”</i><br/>
-  — Daisaku Ikeda
+  <i>“But at any rate, the point is that God is what nobody admits to being, and everybody really is.”</i><br/>
+  — Alan Watts
 </p>
 </div>
 
