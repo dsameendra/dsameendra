@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“But at any rate, the point is that God is what nobody admits to being, and everybody really is.”</i><br/>
-  — Alan Watts
+  <i>“One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.”</i><br/>
+  — Elbert Hubbard
 </p>
 </div>
 
