@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.”</i><br/>
-  — Louis Pasteur
+  <i>“If we look at the world with a love of life, the world will reveal its beauty to us.”</i><br/>
+  — Daisaku Ikeda
 </p>
 </div>
 
