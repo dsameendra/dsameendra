@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Never say there is nothing beautiful in the world anymore. There is always something to make you wonder in the shape of a tree, the trembling of a leaf.”</i><br/>
-  — Albert Schweitzer
+  <i>“Value your friendship. Value your relationships.”</i><br/>
+  — Barbara Bush
 </p>
 </div>
 
