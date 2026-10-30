@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.”</i><br/>
-  — Elbert Hubbard
+  <i>“There is never enough time to do everything, but there is always enough time to do the most important thing.”</i><br/>
+  — Brian Tracy
 </p>
 </div>
 
