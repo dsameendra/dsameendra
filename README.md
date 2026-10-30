@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There is never enough time to do everything, but there is always enough time to do the most important thing.”</i><br/>
-  — Brian Tracy
+  <i>“Never say there is nothing beautiful in the world anymore. There is always something to make you wonder in the shape of a tree, the trembling of a leaf.”</i><br/>
+  — Albert Schweitzer
 </p>
 </div>
 
