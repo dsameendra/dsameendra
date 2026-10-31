@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The greatest achievement of humanity is not its works of art, science, or technology, but the recognition of its own dysfunction.”</i><br/>
-  — Eckhart Tolle
+  <i>“The winner ain't the one with the fastest car it's the one who refuses to lose.”</i><br/>
+  — Dale Earnhardt
 </p>
 </div>
 
