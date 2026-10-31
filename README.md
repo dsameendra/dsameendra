@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Value your friendship. Value your relationships.”</i><br/>
-  — Barbara Bush
+  <i>“The only person who never makes mistakes is the person who never does anything.”</i><br/>
+  — Denis Waitley
 </p>
 </div>
 
