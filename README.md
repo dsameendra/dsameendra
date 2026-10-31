@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The winner ain't the one with the fastest car it's the one who refuses to lose.”</i><br/>
-  — Dale Earnhardt
+  <i>“Let yourself be silently drawn by the stronger pull of what you really love.”</i><br/>
+  — Rumi
 </p>
 </div>
 
