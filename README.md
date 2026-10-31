@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The only person who never makes mistakes is the person who never does anything.”</i><br/>
-  — Denis Waitley
+  <i>“The greatest achievement of humanity is not its works of art, science, or technology, but the recognition of its own dysfunction.”</i><br/>
+  — Eckhart Tolle
 </p>
 </div>
 
