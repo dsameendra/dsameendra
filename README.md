@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The weak can never forgive. Forgiveness is the attribute of the strong.”</i><br/>
-  — Mahatma Gandhi
+  <i>“There is only one happiness in life, to love and be loved.”</i><br/>
+  — George Sand
 </p>
 </div>
 
