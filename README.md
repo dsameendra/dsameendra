@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Love is the only force capable of transforming an enemy into a friend.”</i><br/>
-  — Martin Luther King Jr.
+  <i>“The weak can never forgive. Forgiveness is the attribute of the strong.”</i><br/>
+  — Mahatma Gandhi
 </p>
 </div>
 
