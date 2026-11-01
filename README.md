@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Let yourself be silently drawn by the stronger pull of what you really love.”</i><br/>
-  — Rumi
+  <i>“Love is the only force capable of transforming an enemy into a friend.”</i><br/>
+  — Martin Luther King Jr.
 </p>
 </div>
 
