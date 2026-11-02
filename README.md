@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“There is only one happiness in life, to love and be loved.”</i><br/>
-  — George Sand
+  <i>“People grow through experience if they meet life honestly and courageously. This is how character is built.”</i><br/>
+  — Eleanor Roosevelt
 </p>
 </div>
 
