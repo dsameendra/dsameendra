@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“People grow through experience if they meet life honestly and courageously. This is how character is built.”</i><br/>
-  — Eleanor Roosevelt
+  <i>“Love is composed of a single soul inhabiting two bodies.”</i><br/>
+  — Aristotle
 </p>
 </div>
 
