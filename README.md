@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Aerodynamically the bumblebee shouldn't be able to fly, but the bumblebee doesn't know that, so it goes on flying anyway.”</i><br/>
-  — Mary Kay Ash
+  <i>“If you love life, don't waste time, for time is what life is made up of.”</i><br/>
+  — Bruce Lee
 </p>
 </div>
 
