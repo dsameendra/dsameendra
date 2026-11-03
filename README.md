@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you love life, don't waste time, for time is what life is made up of.”</i><br/>
-  — Bruce Lee
+  <i>“Friendship is an arrangement by which we undertake to exchange small favors for big ones.”</i><br/>
+  — Montesquieu
 </p>
 </div>
 
