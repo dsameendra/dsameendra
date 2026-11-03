@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Love is composed of a single soul inhabiting two bodies.”</i><br/>
-  — Aristotle
+  <i>“Aerodynamically the bumblebee shouldn't be able to fly, but the bumblebee doesn't know that, so it goes on flying anyway.”</i><br/>
+  — Mary Kay Ash
 </p>
 </div>
 
