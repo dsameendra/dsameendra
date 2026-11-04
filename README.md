@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.”</i><br/>
-  — Helen Keller
+  <i>“We read the world wrong and say that it deceives us.”</i><br/>
+  — Rabindranath Tagore
 </p>
 </div>
 
