@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Friendship is an arrangement by which we undertake to exchange small favors for big ones.”</i><br/>
-  — Montesquieu
+  <i>“The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.”</i><br/>
+  — Helen Keller
 </p>
 </div>
 
