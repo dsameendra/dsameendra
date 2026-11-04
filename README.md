@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We read the world wrong and say that it deceives us.”</i><br/>
-  — Rabindranath Tagore
+  <i>“The greatest discovery of our generation is that human beings can alter their lives by altering their attitudes of mind. As you think, so shall you be.”</i><br/>
+  — William James
 </p>
 </div>
 
