@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception; it is a prevailing attitude.”</i><br/>
-  — Colin Powell
+  <i>“Those who will play with cats must expect to be scratched.”</i><br/>
+  — Miguel de Cervantes
 </p>
 </div>
 
