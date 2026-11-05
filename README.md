@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The greatest discovery of our generation is that human beings can alter their lives by altering their attitudes of mind. As you think, so shall you be.”</i><br/>
-  — William James
+  <i>“If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception; it is a prevailing attitude.”</i><br/>
+  — Colin Powell
 </p>
 </div>
 
