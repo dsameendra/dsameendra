@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“You can stand tall without standing on someone. You can be a victor without having victims.”</i><br/>
-  — Harriet Woods
+  <i>“Our strength grows out of our weaknesses.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
