@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Those who will play with cats must expect to be scratched.”</i><br/>
-  — Miguel de Cervantes
+  <i>“To wear your heart on your sleeve isn't a very good plan; you should wear it inside, where it functions best.”</i><br/>
+  — Margaret Thatcher
 </p>
 </div>
 
