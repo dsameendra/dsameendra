@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“To wear your heart on your sleeve isn't a very good plan; you should wear it inside, where it functions best.”</i><br/>
-  — Margaret Thatcher
+  <i>“You can stand tall without standing on someone. You can be a victor without having victims.”</i><br/>
+  — Harriet Woods
 </p>
 </div>
 
