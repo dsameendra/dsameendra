@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A true friend is one who overlooks your failures and tolerates your success!”</i><br/>
-  — Doug Larson
+  <i>“Do not follow where the path may lead. Go, instead, where there is no path and leave a trail.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
