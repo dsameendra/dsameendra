@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Do not follow where the path may lead. Go, instead, where there is no path and leave a trail.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“The most I can do for my friend is simply be his friend.”</i><br/>
+  — Henry David Thoreau
 </p>
 </div>
 
