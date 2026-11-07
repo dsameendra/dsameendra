@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Our strength grows out of our weaknesses.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“A true friend is one who overlooks your failures and tolerates your success!”</i><br/>
+  — Doug Larson
 </p>
 </div>
 
