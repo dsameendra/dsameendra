@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger.”</i><br/>
-  — Epictetus
+  <i>“So much technology, so little talent.”</i><br/>
+  — Vernor Vinge
 </p>
 </div>
 
