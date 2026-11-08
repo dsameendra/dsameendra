@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“So much technology, so little talent.”</i><br/>
-  — Vernor Vinge
+  <i>“It is not only for what we do that we are held responsible, but also for what we do not do.”</i><br/>
+  — Molière
 </p>
 </div>
 
