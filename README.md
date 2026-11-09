@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“A hero is no braver than an ordinary man, but he is braver five minutes longer.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“Choose a job you love, and you will never have to work a day in your life.”</i><br/>
+  — Confucius
 </p>
 </div>
 
