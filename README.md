@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It is not only for what we do that we are held responsible, but also for what we do not do.”</i><br/>
-  — Molière
+  <i>“A hero is no braver than an ordinary man, but he is braver five minutes longer.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
