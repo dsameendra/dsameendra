@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Choose a job you love, and you will never have to work a day in your life.”</i><br/>
-  — Confucius
+  <i>“Unless one is able to live fully in the present, the future is a hoax.”</i><br/>
+  — Alan Watts
 </p>
 </div>
 
