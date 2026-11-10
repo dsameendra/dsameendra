@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Unless one is able to live fully in the present, the future is a hoax.”</i><br/>
-  — Alan Watts
+  <i>“Friendship, like the immortality of the soul, is too good to be believed.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
