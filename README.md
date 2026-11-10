@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Friendship, like the immortality of the soul, is too good to be believed.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“History will be kind to me for I intend to write it.”</i><br/>
+  — Winston Churchill
 </p>
 </div>
 
