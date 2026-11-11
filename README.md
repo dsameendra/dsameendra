@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Always seek out the seed of triumph in every adversity.”</i><br/>
-  — Og Mandino
+  <i>“Technology presumes there's just one right way to do things and there never is.”</i><br/>
+  — Robert M. Pirsig
 </p>
 </div>
 
