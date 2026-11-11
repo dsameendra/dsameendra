@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“History will be kind to me for I intend to write it.”</i><br/>
-  — Winston Churchill
+  <i>“Always seek out the seed of triumph in every adversity.”</i><br/>
+  — Og Mandino
 </p>
 </div>
 
