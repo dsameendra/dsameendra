@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Age does not protect you from love. But love, to some extent, protects you from age.”</i><br/>
-  — Anaïs Nin
+  <i>“Interestingly, according to modern astronomers, space is finite. This is a very comforting thought-- particularly for people who can never remember where they have left things.”</i><br/>
+  — Woody Allen
 </p>
 </div>
 
