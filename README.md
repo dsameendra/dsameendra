@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Technology presumes there's just one right way to do things and there never is.”</i><br/>
-  — Robert M. Pirsig
+  <i>“Age does not protect you from love. But love, to some extent, protects you from age.”</i><br/>
+  — Anaïs Nin
 </p>
 </div>
 
