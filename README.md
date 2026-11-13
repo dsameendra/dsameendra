@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Age does not protect you from love. But love, to some extent, protects you from age.”</i><br/>
-  — Anaïs Nin
+  <i>“To be wrong is nothing unless you continue to remember it.”</i><br/>
+  — Confucius
 </p>
 </div>
 
