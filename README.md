@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Be the chief but never the lord.”</i><br/>
-  — Laozi
+  <i>“The grand essentials of happiness are: something to do, something to love, and something to hope for.”</i><br/>
+  — Alexander Chalmers
 </p>
 </div>
 
