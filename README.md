@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“To be wrong is nothing unless you continue to remember it.”</i><br/>
-  — Confucius
+  <i>“Be the chief but never the lord.”</i><br/>
+  — Laozi
 </p>
 </div>
 
