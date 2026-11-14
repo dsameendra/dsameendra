@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The grand essentials of happiness are: something to do, something to love, and something to hope for.”</i><br/>
-  — Alexander Chalmers
+  <i>“Good, better, best. Never let it rest. ‘Til your good is better and your better is best.”</i><br/>
+  — Jerome
 </p>
 </div>
 
