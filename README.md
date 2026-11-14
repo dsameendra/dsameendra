@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Most people never run far enough on their first wind to find out they've got a second.”</i><br/>
-  — William James
+  <i>“Wisdom is the supreme part of happiness.”</i><br/>
+  — Sophocles
 </p>
 </div>
 
