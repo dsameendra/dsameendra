@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Our most intimate friend is not he to whom we show the worst, but the best of our nature.”</i><br/>
-  — Nathaniel Hawthorne
+  <i>“Great indeed is the sublimity of the Creative, to which all beings owe their beginning, and which permeates all heaven.”</i><br/>
+  — Laozi
 </p>
 </div>
 
