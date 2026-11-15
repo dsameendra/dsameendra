@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Wisdom is the supreme part of happiness.”</i><br/>
-  — Sophocles
+  <i>“Without hard work, nothing grows but weeds.”</i><br/>
+  — Gordon Hinckley
 </p>
 </div>
 
