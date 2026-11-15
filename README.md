@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Without hard work, nothing grows but weeds.”</i><br/>
-  — Gordon Hinckley
+  <i>“Our most intimate friend is not he to whom we show the worst, but the best of our nature.”</i><br/>
+  — Nathaniel Hawthorne
 </p>
 </div>
 
