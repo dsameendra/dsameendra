@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Self-trust is the first secret of success.”</i><br/>
-  — Ralph Waldo Emerson
+  <i>“Sadness flies away on the wings of time.”</i><br/>
+  — Jean de La Fontaine
 </p>
 </div>
 
