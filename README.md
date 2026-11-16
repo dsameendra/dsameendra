@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Great indeed is the sublimity of the Creative, to which all beings owe their beginning, and which permeates all heaven.”</i><br/>
-  — Laozi
+  <i>“Self-trust is the first secret of success.”</i><br/>
+  — Ralph Waldo Emerson
 </p>
 </div>
 
