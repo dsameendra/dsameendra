@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“In friendship as well as love, ignorance very often contributes more to our happiness than knowledge.”</i><br/>
-  — François de La Rochefoucauld
+  <i>“When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger.”</i><br/>
+  — Epictetus
 </p>
 </div>
 
