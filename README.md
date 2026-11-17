@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Sadness flies away on the wings of time.”</i><br/>
-  — Jean de La Fontaine
+  <i>“In friendship as well as love, ignorance very often contributes more to our happiness than knowledge.”</i><br/>
+  — François de La Rochefoucauld
 </p>
 </div>
 
