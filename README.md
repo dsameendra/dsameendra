@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Happiness is when what you think, what you say, and what you do are in harmony.”</i><br/>
-  — Mahatma Gandhi
+  <i>“Knowing is not enough; we must apply. Willing is not enough; we must do.”</i><br/>
+  — Johann Wolfgang von Goethe
 </p>
 </div>
 
