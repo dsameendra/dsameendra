@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Knowing is not enough; we must apply. Willing is not enough; we must do.”</i><br/>
-  — Johann Wolfgang von Goethe
+  <i>“No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit.”</i><br/>
+  — Helen Keller
 </p>
 </div>
 
