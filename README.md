@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“We are Divine enough to ask and we are important enough to receive.”</i><br/>
-  — Wayne Dyer
+  <i>“Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.”</i><br/>
+  — Blaise Pascal
 </p>
 </div>
 
