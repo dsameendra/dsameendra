@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.”</i><br/>
-  — Blaise Pascal
+  <i>“Failure doesn't mean you are a failure it just means you haven't succeeded yet.”</i><br/>
+  — Robert Schuller
 </p>
 </div>
 
