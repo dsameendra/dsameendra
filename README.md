@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away.”</i><br/>
-  — John Steinbeck
+  <i>“I walk slowly, but I never walk backward.”</i><br/>
+  — Abraham Lincoln
 </p>
 </div>
 
