@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“I walk slowly, but I never walk backward.”</i><br/>
-  — Abraham Lincoln
+  <i>“The more light you allow within you, the brighter the world you live in will be.”</i><br/>
+  — Shakti Gawain
 </p>
 </div>
 
