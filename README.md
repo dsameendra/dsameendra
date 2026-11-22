@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Never apologize for showing feeling. When you do so, you apologize for truth.”</i><br/>
-  — Benjamin Disraeli
+  <i>“To be wrong is nothing unless you continue to remember it.”</i><br/>
+  — Confucius
 </p>
 </div>
 
