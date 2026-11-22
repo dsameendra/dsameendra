@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The more light you allow within you, the brighter the world you live in will be.”</i><br/>
-  — Shakti Gawain
+  <i>“The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard.”</i><br/>
+  — Henry David Thoreau
 </p>
 </div>
 
