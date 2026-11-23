@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“To be wrong is nothing unless you continue to remember it.”</i><br/>
-  — Confucius
+  <i>“Life is a learning experience, only if you learn.”</i><br/>
+  — Yogi Berra
 </p>
 </div>
 
