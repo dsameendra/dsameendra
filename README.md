@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Life is a learning experience, only if you learn.”</i><br/>
-  — Yogi Berra
+  <i>“I don't turn to greeting cards for wisdom and advice, but they are a fine reflection of the general drift of the culture.”</i><br/>
+  — Susan Orlean
 </p>
 </div>
 
