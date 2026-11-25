@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Meditation is the dissolution of thoughts in eternal awareness or Pure consciousness without objectification, knowing without thinking, merging finitude in infinity.”</i><br/>
-  — Voltaire
+  <i>“To know oneself is to study oneself in action with another person.”</i><br/>
+  — Bruce Lee
 </p>
 </div>
 
