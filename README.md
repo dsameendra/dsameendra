@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“They blame those who remain silent, they blame those who speak much, they blame those who speak in moderation. There is none in the world who is not blamed.”</i><br/>
-  — The Buddha
+  <i>“It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.”</i><br/>
+  — Epictetus
 </p>
 </div>
 
