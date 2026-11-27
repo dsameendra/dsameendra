@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.”</i><br/>
-  — Samuel Beckett
+  <i>“The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition.”</i><br/>
+  — Honoré de Balzac
 </p>
 </div>
 
