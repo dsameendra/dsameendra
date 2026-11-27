@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.”</i><br/>
-  — Epictetus
+  <i>“Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.”</i><br/>
+  — Samuel Beckett
 </p>
 </div>
 
