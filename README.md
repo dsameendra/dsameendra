@@ -6,8 +6,8 @@
 
 <div id="quote">
 <p align="center" style="font-style: italic;">
-  <i>“The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition.”</i><br/>
-  — Honoré de Balzac
+  <i>“Quality is not an act; it is a habit.”</i><br/>
+  — Aristotle
 </p>
 </div>
 
